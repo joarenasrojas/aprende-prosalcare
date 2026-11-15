@@ -1,0 +1,61 @@
+# Aprende ProSalCare: material de capacitación para familias y TENS.
+# Libro Quarto (requiere Quarto >= 1.8). Ver README.md para generar y publicar.
+project:
+  type: book
+  output-dir: docs
+  resources:
+    - assets/
+
+lang: es
+
+book:
+  title: "Aprende ProSalCare"
+  subtitle: "Capacitación para cuidar en casa"
+  author: "ProSalCare"
+  date: "2026"
+  favicon: assets/logo-icon.png
+  chapters:
+    - index.qmd
+    - part: "Módulos"
+      chapters:
+        - modulos/higiene-de-manos.qmd
+        - modulos/medicamentos.qmd
+        - modulos/signos-vitales-1.qmd
+        - modulos/signos-vitales-2.qmd
+        - modulos/prevencion-de-caidas-1.qmd
+        - modulos/prevencion-de-caidas-2.qmd
+        - modulos/movilizacion-y-transferencia-1.qmd
+        - modulos/movilizacion-y-transferencia-2.qmd
+        - modulos/cuidado-de-la-piel.qmd
+        - modulos/emergencia-y-rescate-1.qmd
+        - modulos/eventos-adversos.qmd
+  sidebar:
+    style: floating
+    logo: assets/logo-icon.png
+  page-navigation: true
+  announcement:
+    content: "**Material en revisión.** Versión de prueba basada en protocolos aún no aprobados. No reemplaza la enseñanza de tu equipo de salud. En una urgencia, llama al 131."
+    type: primary
+    dismissable: false
+    position: below-navbar
+  search: true
+
+format:
+  html:
+    theme: cosmo
+    css:
+      - assets/prosalcare.css
+    include-in-header:
+      text: |
+        <meta name="robots" content="noindex, nofollow">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Playfair+Display:wght@700;800&display=swap">
+    include-after-body:
+      file: assets/interactivos.html
+    toc: true
+    toc-depth: 2
+    toc-title: "En este módulo"
+    number-sections: false
+    fig-align: center
+    link-external-newwindow: true

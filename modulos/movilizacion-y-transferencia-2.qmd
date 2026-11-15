@@ -1,0 +1,201 @@
+---
+title: "Pasar de la cama a la silla"
+subtitle: "Con cinturón de transferencia o con grúa, según lo que la persona puede hacer"
+---
+
+Este es el segundo de dos módulos sobre cómo mover a la persona que cuidas. Estudia primero [Mover a la persona en la cama](movilizacion-y-transferencia-1.qmd): ahí están la postura que protege tu espalda y cómo sentarla al borde de la cama.
+
+::: {.box .esencial}
+[Lo esencial]{.etiqueta}
+
+- Antes de cada traslado: **frenos puestos, calzado puesto y camino despejado**.
+- La silla va **frenada y en ángulo (30 a 45°)** respecto de la cama. Si la persona tiene un lado débil, la silla va **hacia su lado fuerte**.
+- **Nunca tires de la ropa, las axilas ni las muñecas.** Se sujeta desde el cinturón de transferencia.
+- La técnica depende de lo que la persona puede hacer y **la define su plan**: cinturón si se pone de pie y soporta su peso; grúa si no lo soporta o no coopera. **Nunca a pulso.**
+- Si se marea, se pone pálida, suda o se siente mal: **detente, déjala sentada o acostada en un lugar seguro y avisa**.
+- Ante una **emergencia, llama al 131**. ProSalCare no es un servicio de urgencia.
+:::
+
+::: {.box .pendiente}
+Aquí irá el video del módulo (2 a 3 minutos). Todavía no está producido.
+:::
+
+## Cuándo se usa cada técnica
+
+Tu enfermera o enfermero evalúa a la persona y deja la técnica en su plan de movilización. Tú no la eliges: la aplicas como te la enseñaron.
+
+| Lo que la persona puede hacer | Cómo se traslada | Personas |
+|---|---|---|
+| Se pone de pie y **da pasos en el lugar** | Acompañada de cerca; con bastón o andador si están indicados | 1 |
+| Se pone de pie y **soporta su peso al menos unos segundos**, pero no da pasos firmes | **Cinturón de transferencia**, girando con pasos cortos | 1 |
+| Se mantiene sentada, pero **no logra ponerse de pie ni soportar su peso** | **Grúa de traslado** | 1 o 2 |
+| **No se mantiene sentada** al borde de la cama sin apoyo | **Grúa de traslado** con su arnés | 2 |
+
+Si la persona soporta su peso pero no se mantiene firme de pie, existe otra técnica, con una tabla de transferencia. La realiza tu equipo.
+
+## Antes de empezar
+
+- **Frena** la cama y la silla.
+- Ponle **calzado cerrado y antideslizante**. Las pantuflas y las medias no lo reemplazan.
+- **Despeja el camino** entre la cama y la silla, con el suelo seco.
+- Ubica la silla **a 30 a 45° de la cama**. Retira o abate los apoyapiés y, cuando corresponda, el brazo de la silla del lado por donde pasará.
+- **Revisa el equipo**: las costuras del cinturón y del arnés; la batería y el peso máximo que indica la grúa; las gomas del bastón o del andador.
+
+Revisa también cómo está la persona hoy y si tienes la ayuda que pide el plan, como en el módulo anterior.
+
+## Con cinturón de transferencia
+
+El cinturón de transferencia es un cinturón firme que se pone en la cintura de la persona para sujetarla. Esta técnica es solo para quien **se pone de pie y soporta su peso**.
+
+<ol class="pasos">
+<li><span class="paso-txt">**Silla a 30 a 45° de la cama y frenada**, hacia el lado fuerte si la persona tiene un lado débil. Apoyapiés retirados o abatidos.</span></li>
+<li><span class="paso-txt">La persona **sentada al borde de la cama**, con los pies apoyados y el calzado puesto.</span></li>
+<li><span class="paso-txt">**Ajusta el cinturón sobre la cintura**, nunca sobre ropa suelta ni sobre el abdomen. Comprueba que pasen tus dedos entre el cinturón y el cuerpo.</span></li>
+<li><span class="paso-txt">**Ponte frente a ella**, con las rodillas flexionadas bloqueando sus rodillas y la espalda alineada. Toma el cinturón por los costados.</span></li>
+<li><span class="paso-txt">Pídele que **incline el tronco hacia adelante** («nariz sobre los dedos de los pies») y se impulse con los brazos si puede. A la cuenta de tres, ponla de pie.</span></li>
+<li><span class="paso-txt">**Gira dando pasos cortos**, sin torcer el tronco, hasta que la parte de atrás de sus piernas toque la silla.</span></li>
+<li><span class="paso-txt">Pídele que **busque los apoyabrazos** y bájala de forma controlada, flexionando las rodillas.</span></li>
+<li><span class="paso-txt">Comprueba que quede **sentada al fondo de la silla, con los pies apoyados**, cómoda y con sus cosas al alcance.</span></li>
+</ol>
+
+## Con grúa de traslado
+
+Solo si hay una grúa en la casa y tu equipo ya te enseñó a usarla. Es para quien **no soporta su peso o no coopera**. La grúa levanta a la persona con un arnés de tela, que se llama eslinga.
+
+<ol class="pasos">
+<li><span class="paso-txt">**Revisa el equipo**: el peso máximo que indican la grúa y el arnés es mayor que el peso de la persona, la batería está cargada y el arnés no tiene costuras dañadas.</span></li>
+<li><span class="paso-txt">**Pon el arnés** girando a la persona hacia cada lado. Va desde los hombros hasta detrás de las rodillas; con apoyo para la cabeza si no la sostiene sola.</span></li>
+<li><span class="paso-txt">**Acerca la grúa con la base abierta.** Frénala solo cuando el fabricante lo indique. Baja el brazo y conecta las cintas parejas: el mismo largo a cada lado.</span></li>
+<li><span class="paso-txt">**Sube lentamente** hasta que se despegue de la cama. Haz una pausa para que se acomode y confirma que lo tolera.</span></li>
+<li><span class="paso-txt">**Lleva la grúa lentamente** hasta la silla. Cuando haya dos personas, una guía el cuerpo y la otra conduce la grúa.</span></li>
+<li><span class="paso-txt">**Baja de forma controlada**, acomoda la pelvis al fondo del asiento, desconecta las cintas y retira el arnés. Se deja puesto solo si no daña la piel.</span></li>
+</ol>
+
+## En el baño
+
+Para pasar al inodoro o a la silla de ducha valen las mismas reglas (frenos, calzado, ángulo, lado fuerte) y la misma técnica del plan.
+
+- Usa el **alza de inodoro y las barras** cuando existan. Nunca uses toalleros, el lavamanos ni la cortina como apoyo.
+- **Prepara la ropa antes** de empezar, para que pase menos tiempo de pie.
+- En la ducha, pásala a la silla de ducha **con el piso seco, antes de abrir el agua**. Seca el piso antes de sacarla.
+
+## Si algo cambia durante el traslado
+
+| Si… | Entonces… |
+|---|---|
+| Tiene **mareo, palidez, sudoración, dolor de pecho, debilidad repentina o desorientación** | Detente. Déjala sentada o acostada en un lugar seguro. Si hay alguna señal de la lista del 131, llama. Después, avisa a tu equipo |
+| **Se cae** durante la maniobra | No la levantes de inmediato. Si hay alguna señal de la lista del 131, llama y no la muevas. Avisa a tu equipo siempre, aunque parezca que no le pasó nada |
+| El plan pide **dos personas** y no las hay | Posterga y avisa |
+
+## Si la persona tiene…
+
+| Situación | Qué cuidar |
+|---|---|
+| **Un lado débil** después de un accidente cerebrovascular | Nunca tires del brazo débil: puede dañarse el hombro. La silla va hacia el lado fuerte. Tú te pones del lado débil y le afirmas esa rodilla |
+| **Operación reciente de cadera** (prótesis) | Sigue siempre las indicaciones de su traumatólogo. Mientras no haya otra indicación: que no doble la cadera más de 90°, que no cruce las piernas y que no gire la pierna hacia adentro; asiento alto y alza de inodoro; almohada entre las rodillas al dormir; al sentarse o pararse, la pierna operada va extendida hacia adelante |
+| **Parkinson** | Si se queda «pegada» al caminar, no tires de su brazo: lo empeora. Cuenta en voz alta o marca el paso. Anticipa los giros, las puertas y los espacios estrechos. Prefiere moverla en los momentos del día en que se mueve mejor, según el horario de sus medicamentos |
+| **Demencia con agitación** | Una instrucción a la vez, con tono calmado y mirándola a los ojos. Acoge lo que siente y redirige, sin enfrentarla. Fíjate en qué la altera (dolor, ruido, ganas de orinar). Evita los momentos de mayor agitación. No se usan amarras ni sujeciones como rutina |
+| **Mucho peso** (obesidad severa) | Revisa el peso máximo de la cama, la silla, la grúa y el arnés antes de moverla. Más personas, según el plan. Cuida la piel de los pliegues durante y después |
+| **Cuidados paliativos** | Lo primero es su comodidad y su dignidad: los movimientos mínimos que le den alivio, de acuerdo con la familia y el equipo tratante |
+| **Sonda, vía, drenaje u oxígeno** | Asegúralos antes. Que una persona esté a cargo de vigilarlos. Al terminar, comprueba que sigan conectados y funcionando |
+
+## Al terminar
+
+- Déjala **cómoda, alineada y segura**, con el timbre, agua y sus cosas al alcance.
+- **Revisa la piel** de las zonas donde estuvo apoyada.
+- Limpia y guarda el equipo, y **lávate las manos**.
+- **Anota la maniobra en RegisCare**, en tu vista de cuidador.
+
+## Errores frecuentes
+
+::: {.box .nunca}
+- **Tirar de la ropa, las axilas o las muñecas** en vez de sujetar desde el cinturón.
+- **Olvidar los frenos** de la cama o de la silla.
+- Trasladarla **con pantuflas o medias**.
+- Poner el cinturón **sobre ropa suelta o sobre el abdomen**.
+- **Torcer el tronco** en vez de girar con pasos cortos.
+- Conectar las cintas de la grúa **disparejas**.
+:::
+
+## Cuándo avisar a tu equipo de ProSalCare
+
+::: {.box .nunca}
+**ProSalCare no es un servicio de urgencia.** Si la persona está en riesgo, llama al **131** o llévala a un servicio de urgencia. Si en ese momento no hay una TENS de ProSalCare de turno en tu casa, la primera respuesta depende de ti y de los servicios de urgencia. Avisar a tu equipo sirve para que tu enfermera o enfermero lo sepa y lo considere en el plan de cuidados; no reemplaza la atención de urgencia.
+:::
+
+::: {.box .avisar}
+**Llama al 131 o llévala a un servicio de urgencia** si, durante una maniobra o después de una caída, la persona tiene alguna de estas señales. Después, avisa a tu equipo:
+
+- Perdió el conocimiento, aunque sea un momento.
+- Se golpeó la cabeza.
+- Tiene una extremidad deformada, un dolor muy fuerte, o **no puede mover una articulación o cargar su peso** y antes sí podía.
+- Sangra mucho o el sangrado no se detiene.
+- Le cuesta respirar, o tiene dolor de pecho o palpitaciones que antes no tenía.
+- Está confundida o desorientada y antes no lo estaba.
+
+Si sospechas una fractura o una lesión en la cabeza o en la columna, **no la muevas**.
+:::
+
+::: {.box .avisar}
+**Avisa de inmediato a tu equipo** si:
+
+- La persona **se cayó durante una maniobra**, aunque parezca que no le pasó nada.
+- Tuvo **mareo intenso, palidez o sudor frío** al sentarla o ponerla de pie.
+- Tiene un **dolor nuevo en la cadera, la espalda, la rodilla o el hombro** después de una maniobra, sobre todo si fue operada hace poco.
+- El **brazo del lado débil** por un accidente cerebrovascular está más caído, le duele o «cuelga».
+- Se **desconectó una sonda, una vía o el oxígeno** durante el traslado.
+- Tiene la **piel enrojecida o con una ampolla** después de la maniobra.
+- **A ti** te duele la espalda y el dolor no pasa.
+:::
+
+## Comprueba lo que aprendiste
+
+<div class="quiz">
+<fieldset data-ok="2" data-por="La silla va frenada, a 30 a 45° de la cama y hacia el lado fuerte de la persona.">
+<legend>La persona tiene débil el lado izquierdo. ¿Dónde pones la silla?</legend>
+<label><input type="radio"> Frente a la cama, a un metro</label>
+<label><input type="radio"> En ángulo, hacia su lado izquierdo</label>
+<label><input type="radio"> Frenada, en ángulo, hacia su lado derecho</label>
+</fieldset>
+<fieldset data-ok="0" data-por="Se sujeta desde el cinturón de transferencia. Nunca desde la ropa, las axilas ni las muñecas.">
+<legend>¿De dónde sujetas a la persona para ponerla de pie?</legend>
+<label><input type="radio"> Del cinturón de transferencia, por los costados</label>
+<label><input type="radio"> De las axilas</label>
+<label><input type="radio"> De las muñecas</label>
+</fieldset>
+<fieldset data-ok="1" data-por="A quien no soporta su propio peso no se le levanta a pulso, ni siquiera entre dos. Corresponde grúa; si no la hay, se posterga y se avisa.">
+<legend>La persona no logra soportar su peso y no hay grúa en la casa. ¿Qué haces?</legend>
+<label><input type="radio"> La levanto a pulso con ayuda de un familiar</label>
+<label><input type="radio"> No la traslado a mano: postergo y aviso al equipo</label>
+<label><input type="radio"> Uso el cinturón y hago más fuerza</label>
+</fieldset>
+<fieldset data-ok="2" data-por="Tras una caída no se levanta de inmediato. Con señales de gravedad se llama al 131 y no se mueve; y siempre se avisa al equipo.">
+<legend>Durante el traslado la persona se cae al suelo. ¿Qué haces primero?</legend>
+<label><input type="radio"> La levanto rápido y la siento</label>
+<label><input type="radio"> Espero a ver si se queja</label>
+<label><input type="radio"> No la levanto de inmediato; reviso si hay señales para llamar al 131 y aviso</label>
+</fieldset>
+<fieldset data-ok="1" data-por="Calzado cerrado y antideslizante en todo traslado. Las pantuflas y las medias no lo reemplazan.">
+<legend>¿Qué debe tener puesto en los pies para el traslado?</legend>
+<label><input type="radio"> Medias, para que deslice</label>
+<label><input type="radio"> Calzado cerrado y antideslizante</label>
+<label><input type="radio"> Pantuflas</label>
+</fieldset>
+</div>
+
+## Si eres TENS
+
+::: {.box .tens}
+[Además de lo anterior]{.etiqueta}
+
+- **Técnica según nivel de asistencia:** nivel 1 (dependencia total), grúa con eslinga y dos personas; nivel 2 (asistencia máxima), grúa de traslado o de bipedestación si existe, una o dos personas; nivel 3 (asistencia moderada), cinturón con pivote, tabla si la bipedestación no es estable, disco giratorio en espacios estrechos; nivel 4 (supervisión), supervisión cercana y deambulación asistida según PSC-PROT-003 (§ 8.2.3).
+- **Tabla de transferencia** (nivel 3 sin bipedestación estable): superficies a la misma altura, silla frenada a 30° y brazo retirado; tabla bajo el glúteo próximo a la silla, con el otro extremo firme en el asiento; manos del paciente sobre la tabla o el cuerpo, nunca en los bordes; deslizamiento por etapas cortas guiando desde el cinturón, sin traccionar de los brazos; retirar la tabla inclinando al lado contrario.
+- **Reglas de escalamiento**, cualquiera sea el nivel: paciente que no coopera o es impredecible (agitación, sedación, confusión), LPP en la zona de apoyo, un solo operador cuando el plan exige dos, o esfuerzo sobre los límites seguros obligan a subir de técnica, sumar una persona o postergar.
+- **Intolerancia o caída:** detén la maniobra y deja al paciente en lugar seguro. Ante una caída, no lo incorpores de inmediato: manejo post-caída de PSC-PROT-003 (§ 8.2.5) y, con criterios de gravedad, protocolo de rescate PSC-PROT-005. Post-trauma con sospecha de fractura, TEC o lesión espinal: no movilizar.
+- **Precauciones clínicas:** en hemiparesia, operador del lado afectado estabilizando la rodilla; en afasia, instrucciones simples y demostración. En prótesis de cadera rige la pauta del traumatólogo tratante; las restricciones clásicas de la vía posterior (6 a 12 semanas) son solo resguardo mientras no exista. Sin contención mecánica de rutina (Ley 21.331).
+- **Registro:** técnica y equipo usados, tolerancia, estado del equipo y eventos en RegisCare; falla de equipo, caída o lesión del operador o cuidador, en AlertaCARE. Deriva al gestor o gestora de caso la sospecha de subluxación de hombro o de luxación protésica.
+:::
+
+::: {.origen}
+Basado en el protocolo institucional **PSC-PROT-007, Movilización y Transferencia en Domicilio**, versión 0.0, iteración 2026-09. Módulo 2 de 2, elaborado por ProSalCare; borrador del 15 de noviembre de 2026. Este material acompaña la enseñanza de tu equipo y no la reemplaza.
+:::

@@ -1,0 +1,283 @@
+---
+title: "Cuando algo sale mal: avisa"
+subtitle: "Qué es un evento adverso, qué hacer si ocurre uno y por qué avisar siempre es correcto"
+---
+
+::: {.box .esencial}
+[Lo esencial]{.etiqueta}
+
+- Un **evento adverso** es un daño no intencional que la persona sufre a causa de la atención que recibe, y no de su enfermedad.
+- **Avisa siempre**: aunque no haya habido daño, aunque el error se haya evitado a tiempo, aunque tengas dudas. **Avisar siempre es correcto.**
+- Tienes **dos caminos**: decírselo a la TENS o a tu enfermera o enfermero, o reportarlo desde **tu vista de cuidador en RegisCare**. Tu aviso vale lo mismo que el de un profesional.
+- **Avisar no trae castigo.** Se avisa para aprender, no para buscar culpables.
+- Tienes **derecho a que te informen** de todo evento adverso, sin importar el tamaño del daño.
+- **Primero la persona, después el aviso.** Ante una **emergencia, llama al 131**. ProSalCare no es un servicio de urgencia.
+:::
+
+::: {.box .pendiente}
+Aquí irá el video del módulo (2 a 3 minutos). Todavía no está producido.
+:::
+
+## Por qué importa tu aviso
+
+La TENS está en tu casa por turnos. El resto del tiempo, el cuidado lo sostienes tú. Muchas cosas solo las ve la familia.
+
+Lo que no se avisa, no se ve y no se aprende. Por eso tu aviso es valioso: entra al mismo proceso que el de cualquier persona del equipo.
+
+## Cuándo avisar: qué cuenta como incidente
+
+No hace falta que haya daño. Se avisa todo esto, ocurra durante un turno o entre un turno y otro:
+
+| Qué pasó | Qué incluye |
+|---|---|
+| **Una caída** | Con o sin lesión |
+| **Una lesión por presión en la piel** | Nueva o que empeoró, incluidas las que causa un dispositivo |
+| **Algo con los medicamentos** | Un error, con o sin daño, o una reacción a un medicamento |
+| **Una complicación con un dispositivo** | Sondas, ostomías, traqueostomía, oxígeno, o un equipo que falla |
+| **Algo al mover o trasladar a la persona** | También si quien se lesionó fuiste tú o alguien del equipo |
+| **Un trato que no corresponde** | Trato no digno, o que no se respete la intimidad o la dignidad de la persona |
+| **Una emergencia** | Toda emergencia se registra, con el orden y las horas de lo que pasó |
+| **Algo que casi pasó** | Un error que se alcanzó a evitar a tiempo, o que ocurrió sin causar daño |
+| **Algo inseguro en la casa** | Por ejemplo, una escalera sin pasamanos, o un refrigerador que no enfría donde se guarda la insulina |
+
+La lista no está completa: **todo incidente se avisa**.
+
+## Antes de empezar
+
+- Ubica **tus dos caminos para avisar**: tu vista de cuidador en RegisCare, y la TENS o tu enfermera o enfermero.
+- Las **señales de alarma de cada cuidado** están en el módulo de ese cuidado. Este módulo trata de qué hacer después de que algo pasó.
+- Si dudas de si algo es un incidente, la regla es una sola: **avisa**.
+
+## Si pasa algo
+
+<ol class="pasos">
+<li><span class="paso-txt">**Atiende primero a la persona.** El aviso viene después.</span></li>
+<li><span class="paso-txt">Si está en riesgo, **llama al 131** o llévala a un servicio de urgencia.</span></li>
+<li><span class="paso-txt">Después, **avisa a tu equipo**: díselo a la TENS o a tu enfermera o enfermero, o repórtalo desde tu vista de cuidador en RegisCare.</span></li>
+</ol>
+
+## ¿Aviso o no aviso?
+
+| Situación | Qué hacer |
+|---|---|
+| Hubo daño | **Avisa** |
+| No hubo daño | **Avisa igual** |
+| El error se alcanzó a evitar | **Avisa igual**: es la oportunidad de aprender sin que nadie salga dañado |
+| Viste algo inseguro en la casa | **Avisa**, aunque todavía no haya pasado nada |
+| Pasó cuando no había una TENS en la casa | **Avisa**: lo que ocurre entre un turno y otro también cuenta |
+| No sabes si es un incidente | **Avisa**: avisar siempre es correcto |
+
+## Qué pasa después de tu aviso
+
+- **Recibes una respuesta.** Tu aviso no queda sin contestar.
+- Queda registrado con un **número de folio**, igual que el de un profesional.
+- Tu enfermera o enfermero lo revisa y lo clasifica, por gravedad y por tipo, **dentro de las 24 horas** siguientes al registro.
+- Se analiza **qué pasó, por qué pasó, qué influyó y qué se cambia**. Pueden invitarte a esa conversación cuando lo que sabes sirve y participar no te agrega carga.
+- Lo que se decide cambiar queda con **responsable y plazo**. Puede incluir ajustes al plan de cuidados o enseñanza adicional para ti.
+- Al cierre, **te cuentan el resultado**.
+
+Después de una emergencia, el equipo conversa contigo sobre lo ocurrido dentro de las 72 horas.
+
+## Avisar no trae castigo
+
+- Los errores humanos son esperables. Lo que daña a las personas es no aprender de ellos.
+- El análisis busca **qué falló en la forma de trabajar**, no culpables.
+- La revisión que hace ProSalCare evalúa a su equipo. **Nunca te evalúa a ti ni a la persona que cuidas.**
+- Lo que el equipo aprende se comparte sin nombres: qué se aprendió y qué cambia, nunca quién se equivocó.
+
+## Tu derecho a saber
+
+- Tienes derecho a que te informen de **todo evento adverso**, sin importar la magnitud del daño. Lo establece la ley de derechos y deberes de los pacientes (Ley 20.584).
+- Primero te avisan **que ocurrió y que se va a analizar**. Al cierre, te informan el resultado.
+- La conversación debe ser honesta: reconocer lo ocurrido y explicarte qué se está haciendo para investigarlo y para que no se repita.
+- Si el daño fue severo, la conversación la conduce tu enfermera o enfermero junto con la dirección clínica, en coordinación con el médico tratante.
+- El reporte de un evento es un dato de salud y se guarda con resguardo. Tienes derecho a acceder a tus datos, a corregirlos, a pedir que se eliminen, a oponerte a su uso y a llevártelos.
+
+## Errores frecuentes
+
+::: {.box .nunca}
+- **Callar porque «no pasó nada».** Lo que casi pasó se avisa igual.
+- **Callar por miedo a que culpen a alguien.** Se avisa para aprender, no para castigar.
+- **Esperar a estar seguro** de que fue un incidente. Ante la duda, avisa.
+- **Pensar que solo cuenta lo que pasa durante el turno.** Lo que ocurre entre turnos también se avisa.
+- **Avisar antes de atender.** Primero la persona; después el aviso.
+:::
+
+## Cuándo avisar a tu equipo de ProSalCare
+
+::: {.box .nunca}
+**ProSalCare no es un servicio de urgencia.** Si la persona está en riesgo, llama al **131** o llévala a un servicio de urgencia. Si en ese momento no hay una TENS de ProSalCare de turno en tu casa, la primera respuesta depende de ti y de los servicios de urgencia. Avisar a tu equipo sirve para que tu enfermera o enfermero lo sepa y lo considere en el plan de cuidados; no reemplaza la atención de urgencia.
+:::
+
+::: {.box .avisar}
+**Llama al 131** si la persona está en riesgo. Las señales de alarma de cada cuidado están en el módulo de ese cuidado. Después, avisa a tu equipo.
+:::
+
+::: {.box .avisar}
+**Avisa a tu equipo** cuando:
+
+- La persona sufrió **un daño** durante un cuidado, aunque parezca leve.
+- Hubo **un error con un medicamento**, aunque no se note ningún daño.
+- Hubo **una emergencia**.
+- Viste o viviste **un trato no digno**.
+- **Casi ocurre** un error, o ves **algo inseguro** en la casa.
+- **Tienes dudas** de si algo es un incidente.
+:::
+
+## Comprueba lo que aprendiste
+
+<div class="quiz">
+<fieldset data-ok="1" data-por="Lo que casi pasó se avisa igual: es la oportunidad de aprender sin que nadie salga dañado.">
+<legend>Ibas a dar un medicamento equivocado y te diste cuenta a tiempo. No hubo daño. ¿Qué haces?</legend>
+<label><input type="radio"> Nada, porque no pasó nada</label>
+<label><input type="radio"> Aviso igual al equipo</label>
+<label><input type="radio"> Aviso solo si vuelve a pasar</label>
+</fieldset>
+<fieldset data-ok="0" data-por="Primero la persona: si está en riesgo, 131 o servicio de urgencia. El aviso al equipo va después y no reemplaza la atención de urgencia.">
+<legend>Ocurrió un incidente y la persona está en riesgo. ¿Qué haces primero?</legend>
+<label><input type="radio"> Llamo al 131 o la llevo a un servicio de urgencia</label>
+<label><input type="radio"> Lo reporto en RegisCare</label>
+<label><input type="radio"> Espero a que llegue la TENS del próximo turno</label>
+</fieldset>
+<fieldset data-ok="2" data-por="Tienes dos caminos: decírselo a la TENS o a tu enfermera o enfermero, o reportarlo desde tu vista de cuidador en RegisCare.">
+<legend>¿Cómo puedes avisar de un incidente?</legend>
+<label><input type="radio"> Solo por escrito, en un formulario de papel</label>
+<label><input type="radio"> Solo puede avisar la TENS</label>
+<label><input type="radio"> Diciéndoselo al equipo o desde mi vista de RegisCare</label>
+</fieldset>
+<fieldset data-ok="1" data-por="Se avisa para aprender, no para castigar. El análisis busca qué falló en la forma de trabajar, no culpables.">
+<legend>Dudas en avisar porque temes que culpen a alguien. ¿Qué dice ProSalCare?</legend>
+<label><input type="radio"> Que es mejor no avisar si el daño fue leve</label>
+<label><input type="radio"> Que se avisa para aprender, no para castigar</label>
+<label><input type="radio"> Que el aviso sirve para encontrar al culpable</label>
+</fieldset>
+<fieldset data-ok="0" data-por="Tienes derecho a que te informen de todo evento adverso, sin importar la magnitud del daño.">
+<legend>Durante un turno ocurrió un evento adverso con un daño leve. ¿Deben informarte?</legend>
+<label><input type="radio"> Sí, siempre, sin importar el tamaño del daño</label>
+<label><input type="radio"> Solo si el daño fue grave</label>
+<label><input type="radio"> Solo si yo pregunto</label>
+</fieldset>
+</div>
+
+## Si eres TENS
+
+::: {.box .tens}
+[Además de lo anterior]{.etiqueta}
+
+**Antes del turno**
+
+- Conoce el protocolo y sus plazos. Mantén vigentes tus credenciales individuales de RegisCare.
+- Al inicio del turno, verifica que tienes acceso al botón **«Reportar evento»** (está en el turno activo, en la ficha del paciente y en el menú principal).
+- Conoce los eventos posibles del plan de cuidados de tu paciente: son las secciones 9.2 de los protocolos que le aplican.
+- Ante la duda de si algo es un incidente, **la regla es reportar**.
+
+**Tu obligación**
+
+- Notificas **todo incidente que detectes, presencies o conozcas**: con daño, sin daño, casi-errores y condiciones inseguras del domicilio.
+- Todo lo que te reporte la familia va a la enfermera o enfermero gestor de caso. **No filtras** qué «merece» ser evento.
+- El reporte del cuidador vale lo mismo que el de un profesional y **recibe respuesta**.
+
+**Los seis pasos de la notificación**
+
+1. **Atiende primero al paciente.** Resuelve la situación clínica según el protocolo específico. Con criterios de gravedad, activa el protocolo de rescate (PSC-PROT-005); con riesgo vital, 131 sin demora.
+2. **Avisa de inmediato**, por el canal más rápido, a la enfermera o enfermero gestor de caso cuando el incidente produjo daño o puso en riesgo al paciente.
+3. **Registra el evento en AlertaCARE** desde RegisCare: tipo, fecha, hora y lugar en el domicilio, personas presentes (por rol), relato factual, acciones inmediatas y si se informó a la familia.
+4. **Redacta sin juicios ni culpas**: qué se observó, qué se hizo, qué factores estaban presentes. Las personas se identifican por rol; nombres propios de terceros, solo lo estrictamente necesario (Ley 21.719).
+5. **Informa al paciente y a la familia** que el evento ocurrió y que será analizado (Ley 20.584), y deja constancia del aviso inicial. La conversación de resultados corresponde al cierre.
+6. **Ejecuta las conductas post-evento** del protocolo de origen (tabla más abajo).
+
+**Plazos**
+
+- **Aviso inmediato** ante daño o riesgo.
+- **Registro completo en 24 horas o menos** desde el evento o desde su detección. Los casi-errores y las condiciones inseguras, en el mismo plazo.
+- **Sin conectividad:** el aviso verbal a la enfermera o enfermero gestor de caso no se difiere; completa el registro apenas recuperes el acceso, siempre dentro de las 24 horas. No hay formularios en papel.
+- Si el reporte involucra a un compañero o a un superior, puedes activar la **marca de identidad reservada**: tu identidad queda visible solo para la capa institucional.
+
+**Aviso inmediato a la enfermera o enfermero gestor de caso, además del registro**
+
+- Todo evento con daño al paciente.
+- Todo evento con riesgo vital o activación de emergencia (PSC-PROT-005).
+- Sospecha de evento centinela.
+- Error de medicación, aunque no haya daño aparente (vigilancia posterior según el fármaco, PSC-PROT-010).
+- Evento adverso ético.
+
+**También derivas a la enfermera o enfermero gestor de caso**
+
+- Tus dudas sobre si un hecho constituye un incidente.
+- Señales de sobrecarga o angustia del cuidador tras un evento.
+- Tu propia necesidad de contención o la de tu equipo (segunda víctima).
+
+**Conductas post-evento por protocolo de origen**
+
+| Evento | Protocolo | Además del registro en 24 horas o menos |
+|---|---|---|
+| Caída, con o sin lesión | PSC-PROT-003 | Evaluación post-caída inmediata; reaplicación de Downton en EINCARE en 24 horas o menos |
+| LPP nueva o agravada, incluida por dispositivo | PSC-PROT-002 | Aviso inmediato; la enfermera o enfermero gestor reaplica Braden y define la intervención |
+| Error de medicación, con o sin daño, o reacción adversa | PSC-PROT-010 | Aviso inmediato si hay daño o riesgo; CITUC 22 247 3600 ante intoxicación |
+| Complicación de sondas u ostomías (retiro accidental, obstrucción, infección, broncoaspiración) | PSC-PROT-008 | Aviso inmediato |
+| Complicación de traqueostomía u oxigenoterapia; falla de equipos | PSC-PROT-011 | Aviso inmediato; las fallas de dispositivos suman tecnovigilancia (ISP) |
+| Evento en movilización o transferencia, incluida la lesión del operador o del cuidador | PSC-PROT-007 | La lesión del personal, además, según Ley 16.744 |
+| Activación de emergencia | PSC-PROT-005 | Cronología en RegisCare y evento en AlertaCARE; debriefing con el cuidador en 72 horas o menos |
+| Evento adverso ético (trato no digno, vulneración de intimidad o confidencialidad) | Transversal | Aviso inmediato |
+
+Solo con registro en 24 horas o menos: eventos durante higiene o aseo (PSC-PROT-001), asociados al entorno o a productos de limpieza (PSC-PROT-004), asociados a incontinencia (PSC-PROT-006), transmisión cruzada o reacción asociada a higiene de manos (PSC-PROT-009), incidentes en control de signos vitales (PSC-PROT-013), en evaluación de salud oral (PSC-PROT-014), deterioro clínico detectado o respondido tardíamente (PSC-PROT-015), y casi-errores o condiciones inseguras del domicilio (PSC-PROT-012).
+
+**Qué pasa con tu reporte**
+
+- **Clasificación:** la enfermera o enfermero gestor de caso lo clasifica en FaroCARE por severidad y por tipo, dentro de las 24 horas siguientes al registro, y ajusta la clasificación si aparece nueva información. Verifica que la cadena de notificación esté completa: médico tratante informado cuando el evento afecta el plan terapéutico, y familia informada siempre.
+- **Análisis:** su profundidad depende de la severidad. Casi-errores y eventos sin daño o con daño leve: análisis de causa simple contigo y, cuando aplica, con el cuidador, en una conversación estructurada dentro de la misma semana. Daño moderado o severo: análisis con el equipo del paciente y el equipo de calidad. Evento centinela: análisis formal del equipo de calidad con la dirección clínica.
+- **Acciones correctivas:** cada una con responsable único y plazo. Priman las que modifican el sistema sobre las que dependen de la memoria de las personas. Pueden cambiar la pauta de tu turno o sumar educación al cuidador, que documentas en RegisCare. Su seguimiento pasa al Programa de Calidad (PSC-CAL-001).
+- **Aprendizaje:** se difunde al equipo en forma anonimizada: qué se aprendió y qué cambia, nunca quién se equivocó.
+- **Cierre:** el evento se cierra cuando el registro está completo y clasificado, el análisis está documentado, las acciones fueron implementadas o quedaron con seguimiento activo, la familia recibió la información de cierre y **tú conociste el resultado de tu reporte**. Puede reabrirse ante recurrencia o nueva información.
+
+**Escala de severidad (la aplica la enfermera o enfermero gestor de caso)**
+
+| Nivel | Etiqueta | Descripción |
+|---|---|---|
+| 0 | Casi-error o sin daño | No alcanzó al paciente, o lo alcanzó sin daño. Incluye condiciones inseguras |
+| 1 | Daño leve | Daño temporal menor; no requiere intervención adicional, o solo vigilancia |
+| 2 | Daño moderado | Requiere intervención (consulta médica adicional, traslado a urgencia ambulatoria); recuperación esperada |
+| 3 | Daño severo | Requiere hospitalización, produce daño permanente o exige intervención para sustentar la vida |
+| 4 | Muerte | Muerte a la que el incidente contribuyó |
+
+**Eventos centinela en domicilio**
+
+Ante la sospecha de cualquiera de estos, avisa de inmediato:
+
+- Muerte no esperada del paciente atribuible a un evento adverso.
+- Caída con fractura de cadera o traumatismo encefalocraneano severo durante la prestación.
+- LPP categoría III o IV desarrollada bajo cuidado de ProSalCare.
+- Quemadura severa asociada a oxigenoterapia, agua caliente u otro accidente térmico.
+- Error de medicación con daño severo o muerte (incluye sobredosis de insulina, anticoagulante u opioide).
+- Sepsis severa atribuible a infección asociada a un dispositivo bajo manejo de ProSalCare.
+- Broncoaspiración con compromiso vital durante alimentación o aseo.
+- Extravío de un paciente con deterioro cognitivo durante un turno ProSalCare.
+- Falla crítica de un equipo de soporte (oxígeno, ventilación) con daño severo.
+
+Tras un evento centinela, el equipo involucrado recibe debriefing y apoyo lo antes posible, idealmente dentro de las 72 horas.
+
+**Lo que nunca se hace**
+
+- No notificar un evento del que tienes conocimiento.
+- Encubrir un evento o alterar registros.
+- Difundir información del evento o la identidad de los involucrados fuera del sistema institucional (Ley 21.719).
+- Asignar culpas individuales sin análisis del sistema.
+- Comunicar a la familia un evento con daño severo sin coordinación con la enfermera o enfermero gestor de caso y la dirección clínica.
+- Demorar la atención del paciente por priorizar el registro.
+
+**Cultura justa**
+
+- La notificación de buena fe **no genera consecuencias disciplinarias**. ProSalCare lo declara por escrito en sus políticas y contratos.
+- Solo ameritan medidas disciplinarias la conducta temeraria (desprecio consciente de un riesgo conocido), el encubrimiento de un evento y la alteración de registros.
+- Si estuviste involucrada o involucrado en un evento con daño, recibes contención y acompañamiento del equipo.
+
+**Resguardo y evaluación**
+
+- El reporte es dato sensible de salud: credenciales individuales, mínimo privilegio y sin copias fuera del sistema.
+- Lo ocurrido fuera de la prestación de ProSalCare (hospitalizaciones, atenciones en otros centros) no entra a este ciclo; se documenta como antecedente clínico cuando es relevante para el plan de cuidados. Los reclamos formales de la familia siguen el conducto institucional.
+- La pauta se aplica por auditoría documental de AlertaCARE. Lo que mide de tu parte: registro completo (tipo, relato, acciones inmediatas) en 24 horas, aviso inmediato cuando hubo daño o riesgo, e información a la familia documentada en RegisCare.
+:::
+
+::: {.origen}
+Basado en el protocolo institucional **PSC-PROT-012, Gestión de Eventos Adversos en Domicilio**, versión 0.0, iteración 2026-09. Módulo elaborado por ProSalCare; borrador del 15 de noviembre de 2026. Este material acompaña la enseñanza de tu equipo y no la reemplaza.
+:::

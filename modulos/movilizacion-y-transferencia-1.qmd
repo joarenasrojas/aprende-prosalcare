@@ -1,0 +1,202 @@
+---
+title: "Mover a la persona en la cama"
+subtitle: "Cómo cuidar tu espalda, subirla hacia la cabecera y sentarla al borde"
+---
+
+Este es el primero de dos módulos sobre cómo mover a la persona que cuidas. El segundo es [Pasar de la cama a la silla](movilizacion-y-transferencia-2.qmd).
+
+::: {.box .esencial}
+[Lo esencial]{.etiqueta}
+
+- Mueve a la persona **solo como indica su plan de movilización**: la técnica, el equipo y cuántas personas se necesitan los define tu enfermera o enfermero. Haz a solas solo las maniobras que ya practicaste frente a tu equipo.
+- **Nunca la levantes a pulso ni la arrastres** sobre la cama: se desliza con la sábana de movimiento.
+- **Cuida tu espalda**: pies separados, rodillas flexionadas, la persona cerca de tu cuerpo. Gira con los pies, no con la cintura.
+- Si el plan pide **dos personas** y no las hay, **posterga la maniobra y avisa**.
+- Si la persona se marea, se pone pálida o siente dolor: **detente, déjala en una posición segura y avisa**.
+- Ante una **emergencia, llama al 131**. ProSalCare no es un servicio de urgencia.
+:::
+
+::: {.box .pendiente}
+Aquí irá el video del módulo (2 a 3 minutos). Todavía no está producido.
+:::
+
+## Cuándo se hace cada maniobra
+
+| Maniobra | Cuándo |
+|---|---|
+| **Subir hacia la cabecera** | La persona se deslizó hacia los pies de la cama |
+| **Sentar al borde de la cama** | Antes de ponerla de pie o de pasarla a una silla |
+| **Girar de lado** | En los cambios de posición y como primer paso para sentarla. La técnica y cada cuánto se hace se enseñan junto con el cuidado de la piel |
+
+## Cuándo no moverla
+
+::: {.box .nunca}
+**No la muevas y llama al 131** si, después de una caída o un golpe, sospechas una fractura, una lesión en la cabeza o una lesión en la columna.
+
+**Deja la movilización para después, vigílala y avisa a tu equipo** si tuvo un desmayo reciente, si tiene la presión o el pulso muy alterados de repente, o si tiene síntomas de azúcar muy baja o muy alta en la sangre. Si la ves en riesgo, llama primero al 131.
+:::
+
+## Antes de empezar
+
+- **Lávate las manos**, como en el módulo de lavado de manos.
+- Deja **al menos 1 metro libre** a un costado de la cama. Si se puede, a los dos lados.
+- **Frena la cama.** Si es regulable, déjala a la altura de tus codos.
+- **Suelo seco** y **buena luz**.
+- Si la persona tiene sonda, vía, drenaje u oxígeno, **asegúralos antes de moverla**.
+
+## Revisa cómo está hoy
+
+Antes de cada maniobra, fíjate en tres cosas: cómo está la persona (dolor, mareo, si coopera como siempre), el lugar y el equipo, y la ayuda que tienes.
+
+| Si… | Entonces… |
+|---|---|
+| Hoy **coopera menos** que de costumbre | Ese día necesita más ayuda que la habitual: usa la técnica de más apoyo que te enseñaron, suma a otra persona o posterga |
+| El plan pide **dos personas** y no las hay | Posterga la maniobra y avisa. Una maniobra pensada para dos no se hace a solas |
+| **No coopera o no soporta su peso**, tiene una **herida por presión en la zona de apoyo**, o la maniobra te exige **más fuerza de la que es segura** para ti | No la muevas a mano: corresponde ayuda mecánica (sábana de movimiento o grúa). Si no la tienes, posterga y avisa |
+| Tienes **dudas de tu propia capacidad**, la persona es pesada o coopera poco, o el **espacio es estrecho** | Pide ayuda sin culpa: suma a una segunda persona o posterga |
+
+## Tu postura en cada maniobra
+
+<ol class="pasos">
+<li><span class="paso-txt">**Planifica antes de tocar**: qué movimiento harán, hacia dónde y quién dirige. Cuenten «1, 2, 3» y muevan al mismo tiempo.</span></li>
+<li><span class="paso-txt">**Separa los pies** al ancho de tus hombros, con un pie adelantado hacia donde va el movimiento.</span></li>
+<li><span class="paso-txt">**Flexiona las caderas y las rodillas, no la espalda.** La fuerza la hacen tus piernas; la espalda va alineada.</span></li>
+<li><span class="paso-txt">**Acércate a la persona** antes de moverla. Con los brazos estirados, la carga sobre tu espalda se multiplica.</span></li>
+<li><span class="paso-txt">**Gira dando pasos**, con los pies. Nunca tuerzas el tronco con carga.</span></li>
+</ol>
+
+Además:
+
+- **Empuja, desliza o haz rodar antes que levantar.** La sábana de movimiento convierte un levantamiento en un deslizamiento.
+- **Pídele a la persona que ayude**: que flexione las rodillas, se impulse o se apoye. Eso reduce tu carga y mantiene su capacidad.
+- **Nunca levantes a pulso** el peso completo o casi completo de una persona. Levantar a mano es solo para quien soporta su peso y coopera. A quien no soporta su propio peso no se le levanta a pulso, ni siquiera entre dos.
+- **Cuídate**: usa calzado firme y haz pausas entre maniobras exigentes.
+
+## Subir hacia la cabecera: entre dos personas
+
+Se usa la **sábana de movimiento**: una sábana resistente que va bajo la persona y sirve para deslizarla sin arrastrarla.
+
+<ol class="pasos">
+<li><span class="paso-txt">**Explícale la maniobra** y acuerden la cuenta «1, 2, 3». Frena la cama y, si es regulable, llévala a la altura de trabajo.</span></li>
+<li><span class="paso-txt">**Baja la cabecera** hasta dejarla horizontal, si la persona lo tolera. Retira las almohadas voluminosas.</span></li>
+<li><span class="paso-txt">**Pon la sábana de movimiento** bajo la persona, girándola con suavidad hacia cada lado.</span></li>
+<li><span class="paso-txt">**Una persona a cada lado** de la cama, mirando hacia la cabecera, con un pie adelantado. Tomen la sábana cerca de los hombros y de la cadera de la persona.</span></li>
+<li><span class="paso-txt">Pídele que **flexione las rodillas, apoye los talones y lleve el mentón al pecho**. Si puede, que empuje con los talones a la cuenta de tres.</span></li>
+<li><span class="paso-txt">A la cuenta de tres, **deslícenla (no la levanten)** hacia la cabecera en una sola maniobra, pasando su peso del pie de atrás al de adelante.</span></li>
+<li><span class="paso-txt">**Reacomoda las almohadas**, comprueba que quede alineada y cómoda, y revisa la piel de las zonas donde estuvo apoyada.</span></li>
+</ol>
+
+## Sentar al borde de la cama
+
+<ol class="pasos">
+<li><span class="paso-txt">**Gírala de lado**, hacia el lado por donde saldrá de la cama.</span></li>
+<li><span class="paso-txt">Pídele que **flexione las rodillas**. Pon una mano bajo su cuello y sus hombros, y la otra sobre sus rodillas o bajo ellas.</span></li>
+<li><span class="paso-txt">**En un solo movimiento**, sube el tronco mientras las piernas bajan fuera de la cama, como un péndulo, hasta dejarla sentada.</span></li>
+<li><span class="paso-txt">Comprueba que esté **sentada firme, con los pies apoyados en el suelo y sin mareo**. Acompáñala sin soltarla hasta confirmarlo.</span></li>
+<li><span class="paso-txt">Antes de ponerla de pie, déjala **5 minutos sentada al borde** y vigila si se marea.</span></li>
+</ol>
+
+Si aparece **mareo, palidez o sudoración**, recuéstala de nuevo y avisa.
+
+## Al terminar
+
+- Déjala **cómoda, alineada y segura**, con el timbre, agua y sus cosas al alcance.
+- Deja la **cama en su altura mínima y frenada**.
+- **Revisa la piel** de las zonas donde estuvo apoyada.
+- Si tiene sonda, vía, drenaje u oxígeno, **comprueba que sigan conectados y funcionando**.
+- Limpia y guarda el equipo que usaste, y **lávate las manos**.
+- **Anota la maniobra en RegisCare**, en tu vista de cuidador.
+
+## Errores frecuentes
+
+::: {.box .nunca}
+- **Arrastrarla** contra la sábana en vez de deslizarla con la sábana de movimiento.
+- **Levantarla a pulso.**
+- **Hacer a solas** una maniobra que el plan indica para dos personas.
+- **Tirar del brazo débil** de una persona que tuvo un accidente cerebrovascular. Puede dañarle el hombro.
+- **Doblar la espalda o torcer el tronco** en vez de flexionar las rodillas y girar con los pies.
+- **Hacer por ella lo que puede hacer sola.** Que participe cuida su autonomía.
+:::
+
+Si la persona tiene una operación reciente de cadera, Parkinson, demencia u otra condición especial, revisa la tabla «Si la persona tiene…» del módulo [Pasar de la cama a la silla](movilizacion-y-transferencia-2.qmd).
+
+## Cuándo avisar a tu equipo de ProSalCare
+
+::: {.box .nunca}
+**ProSalCare no es un servicio de urgencia.** Si la persona está en riesgo, llama al **131** o llévala a un servicio de urgencia. Si en ese momento no hay una TENS de ProSalCare de turno en tu casa, la primera respuesta depende de ti y de los servicios de urgencia. Avisar a tu equipo sirve para que tu enfermera o enfermero lo sepa y lo considere en el plan de cuidados; no reemplaza la atención de urgencia.
+:::
+
+::: {.box .avisar}
+**Llama al 131 o llévala a un servicio de urgencia** si, durante una maniobra o después de una caída, la persona tiene alguna de estas señales. Después, avisa a tu equipo:
+
+- Perdió el conocimiento, aunque sea un momento.
+- Se golpeó la cabeza.
+- Tiene una extremidad deformada, un dolor muy fuerte, o **no puede mover una articulación o cargar su peso** y antes sí podía.
+- Sangra mucho o el sangrado no se detiene.
+- Le cuesta respirar, o tiene dolor de pecho o palpitaciones que antes no tenía.
+- Está confundida o desorientada y antes no lo estaba.
+:::
+
+::: {.box .avisar}
+**Avisa de inmediato a tu equipo** si:
+
+- La persona **se cayó durante una maniobra**, aunque parezca que no le pasó nada.
+- Tuvo **mareo intenso, palidez o sudor frío** al sentarla o ponerla de pie.
+- Tiene un **dolor nuevo en la cadera, la espalda, la rodilla o el hombro** después de una maniobra, sobre todo si fue operada hace poco.
+- El **brazo del lado débil** por un accidente cerebrovascular está más caído, le duele o «cuelga».
+- Se **desconectó una sonda, una vía o el oxígeno** al moverla.
+- Tiene la **piel enrojecida o con una ampolla** después de la maniobra.
+- **A ti** te duele la espalda y el dolor no pasa.
+:::
+
+## Comprueba lo que aprendiste
+
+<div class="quiz">
+<fieldset data-ok="1" data-por="Una maniobra pensada para dos personas no se hace a solas: se posterga y se avisa al equipo.">
+<legend>La persona se deslizó hacia los pies de la cama. El plan dice que se sube entre dos y hoy no hay nadie más. ¿Qué haces?</legend>
+<label><input type="radio"> La subo sin ayuda, con cuidado</label>
+<label><input type="radio"> Postergo la maniobra y aviso al equipo</label>
+<label><input type="radio"> La tomo por debajo de los brazos y tiro</label>
+</fieldset>
+<fieldset data-ok="2" data-por="Se desliza con la sábana de movimiento, en una sola maniobra y a la cuenta de tres. Nunca se levanta a pulso ni se arrastra.">
+<legend>¿Cómo se sube a la persona hacia la cabecera?</legend>
+<label><input type="radio"> Levantándola a pulso entre dos</label>
+<label><input type="radio"> Arrastrándola de a poco sobre la sábana de la cama</label>
+<label><input type="radio"> Deslizándola con la sábana de movimiento, a la cuenta de tres</label>
+</fieldset>
+<fieldset data-ok="0" data-por="Se gira dando pasos, con los pies. Torcer el tronco con carga daña la espalda.">
+<legend>Tienes que girar mientras sostienes a la persona. ¿Cómo lo haces?</legend>
+<label><input type="radio"> Dando pasos, con los pies</label>
+<label><input type="radio"> Girando la cintura con los pies fijos</label>
+<label><input type="radio"> Estirando los brazos para alcanzar</label>
+</fieldset>
+<fieldset data-ok="1" data-por="Con mareo, palidez o sudoración se recuesta de nuevo a la persona y se avisa.">
+<legend>La sentaste al borde de la cama y se pone pálida y mareada. ¿Qué haces?</legend>
+<label><input type="radio"> La pongo de pie rápido para que se le pase</label>
+<label><input type="radio"> La recuesto de nuevo y aviso</label>
+<label><input type="radio"> La dejo sentada y me alejo a buscar agua</label>
+</fieldset>
+<fieldset data-ok="2" data-por="Si coopera menos de lo habitual, ese día necesita más ayuda: la técnica de más apoyo, otra persona, o postergar.">
+<legend>Hoy la persona coopera mucho menos que de costumbre. ¿Qué cambia?</legend>
+<label><input type="radio"> Nada, hago lo mismo de siempre</label>
+<label><input type="radio"> Hago más fuerza yo</label>
+<label><input type="radio"> Ese día la trato como si necesitara más ayuda: sumo a otra persona o postergo</label>
+</fieldset>
+</div>
+
+## Si eres TENS
+
+::: {.box .tens}
+[Además de lo anterior]{.etiqueta}
+
+- **Plan y nivel de asistencia:** verifica en RegisCare el plan de movilización (técnica, equipo, número de personas) y el nivel de asistencia vigente, sincronizado desde EINCARE. El Barthel y el nivel los aplica la enfermera o el enfermero gestor de caso al ingreso, mensualmente y ante cambio funcional, caída, alta hospitalaria o cirugía reciente. Ninguna maniobra se improvisa.
+- **Chequeo previo:** además de dolor, mareo y cooperación, evalúa el estado hemodinámico si hay antecedente de ortostatismo. Si coopera menos de lo habitual, opera con el nivel superior de asistencia durante ese turno. Escala a ayuda mecánica si no coopera o no soporta peso, si hay LPP en la zona de apoyo o si el esfuerzo excede los límites seguros. Los cortes numéricos (16 kg por persona; grúa sobre 85 kg con soporte de peso solo parcial) son gatillos del plan en EINCARE, no la regla de terreno.
+- **EPP y dignidad:** higiene de manos (EPP-0); con humedad, incontinencia o fluidos, guantes y pechera (EPP-1 y EPP-2). Calzado cerrado antideslizante y ropa que no restrinja el movimiento; la faja lumbar no es EPP. Informa cada maniobra, cubre las zonas no involucradas y respeta la decisión de aplazar o rechazar una movilización programada, con registro fundado.
+- **Educa al cuidador:** explica el nivel de asistencia y por qué esa técnica; demuestra y supervisa con devolución práctica el giro, subir hacia la cabecera, sentar al borde, la transferencia con cinturón y la grúa si la hay; enseña la ergonomía y los signos de alarma. Documenta la educación en RegisCare.
+- **Cierre y registro:** paciente alineado y seguro, cama en altura mínima y frenada, piel de las zonas de apoyo inspeccionada (hallazgos según PSC-PROT-002), equipo limpio y guardado. Registra maniobras, técnica y equipo, tolerancia, hallazgos, posposiciones y su causa, educación y eventos; reporta al gestor o gestora de caso y al turno entrante.
+- **Eventos y derivación:** todo evento adverso, incluida la lesión del operador o del cuidador, va a AlertaCARE y al gestor o gestora de caso. Deriva ante cambio funcional sostenido, dolor nuevo o intolerancia repetida, imposibilidad sostenida de aplicar la técnica (equipo, espacio o segunda persona), sobrecarga o lesión del cuidador, o negativa sostenida a la técnica o al equipo.
+:::
+
+::: {.origen}
+Basado en el protocolo institucional **PSC-PROT-007, Movilización y Transferencia en Domicilio**, versión 0.0, iteración 2026-09. Módulo 1 de 2, elaborado por ProSalCare; borrador del 15 de noviembre de 2026. Este material acompaña la enseñanza de tu equipo y no la reemplaza.
+:::

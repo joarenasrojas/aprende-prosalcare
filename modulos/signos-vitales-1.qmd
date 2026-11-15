@@ -1,0 +1,197 @@
+---
+title: "Medir los signos vitales"
+subtitle: "Presión, pulso, saturación, temperatura y dolor: cómo medirlos bien entre un turno y otro"
+---
+
+::: {.box .esencial}
+[Lo esencial]{.etiqueta}
+
+- Mide **solo lo que tu equipo te enseñó a medir**, con los aparatos de la casa. Tu medición **complementa** la de la TENS; no la reemplaza.
+- Prepara la medición: **5 minutos de reposo**; **sin café, tabaco ni ejercicio en los 30 minutos previos**; **brazalete del tamaño correcto**; **mano tibia y sin esmalte** para la saturación.
+- El **dolor también se mide**: pregúntalo en cada control.
+- **Anota cada medición en RegisCare**, en tu vista de cuidador. No uses cuadernos ni hojas.
+- Si un valor sale **fuera de los límites que te enseñaron**, **repite la medición a los 5 minutos**, con la persona en reposo. Si sigue fuera, **avisa a tu equipo**.
+- Si la persona **no responde, no respira o tiene un dolor de pecho intenso, llama al 131**. ProSalCare no es un servicio de urgencia.
+:::
+
+::: {.box .pendiente}
+Aquí irá el video del módulo (2 a 3 minutos). Todavía no está producido.
+:::
+
+## Cuándo y qué mides
+
+Tu enfermera o enfermero define en el plan de cuidados **qué signos mides tú y cada cuánto**. Mides entre un turno y otro, y solo después de haber mostrado la técnica frente a tu equipo.
+
+| Qué se mide | Con qué | Cuándo |
+|---|---|---|
+| **Presión arterial** | Tensiómetro automático | Lo que indique el plan de cuidados |
+| **Pulso y saturación de oxígeno** | Saturómetro (el aparato que se pone en el dedo) | Lo que indique el plan de cuidados |
+| **Temperatura** | Termómetro digital, en la axila | Lo que indique el plan de cuidados |
+| **Dolor** | Preguntándole a la persona | En cada control, cada vez que se queje y cuando la veas adolorida |
+| **Azúcar en la sangre** | Glucómetro | Solo si está indicada: tiene su propio módulo, «Medir el azúcar en la sangre» |
+
+## Antes de empezar
+
+- **Reposo de al menos 5 minutos.** Sin café, tabaco, comida abundante ni ejercicio en los 30 minutos previos.
+- Si vas a medir la presión, que la persona **vaya al baño antes**: la vejiga debe estar vacía.
+- Una habitación **tranquila y templada** (lo ideal es entre 20 y 24 °C: el frío altera la saturación y la presión), con buena luz para leer las pantallas y con privacidad.
+- **Lávate las manos** y revisa los aparatos: que enciendan y tengan batería. El brazalete debe ser del tamaño del brazo de la persona: la parte que se infla tiene que rodear entre el 75 y el 100 % del contorno del brazo.
+- **Cuéntale a la persona lo que vas a hacer** y pídele su acuerdo.
+
+## Presión arterial
+
+Mide siempre **en el mismo brazo y en la misma posición**, para que los valores se puedan comparar.
+
+<ol class="pasos">
+<li><span class="paso-txt">**Sienta** a la persona con la espalda apoyada, los pies planos en el suelo y las piernas sin cruzar.</span></li>
+<li><span class="paso-txt">Deja el **brazo desnudo**: el brazalete va sobre la piel, nunca sobre la ropa.</span></li>
+<li><span class="paso-txt">**Apoya el brazo** sobre una superficie (una mesa, el brazo del sillón), de modo que la mitad del brazalete quede **a la altura del corazón**.</span></li>
+<li><span class="paso-txt">Pon el brazalete con el **borde de abajo 2 a 3 centímetros sobre el pliegue del codo**.</span></li>
+<li><span class="paso-txt">Ajústalo: entre el brazalete y la piel debe **caber un dedo**.</span></li>
+<li><span class="paso-txt">Pídele que **no hable**, que no sostenga el brazo en el aire y que no apriete el puño. Tú tampoco hables.</span></li>
+<li><span class="paso-txt">**Inicia el aparato y espera** sin tocar el brazalete.</span></li>
+<li><span class="paso-txt">**Anota en RegisCare** los valores, el brazo, la posición y si había dolor, agitación o un medicamento recién tomado.</span></li>
+</ol>
+
+## Pulso y saturación de oxígeno
+
+El saturómetro muestra dos números: la saturación de oxígeno y el pulso.
+
+<ol class="pasos">
+<li><span class="paso-txt">Elige un dedo con la **uña corta y limpia, sin esmalte ni uña postiza**.</span></li>
+<li><span class="paso-txt">La mano debe estar **tibia**. Si está fría, frótala o abrígala unos minutos.</span></li>
+<li><span class="paso-txt">Pon el saturómetro y deja la mano **quieta y apoyada, a la altura del corazón**. Evita que le dé una luz fuerte directa.</span></li>
+<li><span class="paso-txt">**Espera 30 a 60 segundos**, hasta que la señal se estabilice. Recién entonces lee.</span></li>
+<li><span class="paso-txt">**Anota en RegisCare** la saturación y el pulso, y si la persona respira aire ambiente o usa oxígeno (con qué dispositivo y a qué flujo).</span></li>
+</ol>
+
+## Temperatura en la axila
+
+<ol class="pasos">
+<li><span class="paso-txt">**Espera 15 a 30 minutos** si la persona acaba de bañarse, de comer o beber algo caliente o frío, o si le pusieron calor o frío en una zona del cuerpo.</span></li>
+<li><span class="paso-txt">**Seca la axila** con una toalla o una gasa.</span></li>
+<li><span class="paso-txt">Enciende el termómetro y pon la punta **en el centro de la axila**, tocando directamente la piel.</span></li>
+<li><span class="paso-txt">**Cruza el brazo de la persona sobre el pecho**, pegado al cuerpo, para cerrar la axila. Mantenlo así hasta que suene.</span></li>
+<li><span class="paso-txt">Cuando suene, **retíralo y lee**. Anota el valor en RegisCare, indicando que es de axila.</span></li>
+<li><span class="paso-txt">**Limpia el termómetro con alcohol al 70 %** después de cada uso. Es de uso exclusivo de la persona.</span></li>
+</ol>
+
+## Dolor
+
+Pregunta por el dolor en cada control, cada vez que la persona se queje y cuando la veas adolorida aunque no lo diga.
+
+<ol class="pasos">
+<li><span class="paso-txt">Pídele un **número de 0 a 10**: 0 es «sin dolor» y 10 es «el peor dolor imaginable».</span></li>
+<li><span class="paso-txt">Pregúntalo **en reposo y en movimiento**.</span></li>
+<li><span class="paso-txt">Pregunta **dónde** le duele y **cómo** es el dolor: como pinchazo, como presión, como ardor, como retorcijón.</span></li>
+<li><span class="paso-txt">Pregunta **qué lo cambia**: qué lo alivia y qué lo aumenta.</span></li>
+<li><span class="paso-txt">**Anota en RegisCare** el número, dónde duele y cómo es.</span></li>
+</ol>
+
+De 1 a 3 es un dolor leve; de 4 a 6, moderado; de 7 a 10, severo.
+
+Si la persona no puede decirte cuánto le duele o no entiende la escala, no le pidas un número: tu equipo evalúa su dolor observándola, con otra escala.
+
+## Qué hacer si…
+
+| Situación | Qué hacer |
+|---|---|
+| Un valor sale **fuera de los límites que te enseñaron** | Repite la medición **a los 5 minutos**, con la persona en reposo. Si sigue fuera, **avisa a tu equipo** |
+| La persona **se movió o habló**, la señal no se estabilizó o el valor es muy distinto de lo habitual | **Repite** la medición corrigiendo la técnica, antes de anotarla |
+| La **saturación sale baja** y no lo esperabas | Cambia de dedo, calienta la mano, acomoda de nuevo el saturómetro y repite antes de darla por válida |
+| El brazo tiene una **fístula arteriovenosa**, una **hinchazón por linfedema**, una **vía puesta en la vena**, está **paralizado** o es del lado donde le **sacaron los ganglios de la axila** | **No midas la presión en ese brazo.** Usa el otro y anótalo |
+| La persona **no quiere** que la midas ahora | Respétalo y déjalo anotado en RegisCare |
+| Sospechas una **intoxicación por monóxido de carbono** | No te fíes del saturómetro: en ese caso marca más de lo real. **Llama al 131** |
+| La persona está **muy fría** (hipotermia) | El termómetro de axila pierde precisión: importa más cómo está la persona que el número |
+
+## Errores frecuentes
+
+::: {.box .nunca}
+- **Presión:** brazalete pequeño o puesto sobre la ropa, brazo colgando, hablar o moverse, medir sin reposo, piernas cruzadas o vejiga llena. Todo eso hace que marque más de lo real.
+- **Saturación:** esmalte o uña postiza, mano fría, mano en movimiento o leer antes de que la señal se estabilice. Marca menos de lo real.
+- **Temperatura:** axila húmeda, punta del termómetro fuera del centro de la axila o medir justo después del baño o de una comida caliente. El valor sale falsamente bajo o alto.
+- **Dolor:** suponer cuánto le duele por la cara, sin preguntarle; o pedirle un número a quien no entiende la escala. Así queda dolor sin registrar.
+- **Anotar en un cuaderno o en un papel.** Los valores van solo en RegisCare.
+- **Cambiar un tratamiento por un número.** Tú mides, anotas y avisas; los tratamientos los ajusta el médico tratante.
+:::
+
+## Cuándo avisar a tu equipo de ProSalCare
+
+::: {.box .nunca}
+**ProSalCare no es un servicio de urgencia.** Si la persona está en riesgo, llama al **131** o llévala a un servicio de urgencia. Si en ese momento no hay una TENS de ProSalCare de turno en tu casa, la primera respuesta depende de ti y de los servicios de urgencia. Avisar a tu equipo sirve para que tu enfermera o enfermero lo sepa y lo considere en el plan de cuidados; no reemplaza la atención de urgencia.
+:::
+
+::: {.box .avisar}
+**Llama al 131 directamente** si la persona:
+
+- No responde.
+- No respira.
+- Tiene un dolor de pecho intenso.
+
+Después, avisa a tu equipo.
+:::
+
+::: {.box .avisar}
+**Avisa a tu equipo** (a la TENS o a tu enfermera o enfermero) cuando:
+
+- Un valor **sigue fuera de los límites** que te enseñaron después de repetir la medición a los 5 minutos.
+- **No logras una medición confiable** varias veces: la señal no se estabiliza, el pulso es muy irregular o el aparato da lecturas que no calzan entre sí.
+- La persona tiene un **dolor nuevo** o un dolor que **va en aumento**.
+- Los valores **se van alejando de lo habitual** medición tras medición, aunque ninguno esté fuera de los límites.
+- El brazalete le deja **moretones o dolor** en el brazo.
+- Un aparato **falla**.
+:::
+
+Ante una duda siempre puedes llamar a tu equipo. Para orientación que no es urgente, también está **Salud Responde: 600 360 7777**.
+
+## Comprueba lo que aprendiste
+
+<div class="quiz">
+<fieldset data-ok="1" data-por="Se repite a los 5 minutos con la persona en reposo. Si el valor sigue fuera de los límites, se avisa al equipo.">
+<legend>La presión salió fuera de los límites que te enseñaron. La persona está despierta y conversa contigo. ¿Qué haces primero?</legend>
+<label><input type="radio"> Le doy una dosis extra de su medicamento</label>
+<label><input type="radio"> Repito la medición a los 5 minutos, con la persona en reposo</label>
+<label><input type="radio"> La anoto y espero al próximo turno</label>
+</fieldset>
+<fieldset data-ok="2" data-por="Se necesitan al menos 5 minutos de reposo, y nada de café, tabaco ni ejercicio en los 30 minutos previos.">
+<legend>La persona acaba de volver de caminar y de tomarse un café. ¿Cuándo le mides la presión?</legend>
+<label><input type="radio"> De inmediato, para aprovechar</label>
+<label><input type="radio"> Después de 5 minutos sentada</label>
+<label><input type="radio"> Cuando hayan pasado 30 minutos y lleve al menos 5 en reposo</label>
+</fieldset>
+<fieldset data-ok="0" data-por="El esmalte, la uña postiza y la mano fría hacen que el saturómetro marque menos de lo real. Se lee recién tras 30 a 60 segundos de señal estable.">
+<legend>Vas a medir la saturación. ¿Qué dedo eliges?</legend>
+<label><input type="radio"> Uno con la uña limpia y sin esmalte, con la mano tibia</label>
+<label><input type="radio"> Cualquiera, el esmalte no influye</label>
+<label><input type="radio"> El que esté más frío</label>
+</fieldset>
+<fieldset data-ok="1" data-por="El dolor se pregunta en cada control: un número de 0 a 10, en reposo y en movimiento, dónde duele y cómo es. No se supone por la cara.">
+<legend>La persona tiene cara de molestia mientras la mides. ¿Cómo registras el dolor?</legend>
+<label><input type="radio"> Anoto lo que me parece por su cara</label>
+<label><input type="radio"> Le pregunto: un número de 0 a 10, dónde y cómo le duele</label>
+<label><input type="radio"> No lo anoto si no se queja</label>
+</fieldset>
+<fieldset data-ok="2" data-por="Cada medición se anota en tu vista de cuidador de RegisCare. No se usan cuadernos ni hojas.">
+<legend>¿Dónde anotas los valores que mides?</legend>
+<label><input type="radio"> En un cuaderno, y se lo muestro a la TENS</label>
+<label><input type="radio"> En un papel junto a la cama</label>
+<label><input type="radio"> En RegisCare, en mi vista de cuidador</label>
+</fieldset>
+</div>
+
+## Si eres TENS
+
+::: {.box .tens}
+[Además de lo anterior]{.etiqueta}
+
+- **Set completo** (PA, FC, FR, SpO₂, temperatura axilar y dolor) al inicio y al término de cada turno, y tras procedimientos que puedan alterarlos. Orden: FR sin avisar, FC, SpO₂, PA, temperatura, dolor y, al final, glicemia capilar si está indicada. Misma posición y mismo brazo que las mediciones previas. Higiene de manos (EPP-0). Equipos desinfectados según fabricante y con calibración verificada al menos una vez al año.
+- **Técnica que haces tú:** pulso radial con índice y medio, nunca el pulgar; 30 segundos por 2 si el ritmo es regular, 60 segundos completos si es irregular, y la palpación manda sobre el saturómetro. FR: 60 segundos sin avisar, con los dedos aún en la muñeca; consigna patrón, musculatura accesoria y ruidos.
+- **Presión arterial:** en la primera evaluación mide ambos brazos y usa en adelante el de valor mayor; el ancho de la cámara es cercano al 40 % del perímetro del brazo. Si el valor difiere de la línea de base, repite tras 1 a 2 minutos y registra el promedio. PA ortostática solo con indicación: 5 minutos acostado, luego de pie al minuto 1 y al 3, siempre con acompañamiento; positiva con caída de 20 mmHg o más en la sistólica o de 10 o más en la diastólica; suspende ante mareo, visión borrosa, palidez o sudoración.
+- **Dolor:** END o EVA en reposo y en movimiento; PAINAD (3 a 5 minutos de observación) si la persona no verbaliza. Reporta dolor nuevo, END mayor a 3 en reposo o mayor a 5 en movimiento, dolor que no cede, o PAINAD de 4 o más o cambio de conducta.
+- **Interpretación:** compara con los umbrales del PSC-PROT-005 y con la línea de base en RegisCare. Valor fuera de rango: repite corrigiendo la técnica; si se confirma, NEWS2 (0 a 4 vigilancia; 5 a 6 revisión clínica urgente con la enfermera gestora y reevaluación cada hora; 7 o más, 131). En adultos mayores frágiles, si tu juicio clínico supera al puntaje, activa igual el rescate. Reporta también las tendencias que se alejan de la línea de base.
+- **Con el cuidador y al cierre:** revisa al inicio del turno los valores que registró y coméntalos con él; entrénalo con demostración y devolución práctica antes de que mida solo, y documenta la educación. Al cierre, comunícale los valores y los límites de aviso, registra todo en RegisCare sin transcribir desde papel, y reporta a la enfermera gestora valores fuera de rango, pulso irregular no conocido, hipotensión ortostática, equipos defectuosos y al cuidador que no logra la técnica o no registra.
+:::
+
+::: {.origen}
+Basado en el protocolo institucional **PSC-PROT-013, Control de Signos Vitales en Domicilio**, versión 0.0, iteración 2026-09. Módulo elaborado por ProSalCare; borrador del 15 de noviembre de 2026. Este material acompaña la enseñanza de tu equipo y no la reemplaza.
+:::

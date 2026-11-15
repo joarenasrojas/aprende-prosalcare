@@ -1,0 +1,143 @@
+---
+title: "Medir el azúcar en la sangre"
+subtitle: "La glicemia capilar con el pinchazo en el dedo, solo cuando está indicada"
+---
+
+::: {.box .esencial}
+[Lo esencial]{.etiqueta}
+
+- Se mide **solo si está indicada** en el plan de cuidados, y solo después de que tu equipo te enseñó la técnica, el manejo de las lancetas y cómo eliminarlas.
+- Antes de pinchar, **lava las manos de la persona con agua y jabón y sécalas por completo**. Los restos de comida o de alcohol falsean el resultado.
+- Pincha en **el costado de la yema**, cambia de dedo cada vez y **no aprietes el dedo** para sacar la gota.
+- La lanceta usada va **directo al contenedor de cortopunzantes, sin volver a taparla**.
+- **Anota en RegisCare** el valor, la hora y si fue en ayunas, antes o después de comer. Si sale **fuera de los límites que te enseñaron**, repite a los 5 minutos; si sigue fuera, **avisa a tu equipo**.
+- Si la persona **no responde, no respira o tiene un dolor de pecho intenso, llama al 131**. ProSalCare no es un servicio de urgencia.
+:::
+
+::: {.box .pendiente}
+Aquí irá el video del módulo (2 a 3 minutos). Todavía no está producido.
+:::
+
+## Cuándo se mide
+
+| Pregunta | Respuesta |
+|---|---|
+| **¿A quién?** | Solo a la persona que la tiene indicada en su plan de cuidados |
+| **¿En qué horarios?** | Los que indica el plan de cuidados, con su relación con las comidas (en ayunas, antes o después de comer) |
+| **¿Y si en el mismo momento mido otros signos?** | Deja el azúcar **para el final**: el pinchazo puede alterar el pulso y la presión |
+
+## Antes de empezar
+
+- **Revisa en el plan de cuidados** el horario que toca y su relación con las comidas.
+- **Lávate las manos** y ten a mano **guantes**, el glucómetro, una lanceta, algodón seco, el contenedor de cortopunzantes y una bolsa para desechos.
+- Revisa que el glucómetro **encienda y tenga batería**.
+- Revisa las **tiras**: que no estén vencidas, que su envase haya estado cerrado y que su código sea compatible con el glucómetro.
+- Elige el dedo: uno **distinto al de la vez anterior**, con la piel sana y que no tenga mala circulación.
+
+## Paso a paso
+
+<ol class="pasos">
+<li><span class="paso-txt">**Lávate las manos y ponte guantes.**</span></li>
+<li><span class="paso-txt">**Lava las manos de la persona con agua y jabón** y sécalas por completo.</span></li>
+<li><span class="paso-txt">Si a la persona le cuesta dar la gota, **masajea su mano desde la palma hacia el dedo** antes de pinchar.</span></li>
+<li><span class="paso-txt">**Pincha en el costado de la yema** del dedo: duele menos que en el centro.</span></li>
+<li><span class="paso-txt">**No aprietes el dedo** para sacar la gota.</span></li>
+<li><span class="paso-txt">Pon la gota **de una sola vez** sobre la zona de la tira que recibe la sangre.</span></li>
+<li><span class="paso-txt">**Presiona el lugar del pinchazo** con algodón seco.</span></li>
+<li><span class="paso-txt">Bota la **lanceta, sin volver a taparla, en el contenedor de cortopunzantes**, y la tira en la bolsa de desechos.</span></li>
+<li><span class="paso-txt">**Anota en RegisCare** el valor, la hora y si fue en ayunas, antes o después de comer.</span></li>
+</ol>
+
+## Qué hacer si…
+
+| Situación | Qué hacer |
+|---|---|
+| **No hay agua y jabón** y solo tienes alcohol | Limpia el dedo y **espera a que se seque por completo** antes de pinchar |
+| El dedo que tocaba tiene la **piel dañada** o **mala circulación** | Usa otro dedo |
+| El valor sale **fuera de los límites que te enseñaron** | Repite la medición **a los 5 minutos**, con la persona en reposo. Si sigue fuera, **avisa a tu equipo** |
+| La persona **no responde, no respira o tiene un dolor de pecho intenso** | **Llama al 131** de inmediato. Después, avisa a tu equipo |
+
+## Errores frecuentes
+
+::: {.box .nunca}
+- **Dedo con restos de comida**, o todavía húmedo de alcohol. El valor sale falsamente alto o bajo.
+- **Tiras vencidas o mal guardadas.**
+- **Apretar el dedo** para que salga más sangre: la gota se diluye y el valor cambia.
+- **Pinchar siempre el mismo dedo**, o un dedo con la piel dañada o con mala circulación.
+- **Volver a tapar la lanceta** o dejarla fuera del contenedor.
+- **Anotar el número sin la hora** ni su relación con las comidas.
+:::
+
+## Cuándo avisar a tu equipo de ProSalCare
+
+::: {.box .nunca}
+**ProSalCare no es un servicio de urgencia.** Si la persona está en riesgo, llama al **131** o llévala a un servicio de urgencia. Si en ese momento no hay una TENS de ProSalCare de turno en tu casa, la primera respuesta depende de ti y de los servicios de urgencia. Avisar a tu equipo sirve para que tu enfermera o enfermero lo sepa y lo considere en el plan de cuidados; no reemplaza la atención de urgencia.
+:::
+
+::: {.box .avisar}
+**Llama al 131 directamente** si la persona no responde, no respira o tiene un dolor de pecho intenso. Después, avisa a tu equipo.
+:::
+
+::: {.box .avisar}
+**Avisa a tu equipo** (a la TENS o a tu enfermera o enfermero) cuando:
+
+- El valor **sigue fuera de los límites** que te enseñaron después de repetir la medición.
+- Los valores salen **fuera de lo indicado una y otra vez**, o se van alejando de lo habitual.
+- **No logras una medición confiable** varias veces, o el glucómetro da lecturas que no calzan entre sí.
+- Tú u otra persona **se pinchó con una lanceta usada**.
+- El **lugar del pinchazo se infecta**.
+:::
+
+Ante una duda siempre puedes llamar a tu equipo. Para orientación que no es urgente, también está **Salud Responde: 600 360 7777**.
+
+## Comprueba lo que aprendiste
+
+<div class="quiz">
+<fieldset data-ok="2" data-por="La glicemia se mide solo cuando está indicada en el plan de cuidados y después de que tu equipo te entrenó.">
+<legend>¿A quién le mides el azúcar en la sangre?</legend>
+<label><input type="radio"> A cualquier persona de la casa que lo pida</label>
+<label><input type="radio"> A la persona que cuido, cada vez que la veo decaída</label>
+<label><input type="radio"> Solo a quien la tiene indicada en su plan de cuidados</label>
+</fieldset>
+<fieldset data-ok="0" data-por="Agua y jabón, y secado completo. Los restos de comida o de alcohol falsean el resultado.">
+<legend>¿Cómo preparas el dedo antes de pinchar?</legend>
+<label><input type="radio"> Lavo sus manos con agua y jabón y las seco por completo</label>
+<label><input type="radio"> Lo limpio con alcohol y pincho de inmediato</label>
+<label><input type="radio"> No hace falta limpiarlo</label>
+</fieldset>
+<fieldset data-ok="1" data-por="Se pincha en el costado de la yema, cambiando de dedo cada vez y sin apretar: apretar diluye la gota y cambia el valor.">
+<legend>Pinchaste y la gota es pequeña. ¿Qué haces?</legend>
+<label><input type="radio"> Aprieto fuerte el dedo hasta que salga más</label>
+<label><input type="radio"> No aprieto el dedo; la próxima vez masajeo la mano antes de pinchar</label>
+<label><input type="radio"> Pincho otra vez en el mismo punto</label>
+</fieldset>
+<fieldset data-ok="2" data-por="La lanceta se elimina sin volver a taparla, directo en el contenedor de cortopunzantes.">
+<legend>¿Qué haces con la lanceta usada?</legend>
+<label><input type="radio"> Le pongo su tapa y la boto a la basura</label>
+<label><input type="radio"> La guardo para la próxima medición</label>
+<label><input type="radio"> La boto, sin taparla, en el contenedor de cortopunzantes</label>
+</fieldset>
+<fieldset data-ok="1" data-por="Se anota el valor, la hora y la relación con las comidas, en RegisCare. Si el valor sigue fuera de los límites tras repetir, se avisa al equipo.">
+<legend>¿Qué anotas en RegisCare después de medir?</legend>
+<label><input type="radio"> Solo el número</label>
+<label><input type="radio"> El valor, la hora y si fue en ayunas, antes o después de comer</label>
+<label><input type="radio"> Nada, si el valor salió normal</label>
+</fieldset>
+</div>
+
+## Si eres TENS
+
+::: {.box .tens}
+[Además de lo anterior]{.etiqueta}
+
+- **Solo con indicación** en el plan de cuidados: verifica horarios y relación con las comidas antes de medir. La indicación, el ajuste o la suspensión del control los define el médico tratante.
+- **EPP-1:** higiene de manos y guantes de procedimiento. Lanceta sin reencapuchar al contenedor de punzocortantes, que se sella al 75 % de su capacidad.
+- **Secuencia:** la glicemia va al final del set de signos vitales, porque la punción puede alterar FC y PA.
+- **Registro en RegisCare** inmediato: valor, hora y relación con las comidas (ayunas, pre o postprandial), con la periodicidad definida en el plan.
+- **Cuidador:** solo mide si recibió educación previa en la técnica, el manejo de lancetas y la eliminación de punzocortantes, con devolución práctica documentada. Revisa sus valores al inicio de cada turno y coméntalos con él.
+- **Deriva a la enfermera gestora:** glicemias reiteradas fuera del rango indicado, imposibilidad de medir confiablemente por equipo defectuoso y cuidador que no logra la técnica o no registra. Toda punción accidental u otro evento adverso se notifica y se registra en AlertaCARE.
+:::
+
+::: {.origen}
+Basado en el protocolo institucional **PSC-PROT-013, Control de Signos Vitales en Domicilio**, versión 0.0, iteración 2026-09. Módulo elaborado por ProSalCare; borrador del 15 de noviembre de 2026. Este material acompaña la enseñanza de tu equipo y no la reemplaza.
+:::

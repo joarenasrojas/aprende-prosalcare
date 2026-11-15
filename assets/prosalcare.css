@@ -1,0 +1,57 @@
+/* Estilo base de marca (Manual de Marca ProSalCare). La estética definitiva se decide después del MVP. */
+:root {
+  --psc-navy: #000080; --psc-teal: #247184; --psc-aqua: #5BB9C2; --psc-orange: #F68B1F;
+  --psc-slate: #1E293B; --psc-cream: #FFF8F0; --psc-teal-ink: #1F6475;
+}
+body { font-family: "DM Sans", Arial, Helvetica, sans-serif; color: var(--psc-slate); background: #fff; font-size: 1.08rem; line-height: 1.65; }
+h1, h2, h3, .title { font-family: "Playfair Display", Georgia, serif; color: var(--psc-navy); font-weight: 800; }
+h2 { border-bottom: 0; margin-top: 2.2rem; }
+a { color: var(--psc-teal-ink); }
+.sidebar-title, .sidebar-item-text { font-family: "DM Sans", Arial, sans-serif; }
+#quarto-content { background: transparent; }
+
+/* Cajas */
+.box { border-radius: 14px; padding: 1rem 1.2rem; margin: 1.2rem 0; background: #F7F9FB; border: 1px solid rgba(30,41,59,.12); }
+.box > :last-child { margin-bottom: 0; }
+.box.esencial { background: linear-gradient(135deg, #000060, #000080 55%, #247184); color: #fff; border: 0; }
+.box.esencial strong { color: #FFD700; }
+.box.esencial li { margin-bottom: .35rem; }
+.box.avisar { border-left: 8px solid var(--psc-orange); }
+.box.nunca { border-left: 8px solid var(--psc-navy); background: #F3F4FA; }
+.box.tens { border-left: 8px solid var(--psc-teal); background: #EAF4F5; }
+.box.pendiente { border: 2px dashed var(--psc-aqua); background: transparent; color: #5A6678; text-align: center; }
+.etiqueta { font: 600 .78rem/1 "DM Sans", Arial, sans-serif; letter-spacing: .14em; text-transform: uppercase; color: var(--psc-teal-ink); }
+.box.esencial .etiqueta { color: var(--psc-aqua); }
+
+/* Pasos */
+ol.pasos { list-style: none; counter-reset: paso; padding: 0; display: grid; gap: .7rem; }
+ol.pasos > li { counter-increment: paso; position: relative; min-height: 4.2rem; background: #fff; border: 1px solid rgba(30,41,59,.12); border-radius: 14px; padding: 1.25rem 1rem 1.1rem 4.6rem; }
+ol.pasos > li::before { content: counter(paso); position: absolute; left: 1rem; top: .8rem; font: 800 1.5rem/2.6rem "Playfair Display", Georgia, serif; width: 2.6rem; height: 2.6rem; text-align: center; border-radius: 50%; background: var(--psc-navy); color: #fff; }
+
+.paso-txt { display: block; }
+.paso-vid { display: block; width: min(100%, 300px); aspect-ratio: 1; margin-top: .7rem; border-radius: 12px; background: #fff; }
+@media (min-width: 700px) { ol.pasos > li:has(.paso-vid) { display: grid; grid-template-columns: 1fr 220px; gap: 1rem; align-items: center; } .paso-vid { margin-top: 0; width: 220px; } }
+
+.modulo-vid { display: block; width: min(100%, 560px); aspect-ratio: 1; border-radius: 14px; border: 1px solid rgba(30,41,59,.12); background: #fff; margin: 1.2rem 0 .4rem; }
+
+/* Cronómetro de práctica */
+.practica { background: #fff; border: 1px solid rgba(30,41,59,.12); border-radius: 14px; padding: 1.1rem 1.2rem; display: grid; gap: .8rem; }
+.practica button, .quiz button { font: 600 1rem "DM Sans", Arial, sans-serif; border: 0; border-radius: 10px; padding: .65rem 1.1rem; background: var(--psc-navy); color: #fff; cursor: pointer; justify-self: start; }
+.practica button:focus-visible, .quiz button:focus-visible { outline: 3px solid var(--psc-orange); outline-offset: 2px; }
+.practica .ahora { font: 800 1.5rem/1.2 "Playfair Display", Georgia, serif; color: var(--psc-navy); min-height: 2.4em; }
+.practica .barra { height: 12px; border-radius: 12px; background: #EAF4F5; overflow: hidden; }
+.practica .barra i { display: block; height: 100%; width: 0; background: linear-gradient(90deg, #247184, #5BB9C2); }
+.practica .seg { font-variant-numeric: tabular-nums; color: #5A6678; }
+
+/* Autoevaluación */
+.quiz { display: grid; gap: 1rem; }
+.quiz fieldset { border: 1px solid rgba(30,41,59,.12); border-radius: 14px; background: #fff; padding: .9rem 1.1rem; margin: 0; }
+.quiz legend { float: none; width: auto; font: 600 1.02rem "DM Sans", Arial, sans-serif; padding: 0 .4rem; margin: 0; color: var(--psc-navy); }
+.quiz label { display: block; padding: .35rem 0; cursor: pointer; }
+.quiz .resp { margin-top: .5rem; padding: .6rem .8rem; border-radius: 10px; font-size: .98rem; }
+.quiz .resp.ok { background: #EAF4F5; border-left: 6px solid var(--psc-teal); }
+.quiz .resp.no { background: #FFF1E2; border-left: 6px solid var(--psc-orange); }
+
+table { background: #fff; }
+.origen { font-size: .9rem; color: #5A6678; border-top: 1px solid rgba(30,41,59,.15); padding-top: .8rem; margin-top: 2.5rem; }
+@media print { .practica, .quiz button, #quarto-sidebar, #quarto-margin-sidebar { display: none !important; } }

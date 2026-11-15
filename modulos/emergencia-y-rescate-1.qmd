@@ -1,0 +1,196 @@
+---
+title: "Emergencias: reconocer y llamar al 131"
+subtitle: "Qué señales son una emergencia, qué decir en la llamada y cómo tener la casa preparada"
+---
+
+::: {.box .esencial}
+[Lo esencial]{.etiqueta}
+
+- Entre un turno y otro, **quien responde primero eres tú**.
+- Si la persona **no responde o no despierta, no respira, tiene una convulsión que no cede, un sangrado que la compromete, un golpe grave, o la cara torcida, un brazo débil o el habla alterada**: llama al **131 de inmediato**.
+- **Ante la duda, llama.** Siempre a favor de la vida.
+- Ten la **Ficha de Emergencia a la vista** y los **teléfonos críticos a mano**.
+- Los **cambios pequeños** (se comporta distinto, come menos, está confundida, tiene un dolor nuevo, está pálida) se **avisan a tu equipo**.
+- **ProSalCare no es un servicio de urgencia.** En una emergencia, primero el **131**.
+:::
+
+::: {.box .pendiente}
+Aquí irá el video del módulo (2 a 3 minutos). Todavía no está producido.
+:::
+
+Este módulo tendrá una segunda parte, «Emergencias: qué hacer mientras llega la ayuda», que está en preparación.
+
+## Cuándo llamar al 131
+
+Llama al **131 de inmediato** si ves alguna de estas señales.
+
+| Qué pasa | La señal |
+|---|---|
+| **No responde o respira mal** | No responde o no respira |
+| | Se desmayó y no despierta rápido |
+| | Tiene los labios o las uñas azulados, o no puede decir oraciones completas |
+| **Dolor de pecho** | Dolor de pecho intenso con sudor frío |
+| **Cara, brazo o habla** | Cara torcida, brazo débil o habla alterada (prueba CARA) |
+| **Convulsión** | Dura más de 5 minutos, o la persona no recupera la conciencia |
+| **Atragantamiento** | No cede con los golpes en la espalda y las compresiones en el abdomen |
+| **Sangrado** | Es abundante y no se detiene con presión |
+| **Caída o golpe** | Caída con golpe en la cabeza, accidente o golpe grave, o más de 1 hora en el suelo |
+| **Intoxicación** | Llama al 131 y también al **CITUC: 22 247 3600** |
+| **Hinchazón** | Se le hincha la cara o la garganta después de un alimento o un medicamento |
+| **Azúcar baja** | Baja de azúcar con pérdida de conciencia |
+
+### La prueba CARA
+
+<ol class="pasos">
+<li><span class="paso-txt">**Cara:** pídele que sonría. ¿Un lado queda distinto del otro?</span></li>
+<li><span class="paso-txt">**Brazo:** pídele que levante los brazos. ¿Se le cae uno?</span></li>
+<li><span class="paso-txt">**Habla:** ¿habla de forma alterada?</span></li>
+<li><span class="paso-txt">**Acción:** anota la **hora exacta** en que empezó y llama al **131**.</span></li>
+</ol>
+
+## Antes de empezar: la casa preparada
+
+- **Ficha de Emergencia Domiciliaria a la vista**, en tres lugares: el refrigerador, la puerta de la habitación y la puerta principal, o donde lo acuerdes con tu equipo.
+- **Teléfonos críticos impresos y al alcance:** 131; CITUC 22 247 3600 (intoxicaciones); Salud Responde 600 360 7777 (solo orientación); el cuidador principal; tu enfermera o enfermero de ProSalCare; el médico tratante.
+- **La dirección exacta, escrita, con referencias que se vean desde la calle**, para guiar a la ambulancia.
+- **El camino despejado** desde la entrada hasta la habitación, y **la llave de la puerta principal a mano**.
+- **El botiquín de emergencia** al día. Ten claro dónde está.
+
+Tu equipo te capacita para responder y hace contigo un **simulacro dentro del primer mes**. La capacitación se repite si cambia el cuidador, si cambia el domicilio o cuando el equipo vuelve a evaluar a la persona.
+
+### El botiquín de emergencia
+
+Tu enfermera o enfermero te lo sugiere. La familia lo compra y lo mantiene. La TENS revisa en su turno que esté vigente.
+
+El botiquín base tiene:
+
+- Termómetro digital, oxímetro de pulso y tensiómetro validado.
+- Mascarilla facial de reanimación con válvula unidireccional.
+- Gasas estériles, vendas elásticas y cinta adhesiva hipoalergénica.
+- Suero fisiológico al 0,9 %, para irrigar.
+- Guantes desechables (4 a 6 pares) y mascarillas quirúrgicas.
+- Linterna con pilas.
+- Una copia de la Ficha de Emergencia y de los teléfonos críticos.
+
+Según la condición de la persona, el botiquín puede llevar algo más. Eso se agrega **solo con indicación del médico tratante**.
+
+## La llamada al 131
+
+Llama **en menos de un minuto** desde que decides hacerlo.
+
+<ol class="pasos">
+<li><span class="paso-txt">Marca el **131** y pon el teléfono **en altavoz**, para que te puedan guiar por teléfono.</span></li>
+<li><span class="paso-txt">Di **desde dónde llamas**: la dirección exacta con sus referencias.</span></li>
+<li><span class="paso-txt">Di **tu número de teléfono** y que eres quien cuida a la persona.</span></li>
+<li><span class="paso-txt">Di **a quién tienes y qué pasa**, en una frase: su nombre, su edad y lo que ves.</span></li>
+<li><span class="paso-txt">Di sus **enfermedades, los medicamentos importantes que toma y sus alergias**. Están en la Ficha de Emergencia.</span></li>
+<li><span class="paso-txt">Di **cómo está ahora**: si está alerta, si responde, y **hace cuánto empezó**. Agrega presión, pulso, saturación y temperatura.</span></li>
+<li><span class="paso-txt">**Pide la ambulancia** o la orientación médica que necesitas.</span></li>
+<li><span class="paso-txt">**Repite las instrucciones** que te den, para confirmar que las entendiste.</span></li>
+<li><span class="paso-txt">**Mantén el altavoz.** Si la persona no responde y no respira, empieza las compresiones en el pecho.</span></li>
+<li><span class="paso-txt">**Despeja el camino** y pide a alguien que salga a recibir a la ambulancia. **No muevas a la persona**, salvo peligro inmediato.</span></li>
+</ol>
+
+Las compresiones en el pecho irán en la segunda parte, que está en preparación.
+
+## ¿131 o aviso al equipo?
+
+| Situación | Qué hacer |
+|---|---|
+| Ves una de las señales de la tabla de arriba | **131, sin demora.** No te detengas a deliberar: eso no debe retrasar la llamada |
+| No sabes si es una emergencia | **131.** Ante la duda, siempre a favor de la vida |
+| Intoxicación | **131** y también **CITUC: 22 247 3600** |
+| Hay una TENS de ProSalCare en tu casa y **no hay riesgo vital inmediato** | Decides tú, con la información que te da la TENS: pedir una ambulancia o llevar a la persona al lugar donde se atiende habitualmente |
+| Notas un cambio pequeño, sin las señales de arriba | Avisa a tu equipo de ProSalCare |
+
+## Errores frecuentes
+
+::: {.box .nunca}
+- **Dejar la llamada al 131 para después** de otras tareas.
+- **Esperar a estar seguro.** Ante la duda, se llama.
+- **Quitar el altavoz** durante la llamada.
+- **Mover a la persona** cuando puede tener una lesión en el cuello o en la columna. Solo se mueve ante un peligro inmediato, como un incendio o una electrocución.
+- **Darle medicamentos que no están indicados.**
+- **Provocar el vómito** en una intoxicación, salvo que te lo indiquen expresamente el CITUC o el médico tratante.
+:::
+
+## Después de la emergencia
+
+- **Avisa a tu equipo** de toda emergencia, hayas llamado o no al 131, y haya habido o no traslado.
+- **Repón lo que usaste del botiquín.**
+- Dentro de las **72 horas**, tu equipo conversará contigo: qué funcionó, qué se puede mejorar y cómo estás tú. Si lo necesitas, te orientarán hacia apoyo psicológico.
+
+## Cuándo avisar a tu equipo de ProSalCare
+
+::: {.box .nunca}
+**ProSalCare no es un servicio de urgencia.** Si la persona está en riesgo, llama al **131** o llévala a un servicio de urgencia. Si en ese momento no hay una TENS de ProSalCare de turno en tu casa, la primera respuesta depende de ti y de los servicios de urgencia. Avisar a tu equipo sirve para que tu enfermera o enfermero lo sepa y lo considere en el plan de cuidados; no reemplaza la atención de urgencia.
+:::
+
+::: {.box .avisar}
+**Llama al 131** ante cualquiera de las señales de la tabla «Cuándo llamar al 131». Después, avisa a tu equipo.
+:::
+
+::: {.box .avisar}
+**Avisa a tu equipo** si notas alguno de estos cambios:
+
+- **Se comporta distinto** de lo habitual.
+- **Come o toma menos** que de costumbre.
+- Está **confundida**, y antes no lo estaba.
+- Tiene un **dolor nuevo**.
+- Está **pálida**.
+- **Se le escapa la orina o las deposiciones**, y antes no le pasaba.
+
+Avisa también ante cualquier situación que te preocupe seriamente.
+:::
+
+## Comprueba lo que aprendiste
+
+<div class="quiz">
+<fieldset data-ok="1" data-por="Entre un turno y otro, el cuidador familiar es el primer respondedor. ProSalCare no es un servicio de urgencia: primero el 131.">
+<legend>Es de noche, no hay TENS en la casa y la persona no responde. ¿Qué haces primero?</legend>
+<label><input type="radio"> Aviso a mi equipo de ProSalCare y espero</label>
+<label><input type="radio"> Llamo al 131</label>
+<label><input type="radio"> Espero un rato a ver si despierta</label>
+</fieldset>
+<fieldset data-ok="0" data-por="Ante cualquier duda se llama al 131: siempre a favor de la vida.">
+<legend>No estás seguro de si lo que pasa es una emergencia. ¿Qué haces?</legend>
+<label><input type="radio"> Llamo al 131</label>
+<label><input type="radio"> Espero a estar seguro</label>
+<label><input type="radio"> Termino lo que estaba haciendo y después veo</label>
+</fieldset>
+<fieldset data-ok="2" data-por="La Ficha de Emergencia va a la vista en tres lugares: el refrigerador, la puerta de la habitación y la puerta principal, o donde lo acuerdes con tu equipo.">
+<legend>¿Dónde debe estar la Ficha de Emergencia Domiciliaria?</legend>
+<label><input type="radio"> Guardada en un cajón, para que no se pierda</label>
+<label><input type="radio"> Solo en el teléfono del cuidador</label>
+<label><input type="radio"> A la vista: refrigerador, puerta de la habitación y puerta principal</label>
+</fieldset>
+<fieldset data-ok="1" data-por="El altavoz se mantiene durante toda la llamada para que te puedan guiar por teléfono.">
+<legend>Estás llamando al 131. ¿Cómo dejas el teléfono?</legend>
+<label><input type="radio"> Corto apenas doy la dirección</label>
+<label><input type="radio"> En altavoz, durante toda la llamada</label>
+<label><input type="radio"> Pegado a la oreja</label>
+</fieldset>
+<fieldset data-ok="2" data-por="Los cambios pequeños se avisan al equipo: suelen aparecer antes de un problema mayor. Si aparece una señal de emergencia, primero el 131.">
+<legend>Desde ayer la persona come menos y está más pálida, sin otra señal. ¿Qué haces?</legend>
+<label><input type="radio"> Nada, es normal</label>
+<label><input type="radio"> Le doy un medicamento por mi cuenta</label>
+<label><input type="radio"> Aviso a mi equipo de ProSalCare</label>
+</fieldset>
+</div>
+
+## Si eres TENS
+
+::: {.box .tens}
+[Además de lo anterior]{.etiqueta}
+
+- **Preparación del domicilio:** confecciona la Ficha de Emergencia (alergias y anticoagulantes destacados, equipos biomédicos, tres niveles de contacto), instala las tres copias, sugiere el botiquín base y verifica su vigencia en cada turno. Registra en RegisCare ficha, copias, botiquín y capacitación del cuidador. Actualiza ante cambio de domicilio, de cuidador o reevaluación de EINCARE.
+- **Signos vitales** al inicio y al término del turno, y tras procedimientos que los alteran. Fuera de rango o deterioro percibido: aplica NEWS2 (0 a 4, vigilancia; 5 a 6, revisión clínica urgente y reevaluación cada hora; 7 o más, 131). En adultos mayores frágiles, si tu juicio clínico supera al puntaje, activa igual.
+- **Llamada al 131** con I-SBAR completo en menos de 60 segundos: identificación, situación, antecedentes, signos y conciencia (ACVPU), solicitud de móvil básico o avanzado o consejo médico, y confirmación de la decisión del despachador. Registra hora, contenido, decisión y hora de llegada.
+- **Decisión de traslado:** riesgo vital o NEWS2 de 7 o más, 131 directo. Sin riesgo vital inmediato: enfermera gestora o médico tratante; con familiar presente, la familia decide con tu información; sin familiar, deriva según la información de derivación; sin esa información, 131. Paciente paliativo: plan de crisis del tratante; ante crisis no prevista o duda, a favor de la vida y 131.
+- **Presunción a favor de la vida, siempre.** ProSalCare no administra órdenes de no reanimación ni voluntades anticipadas: si existen, infórmalas al SAMU sin suspender el soporte vital. No administres medicamentos no prescritos, salvo las excepciones regladas del protocolo.
+- **Cierre:** no dejes solo al paciente; registra la cronología completa en RegisCare sin esperar el fin del turno, notifica a la enfermera gestora, registra el evento en AlertaCARE, informa a la familia y haz el debriefing con el cuidador dentro de las 72 horas.
+:::
+
+::: {.origen}
+Basado en el protocolo institucional **PSC-PROT-005, Emergencia y Rescate en Domicilio**, versión 0.0, iteración 2026-09. Módulo elaborado por ProSalCare; borrador del 15 de noviembre de 2026. Este material acompaña la enseñanza de tu equipo y no la reemplaza.
+:::

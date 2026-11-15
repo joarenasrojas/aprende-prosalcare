@@ -1,0 +1,40 @@
+---
+title: "Bienvenida"
+---
+
+**Aprende ProSalCare** reúne el material de capacitación para quienes cuidan a una persona en casa: familiares cuidadores y técnicos en enfermería (TENS).
+
+::: {.box .esencial}
+[Cómo usar este material]{.etiqueta}
+
+- Cada módulo enseña **un cuidado**. Se estudia en unos 10 minutos.
+- Parte por **«Lo esencial»**: si solo lees eso, ya sabes lo más importante.
+- Sigue el **paso a paso** y practica con el cronómetro.
+- Termina con las **preguntas** para comprobar lo que aprendiste.
+- Haber leído un módulo no es lo mismo que saber hacerlo: tu enfermera o enfermero lo verá contigo en la visita.
+:::
+
+## Módulos disponibles
+
+| Módulo | Estado |
+|---|---|
+| [Lavado de manos](modulos/higiene-de-manos.qmd) | Borrador, con animaciones y video |
+| [Dar medicamentos con seguridad](modulos/medicamentos.qmd) | Borrador, con animaciones y video |
+| [Medir los signos vitales](modulos/signos-vitales-1.qmd) | Borrador, solo texto |
+| [Medir el azúcar en la sangre](modulos/signos-vitales-2.qmd) | Borrador, solo texto |
+| [Prevenir caídas en casa](modulos/prevencion-de-caidas-1.qmd) | Borrador, solo texto |
+| [Si la persona se cae](modulos/prevencion-de-caidas-2.qmd) | Borrador, solo texto |
+| [Mover a la persona en la cama](modulos/movilizacion-y-transferencia-1.qmd) | Borrador, solo texto |
+| [Pasar de la cama a la silla](modulos/movilizacion-y-transferencia-2.qmd) | Borrador, solo texto |
+| [Cuidar la piel y prevenir lesiones por presión](modulos/cuidado-de-la-piel.qmd) | Borrador, solo texto |
+| [Emergencias: reconocer y llamar al 131](modulos/emergencia-y-rescate-1.qmd) | Borrador, solo texto |
+| Emergencias: qué hacer mientras llega la ayuda | En preparación |
+| [Cuando algo sale mal: avisa](modulos/eventos-adversos.qmd) | Borrador, solo texto |
+
+## Si hay una urgencia
+
+Este material es para aprender con calma. **No es para emergencias, y ProSalCare no es un servicio de urgencia.** Si la persona que cuidas está en riesgo, llama al **131 (SAMU)** o llévala a un servicio de urgencia. Después, avisa a tu equipo de ProSalCare.
+
+## Sobre este material
+
+Cada módulo se basa en un protocolo institucional de ProSalCare y lo dice al final, con su versión. El material acompaña la enseñanza de tu equipo y no la reemplaza. Es una versión de prueba, en revisión.

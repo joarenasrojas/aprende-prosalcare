@@ -1,0 +1,168 @@
+---
+title: "Lavado de manos"
+subtitle: "La medida más simple para evitar infecciones en casa"
+---
+
+::: {.box .esencial}
+[Lo esencial]{.etiqueta}
+
+- Tus manos son la principal vía por la que los microbios llegan a la persona que cuidas.
+- Hay dos formas de limpiarlas: **agua y jabón (40 a 60 segundos)** o **alcohol gel (20 a 30 segundos)**.
+- Lávalas **antes y después** de cada cuidado.
+- El alcohol gel **no sirve** si las manos están sucias o si la persona tiene diarrea o vómitos: ahí va **agua y jabón**.
+- Los guantes **no reemplazan** el lavado: lávate antes de ponértelos y después de sacártelos.
+:::
+
+<video class="modulo-vid" controls playsinline preload="metadata" poster="../assets/media/manos/video-modulo.jpg">
+<source src="../assets/media/manos/video-modulo.mp4" type="video/mp4">
+<track kind="subtitles" srclang="es" label="Español" src="../assets/media/manos/video-modulo.vtt" default>
+</video>
+
+[Video del módulo: 3 minutos, con subtítulos.]{.etiqueta}
+
+## Cuándo lavarte las manos
+
+Son cinco momentos: dos «antes» y tres «después».
+
+| Momento | Ejemplos en casa |
+|---|---|
+| **Antes** de tocar a la persona | Saludarla, tomarle la presión, darle de comer, ayudarla a moverse |
+| **Antes** de un cuidado que debe ser muy limpio | Preparar medicamentos, manejar una sonda, hacer una curación |
+| **Después** de tocar o poder tocar fluidos del cuerpo | Cambiar el pañal, vaciar un drenaje, limpiar la boca, tocar piel con heridas |
+| **Después** de tocar a la persona | Moverla, asearla, alimentarla |
+| **Después** de tocar sus cosas | La ropa de cama, el velador, los aparatos que tiene cerca |
+
+## Antes de empezar
+
+- **Uñas cortas y limpias.**
+- **Sin anillos, pulseras ni reloj** mientras cuidas.
+- **Mangas arriba del codo.**
+- Ten a mano **jabón líquido con dosificador** (no en barra), **alcohol gel al 70 %** y **toalla de papel**. Si usas toalla de tela, que sea solo tuya y se lave todos los días.
+- El agua, **templada, no caliente**. El agua caliente irrita la piel.
+
+## Con agua y jabón: 40 a 60 segundos
+
+<ol class="pasos">
+<li><span class="paso-txt">**Moja** tus manos con agua templada y ponte jabón.</span><video class="paso-vid" src="../assets/media/manos/jabon-01.mp4" poster="../assets/media/manos/jabon-01.jpg" loop muted playsinline preload="none" aria-label="Dos manos bajo el chorro de agua; luego cae jabón en una palma"></video></li>
+<li><span class="paso-txt">Frota **palma con palma**.</span><video class="paso-vid" src="../assets/media/manos/jabon-02.mp4" poster="../assets/media/manos/jabon-02.jpg" loop muted playsinline preload="none" aria-label="Una palma frota la otra en círculos"></video></li>
+<li><span class="paso-txt">Frota la **palma sobre el dorso** de la otra mano, con los dedos entrelazados. Cambia de mano.</span><video class="paso-vid" src="../assets/media/manos/jabon-03.mp4" poster="../assets/media/manos/jabon-03.jpg" loop muted playsinline preload="none" aria-label="Una mano frota el dorso de la otra con los dedos entrelazados"></video></li>
+<li><span class="paso-txt">Frota **palma con palma con los dedos entrelazados**.</span><video class="paso-vid" src="../assets/media/manos/jabon-04.mp4" poster="../assets/media/manos/jabon-04.jpg" loop muted playsinline preload="none" aria-label="Manos palma con palma con los dedos entrelazados, deslizándose"></video></li>
+<li><span class="paso-txt">Frota el **dorso de los dedos** contra la palma opuesta, con los dedos entrelazados.</span><video class="paso-vid" src="../assets/media/manos/jabon-05.mp4" poster="../assets/media/manos/jabon-05.jpg" loop muted playsinline preload="none" aria-label="El dorso de los dedos de una mano frota la palma de la otra"></video></li>
+<li><span class="paso-txt">Envuelve y gira cada **pulgar** dentro de la otra mano. Los dos pulgares.</span><video class="paso-vid" src="../assets/media/manos/jabon-06.mp4" poster="../assets/media/manos/jabon-06.jpg" loop muted playsinline preload="none" aria-label="Una mano envuelve y gira el pulgar de la otra"></video></li>
+<li><span class="paso-txt">Frota las **yemas de los dedos** en círculos sobre la palma opuesta.</span><video class="paso-vid" src="../assets/media/manos/jabon-07.mp4" poster="../assets/media/manos/jabon-07.jpg" loop muted playsinline preload="none" aria-label="Las yemas de una mano giran sobre la palma de la otra"></video></li>
+<li><span class="paso-txt">Frota las **muñecas y los antebrazos**, y enjuaga con abundante agua hasta retirar todo el jabón.</span><video class="paso-vid" src="../assets/media/manos/jabon-08.mp4" poster="../assets/media/manos/jabon-08.jpg" loop muted playsinline preload="none" aria-label="Una mano frota la muñeca y el antebrazo de la otra; luego se enjuagan"></video></li>
+<li><span class="paso-txt">**Seca por completo** con toalla de papel, desde las yemas hacia las muñecas.</span><video class="paso-vid" src="../assets/media/manos/jabon-09.mp4" poster="../assets/media/manos/jabon-09.jpg" loop muted playsinline preload="none" aria-label="Una toalla de papel seca la mano desde las yemas hacia la muñeca"></video></li>
+<li><span class="paso-txt">**Cierra la llave con la toalla usada**, nunca con la mano limpia, y bótala.</span><video class="paso-vid" src="../assets/media/manos/jabon-10.mp4" poster="../assets/media/manos/jabon-10.jpg" loop muted playsinline preload="none" aria-label="La mano cierra la llave con la toalla usada y la bota"></video></li>
+</ol>
+
+### Practica con el cronómetro
+
+<div class="practica" data-pasos='[["Moja y ponte jabón",5],["Palma con palma",6],["Palma sobre dorso, dedos entrelazados, ambas manos",8],["Palma con palma, dedos entrelazados",6],["Dorso de los dedos contra la palma",6],["Pulgares: envuelve y gira, los dos",8],["Yemas en círculos sobre la palma",6],["Muñecas y antebrazos, y enjuague completo",5]]'></div>
+
+## Con alcohol gel: 20 a 30 segundos
+
+Úsalo solo con las manos **secas y sin suciedad a la vista**.
+
+<ol class="pasos">
+<li><span class="paso-txt">Ponte alcohol gel suficiente para **cubrir las dos manos hasta las muñecas**.</span><video class="paso-vid" src="../assets/media/manos/gel-01.mp4" poster="../assets/media/manos/gel-01.jpg" loop muted playsinline preload="none" aria-label="Cae alcohol gel en la palma de la mano"></video></li>
+<li><span class="paso-txt">Haz **los mismos movimientos** que con el jabón: palmas, dorsos, entre los dedos, pulgares y yemas.</span><video class="paso-vid" src="../assets/media/manos/gel-02.mp4" poster="../assets/media/manos/gel-02.jpg" loop muted playsinline preload="none" aria-label="Las manos repiten los movimientos de frotado"></video></li>
+<li><span class="paso-txt">Sigue frotando **hasta que se seque solo**. No agites las manos al aire ni uses toalla.</span><video class="paso-vid" src="../assets/media/manos/gel-03.mp4" poster="../assets/media/manos/gel-03.jpg" loop muted playsinline preload="none" aria-label="Las manos se frotan hasta que el gel desaparece"></video></li>
+</ol>
+
+## ¿Agua y jabón o alcohol gel?
+
+| Situación | Qué usar |
+|---|---|
+| Manos limpias y secas, entre una tarea y otra | Alcohol gel |
+| Manos sucias a la vista o con fluidos del cuerpo | **Agua y jabón, siempre** |
+| La persona tiene diarrea o vómitos | **Agua y jabón, siempre**, después de cada cuidado |
+| Antes de un cuidado que debe ser muy limpio | Agua y jabón con antiséptico |
+
+## Errores frecuentes
+
+::: {.box .nunca}
+- **Olvidar los pulgares.** Es la parte que más se salta.
+- **Poco jabón** o poco tiempo.
+- **Secarse a medias.** Las manos húmedas se irritan y vuelven a contaminarse.
+- **Cerrar la llave con la mano recién lavada.**
+- **Ponerse guantes con las manos húmedas.**
+- **Rellenar** un envase vacío con jabón o alcohol gel de otro envase.
+:::
+
+## Cuida la piel de tus manos
+
+Lavarse muchas veces reseca. Una piel agrietada duele y junta más microbios.
+
+- Enjuaga bien: los restos de jabón son la causa más común de irritación.
+- Seca sin frotar fuerte.
+- Usa **crema hidratante hipoalergénica**, idealmente después del último lavado.
+
+## Cuándo avisar a tu equipo de ProSalCare
+
+::: {.box .nunca}
+**ProSalCare no es un servicio de urgencia.** Si la persona está en riesgo, llama al **131** o llévala a un servicio de urgencia. Si en ese momento no hay una TENS de ProSalCare de turno en tu casa, la primera respuesta depende de ti y de los servicios de urgencia. Avisar a tu equipo sirve para que tu enfermera o enfermero lo sepa y lo considere en el plan de cuidados; no reemplaza la atención de urgencia.
+:::
+
+::: {.box .avisar}
+Avisa a tu equipo si:
+
+- Tus manos o las de la persona que cuidas están **muy rojas, agrietadas o con dolor** después de lavarlas.
+- Tienes una **herida o ampolla en la mano** que no mejora en dos o tres días.
+- **Falta jabón, alcohol gel o toalla** en la casa.
+- La persona tiene **diarrea importante o vómitos**.
+- La persona tiene **fiebre, está decaída o más confundida** que de costumbre.
+:::
+
+Tienes derecho a ver que cada persona del equipo se lave las manos antes de atender, y a pedírselo si notas que lo olvidó. Nos ayuda que lo hagas.
+
+## Comprueba lo que aprendiste
+
+<div class="quiz">
+<fieldset data-ok="1" data-por="Con agua y jabón son 40 a 60 segundos; con alcohol gel, 20 a 30.">
+<legend>¿Cuánto debe durar el lavado con agua y jabón?</legend>
+<label><input type="radio"> 10 a 15 segundos</label>
+<label><input type="radio"> 40 a 60 segundos</label>
+<label><input type="radio"> 3 minutos</label>
+</fieldset>
+<fieldset data-ok="2" data-por="El alcohol gel no elimina lo que causa algunas diarreas y vómitos. En esos casos, siempre agua y jabón.">
+<legend>La persona que cuidas está con diarrea. Después de cambiarle el pañal, ¿qué usas?</legend>
+<label><input type="radio"> Alcohol gel, porque es más rápido</label>
+<label><input type="radio"> Nada, si usé guantes</label>
+<label><input type="radio"> Agua y jabón</label>
+</fieldset>
+<fieldset data-ok="0" data-por="Los guantes no reemplazan el lavado: antes de ponértelos y después de sacártelos.">
+<legend>Vas a usar guantes. ¿Cuándo te lavas las manos?</legend>
+<label><input type="radio"> Antes de ponérmelos y después de sacármelos</label>
+<label><input type="radio"> Solo después</label>
+<label><input type="radio"> No hace falta</label>
+</fieldset>
+<fieldset data-ok="1" data-por="La llave está sucia: se cierra con la misma toalla de papel con que te secaste.">
+<legend>Terminaste de lavarte. ¿Cómo cierras la llave?</legend>
+<label><input type="radio"> Con la mano, rápido</label>
+<label><input type="radio"> Con la toalla de papel usada</label>
+<label><input type="radio"> Da lo mismo</label>
+</fieldset>
+<fieldset data-ok="2" data-por="Se avisa al equipo: una piel dañada duele, junta más microbios y puede necesitar tratamiento.">
+<legend>Tus manos están rojas y agrietadas desde hace días. ¿Qué haces?</legend>
+<label><input type="radio"> Dejo de lavármelas</label>
+<label><input type="radio"> Uso solo alcohol gel</label>
+<label><input type="radio"> Aviso al equipo de ProSalCare</label>
+</fieldset>
+</div>
+
+## Si eres TENS
+
+::: {.box .tens}
+[Además de lo anterior]{.etiqueta}
+
+- **Agua y jabón obligatorios** al inicio y al cierre del turno, con manos sucias o con fluidos, y en pacientes con *Clostridioides difficile* o Norovirus. Antes de un procedimiento aséptico, agua y jabón con antiséptico.
+- **Al inicio del turno** verifica stock y vencimiento de jabón, alcohol gel, toalla y crema, y el estado de los dispensadores. No trasvasijes productos. Si falta algo, avisa a la familia y a la enfermera gestora, y regístralo en RegisCare.
+- **Tu piel:** inspecciona tus manos al inicio del turno y usa crema al menos una vez por turno. Reporta fisuras, eritema, prurito, descamación o dermatitis.
+- **Educa al cuidador:** demuestra ambas técnicas y pídele que las repita. Corrige pulgar, secado y cantidad de jabón. Registra la educación en RegisCare.
+- **Deriva a la enfermera gestora:** dermatitis tuya o del cuidador que comprometa la higiene de manos, signos de infección en el paciente, sospecha de *C. difficile* o Norovirus, reacción a un producto, o falta sostenida de insumos.
+- **Al cierre:** lavado final con agua y jabón, crema, registro de stock, educación e incidencias, y aviso al turno entrante de lo crítico.
+:::
+
+::: {.origen}
+Basado en el protocolo institucional **PSC-PROT-009, Higiene de Manos en Domicilio**, versión 0.0, iteración 2026-09. Módulo elaborado por ProSalCare; borrador del 14 de noviembre de 2026. Este material acompaña la enseñanza de tu equipo y no la reemplaza.
+:::

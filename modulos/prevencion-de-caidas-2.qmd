@@ -1,0 +1,178 @@
+---
+title: "Si la persona se cae"
+subtitle: "Qué mirar primero, cuándo llamar al 131 y cómo ayudarla a levantarse"
+---
+
+::: {.box .esencial}
+[Lo esencial]{.etiqueta}
+
+- **No la levantes de inmediato.** Mantén la calma y tranquilízala.
+- **Mira antes de mover:** si responde, si respira, si tiene dolor, sangrado o alguna deformidad.
+- Con **cualquier señal de gravedad**, no la muevas y **llama al 131**.
+- Sin señales de gravedad, se levanta **por etapas**: de lado, en cuatro apoyos y con apoyo en un mueble estable.
+- **Avisa siempre** a tu equipo después de una caída, la hayas visto o no, aunque parezca leve.
+- ProSalCare **no es un servicio de urgencia**: ante una emergencia, primero el 131.
+:::
+
+::: {.box .pendiente}
+Aquí irá el video del módulo (2 a 3 minutos). Todavía no está producido.
+:::
+
+Este módulo es la segunda parte de [Prevenir caídas en casa](prevencion-de-caidas-1.qmd).
+
+## Cuándo se aplica
+
+Una caída es cuando el cuerpo baja de golpe y sin querer al suelo o a otra superficie.
+
+| Situación | Qué hacer |
+|---|---|
+| Se cayó estando **de pie o sentada** | Sigue los pasos de este módulo |
+| Se cayó **de la cama, de una silla o en la escalera** | Sigue los pasos de este módulo |
+| **No la viste caer** | Es una caída igual: sigue los mismos pasos y avisa a tu equipo |
+| Hay una **TENS de ProSalCare de turno** en la casa | Ella la evalúa y te informa. Si hay señales de gravedad, tú decides entre pedir una ambulancia o derivarla a donde se atiende habitualmente |
+
+## Ten esto preparado desde antes
+
+- Una **manta** a mano.
+- El **teléfono** cerca. El número de emergencia es el **131**.
+- Conversado con tu equipo: **a qué institución derivarla**, que es donde se atiende habitualmente.
+
+## Primero: mira antes de mover
+
+<ol class="pasos">
+<li><span class="paso-txt">**No la muevas.** Mantén la calma y tranquilízala.</span></li>
+<li><span class="paso-txt">Mira si **responde** y si **respira**.</span></li>
+<li><span class="paso-txt">**Revísala de la cabeza a los pies**, sin moverla: deformidad, dolor en un punto, sangrado, moretones, señales de fractura.</span></li>
+<li><span class="paso-txt">**Cúbrela con una manta.**</span></li>
+<li><span class="paso-txt">**No le des comida ni líquidos** hasta confirmar que puede tragar.</span></li>
+<li><span class="paso-txt">Busca las **señales de gravedad** de la lista que sigue. Con una sola: **no la muevas y llama al 131**.</span></li>
+</ol>
+
+::: {.box .nunca}
+**Señales de gravedad.** Con cualquiera de ellas, no la muevas y llama al **131**:
+
+- **Perdió la conciencia**, aunque haya sido un momento.
+- **Se golpeó la cabeza.**
+- Tiene un **brazo o una pierna deformados, dolor severo** o no puede mover una articulación.
+- **Sangrado abundante** o que no se detiene.
+- **Dificultad para respirar, dolor en el pecho** o palpitaciones nuevas.
+- **Confusión o desorientación** que antes no tenía.
+:::
+
+Tú decides entre pedir una ambulancia o derivarla a la institución donde se atiende habitualmente. Si no tienes claro a dónde derivarla, **llama al 131**. Después, avisa a tu equipo.
+
+## Si no hay señales de gravedad: levantarse por etapas
+
+<ol class="pasos">
+<li><span class="paso-txt">Que se ponga **de lado**.</span></li>
+<li><span class="paso-txt">Luego, **en cuatro apoyos**: manos y rodillas.</span></li>
+<li><span class="paso-txt">Luego, que **se apoye en un mueble estable** para incorporarse.</span></li>
+<li><span class="paso-txt">Si necesita mucha ayuda, háganlo **entre dos personas**.</span></li>
+<li><span class="paso-txt">**Nunca tires** de su ropa, de sus axilas ni de sus muñecas.</span></li>
+<li><span class="paso-txt">**Avisa a tu equipo**, aunque la caída parezca leve.</span></li>
+</ol>
+
+## Si pasa esto, haz esto
+
+| Situación | Qué hacer |
+|---|---|
+| Tiene **una o más señales de gravedad** | No la muevas. Llama al 131. Después, avisa a tu equipo |
+| Sospechas una **fractura**, un **golpe fuerte en la cabeza** o una **lesión en la columna** | No la muevas. Llama al 131 |
+| **No tiene señales de gravedad** | Ayúdala a levantarse por etapas. Avisa a tu equipo |
+| Necesita **mucha ayuda** para moverse | No la levantes a solas: entre dos personas |
+| **Parece estar bien** | Avisa igual a tu equipo. Toda caída se informa |
+
+## Después de la caída
+
+- Tu equipo te preguntará **qué estaba haciendo** la persona y **qué sintió** al caer: mareo, debilidad, un tropiezo, apuro por ir al baño.
+- Revisarán contigo **qué influyó**: el calzado, la luz, alfombras u obstáculos, el estado de la ayuda técnica. Lo que se puede corregir, se corrige de inmediato.
+- Tu enfermera o enfermero **vuelve a evaluar el riesgo de caída** y ajusta el plan de cuidados.
+
+## Errores frecuentes
+
+::: {.box .nunca}
+- **Levantarla de inmediato**, antes de mirar cómo está.
+- **Moverla** cuando hay una señal de gravedad.
+- **Darle agua o comida** antes de confirmar que puede tragar.
+- **Tirar de las muñecas, las axilas o la ropa** para incorporarla.
+- **Levantarla a solas** cuando necesita a dos personas.
+- **No avisar** porque parece estar bien o porque no la viste caer.
+:::
+
+## Cuándo avisar a tu equipo de ProSalCare
+
+::: {.box .nunca}
+**ProSalCare no es un servicio de urgencia.** Si la persona está en riesgo, llama al **131** o llévala a un servicio de urgencia. Si en ese momento no hay una TENS de ProSalCare de turno en tu casa, la primera respuesta depende de ti y de los servicios de urgencia. Avisar a tu equipo sirve para que tu enfermera o enfermero lo sepa y lo considere en el plan de cuidados; no reemplaza la atención de urgencia.
+:::
+
+::: {.box .avisar}
+**Llama al 131** si la persona tiene alguna de estas señales. Después, avisa a tu equipo:
+
+- **Golpe en la cabeza** o pérdida de conocimiento, aunque sea breve.
+- **Desmayo.**
+- Vómitos, dolor de cabeza intenso, sueño inusual, confusión nueva o no recuerda lo que pasó.
+- **No puede mover** un brazo o una pierna, o tiene deformidad, hinchazón rápida o un moretón grande.
+- **Sangrado abundante** o herida profunda.
+- **Dolor en el pecho**, dificultad para respirar o palpitaciones nuevas.
+:::
+
+::: {.box .avisar}
+**Avisa a tu equipo** cuando:
+
+- Hubo una **caída**, la hayas visto o no, aunque la persona parezca estar bien.
+- Tiene **mareo**.
+- **Camina distinto:** tropieza, arrastra los pies o está débil al pararse.
+- Le **cambiaron hace poco los medicamentos** y la notas alterada.
+:::
+
+## Comprueba lo que aprendiste
+
+<div class="quiz">
+<fieldset data-ok="0" data-por="Primero se mira, sin moverla: si responde, si respira, si tiene dolor, sangrado o deformidad. Levantarla viene después, y solo si no hay señales de gravedad.">
+<legend>Encuentras a la persona en el suelo. ¿Qué haces primero?</legend>
+<label><input type="radio"> Mantengo la calma y la reviso sin moverla</label>
+<label><input type="radio"> La levanto y la siento en la cama</label>
+<label><input type="radio"> Le doy un vaso de agua</label>
+</fieldset>
+<fieldset data-ok="2" data-por="El golpe en la cabeza y la pérdida de conciencia, aunque sea breve, son señales de gravedad: no se mueve y se llama al 131.">
+<legend>Se cayó, se golpeó la cabeza y estuvo unos segundos sin responder. Ahora dice que está bien. ¿Qué haces?</legend>
+<label><input type="radio"> La ayudo a levantarse, porque ya está bien</label>
+<label><input type="radio"> Espero al próximo turno para contarlo</label>
+<label><input type="radio"> No la muevo y llamo al 131</label>
+</fieldset>
+<fieldset data-ok="1" data-por="Sin señales de gravedad, se levanta por etapas: de lado, luego en cuatro apoyos y luego con apoyo en un mueble estable.">
+<legend>No hay señales de gravedad. ¿En qué orden se levanta?</legend>
+<label><input type="radio"> La tomo de las muñecas y la paro de una vez</label>
+<label><input type="radio"> De lado, en cuatro apoyos y con apoyo en un mueble estable</label>
+<label><input type="radio"> Sentada y de pie de inmediato</label>
+</fieldset>
+<fieldset data-ok="1" data-por="No se da comida ni líquidos hasta confirmar que puede tragar.">
+<legend>Recién se cayó y pide agua. ¿Qué haces?</legend>
+<label><input type="radio"> Se la doy de inmediato</label>
+<label><input type="radio"> No le doy hasta confirmar que puede tragar</label>
+<label><input type="radio"> Le doy algo dulce para el susto</label>
+</fieldset>
+<fieldset data-ok="2" data-por="Toda caída se avisa al equipo, se haya visto o no y aunque parezca leve.">
+<legend>Se cayó, se levantó por etapas y no tiene ninguna señal de gravedad. ¿Avisas a tu equipo?</legend>
+<label><input type="radio"> No, porque no le pasó nada</label>
+<label><input type="radio"> Solo si se vuelve a caer</label>
+<label><input type="radio"> Sí, siempre</label>
+</fieldset>
+</div>
+
+## Si eres TENS
+
+::: {.box .tens}
+[Además de lo anterior]{.etiqueta}
+
+- **Evalúa sin movilizar:** conciencia, respiración y circulación; inspección céfalo-caudal. Con sangrado o exposición a fluidos, higiene de manos, guantes de procedimiento y pechera desechable (EPP-2).
+- **Signos vitales antes de incorporar:** presión arterial, frecuencia cardíaca y respiratoria, saturación si hay, y glicemia en diabéticos.
+- **Con criterios de gravedad,** activa el protocolo de rescate PSC-PROT-005. Con familiar presente, el familiar decide con tu información clínica entre ambulancia o la institución habitual. Sin familiar pero con información de derivación, derivas ahí y avisas a la familia y a la enfermera o enfermero gestor de caso. Sin información de derivación, 131 (SAMU).
+- **Causa en el momento,** si no hubo criterios de gravedad y el paciente está bien: reconstruye con el paciente y el cuidador qué hacía y qué sintió; controla presión arterial (acostado y de pie si sospechas hipotensión ortostática), glicemia en diabéticos y cambios recientes de medicación; revisa calzado, iluminación, alfombras u obstáculos y ayuda técnica, y corrige de inmediato lo corregible.
+- **Registra en RegisCare dentro de 24 horas:** hora, lugar, circunstancia, causa identificada, factores intrínsecos y extrínsecos, signos vitales, hallazgos, conducta y derivación. Toda caída, presenciada o reportada, es un evento adverso: AlertaCARE, enfermera o enfermero gestor de caso y médico tratante. Informa a la familia y registra la conversación.
+- **Seguimiento:** el gestor o la gestora reaplica Downton en EINCARE dentro de 24 horas, actualiza el plan y hace el análisis de causa con la familia. Las fotografías de lesiones requieren consentimiento previo y van solo a repositorios autorizados.
+:::
+
+::: {.origen}
+Basado en el protocolo institucional **PSC-PROT-003, Prevención de Caídas en Domicilio**, versión 0.0, iteración 2026-09. Módulo elaborado por ProSalCare; borrador del 15 de noviembre de 2026. Este material acompaña la enseñanza de tu equipo y no la reemplaza.
+:::

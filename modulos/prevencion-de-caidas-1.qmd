@@ -1,0 +1,187 @@
+---
+title: "Prevenir caídas en casa"
+subtitle: "La casa, el calzado y cómo ayudar a levantarse y caminar"
+---
+
+::: {.box .esencial}
+[Lo esencial]{.etiqueta}
+
+- Una caída **se puede prevenir**. Depende de cómo está la persona y también de cómo está la casa.
+- **Casa segura:** cama baja y con frenos, trayectos despejados y baño con barras.
+- **Calzado cerrado y antideslizante**, dentro y fuera de la casa.
+- Antes de ponerla de pie, **siéntala al borde de la cama 5 minutos**, con los pies en el suelo.
+- Entre un turno y otro, haz tú la **ronda de seguridad** y regístrala en RegisCare.
+- Si se cae, **no la levantes de inmediato**. Ante una **emergencia, llama al 131**. ProSalCare no es un servicio de urgencia.
+:::
+
+::: {.box .pendiente}
+Aquí irá el video del módulo (2 a 3 minutos). Todavía no está producido.
+:::
+
+Este módulo tiene una segunda parte: [Si la persona se cae](prevencion-de-caidas-2.qmd).
+
+## Cuándo cuidar cada cosa
+
+| Momento | Qué cuidar |
+|---|---|
+| **Todo el día** | Calzado cerrado, trayectos despejados y sus cosas siempre al alcance |
+| **Cada vez que se levanta o camina** | Frenos puestos, 5 minutos sentada, calzado puesto y ayuda técnica al alcance |
+| **De noche** | Cama baja, luz nocturna de la cama al baño y ropa de dormir que no arrastre |
+| **Entre un turno y otro** de tu equipo | La ronda de seguridad, registrada en RegisCare |
+| **La primera vez que se levanta** después de un reposo prolongado (más de 5 días) o de una sedación | La levanta la TENS, contigo presente cuando corresponda |
+
+Una **ayuda técnica** es lo que la persona usa para caminar o pasar de un lugar a otro: bastón, andador, silla de ruedas, alza de inodoro, agarraderas.
+
+## La casa, lugar por lugar
+
+Los cambios en la casa se acuerdan entre tu familia y tu equipo. Nadie modifica tu casa sin tu acuerdo.
+
+| Lugar | Cómo debe quedar |
+|---|---|
+| **Cama** | A la altura más baja que permita. Con frenos puestos, si es articulada con ruedas. Para dormir, cabecera a 30 grados o menos, salvo otra indicación; puedes ayudarte con cojines |
+| **Barandillas** | Arriba de noche solo si la cama las tiene, el riesgo de caída es alto y lo acordaste con tu equipo |
+| **Velador o mesa** | Timbre, lentes, audífono, agua y linterna al alcance de la mano |
+| **Dormitorio** | Luz nocturna en el trayecto de la cama al baño. Sin alfombras sueltas ni cables |
+| **Baño** | Barras de sujeción junto al inodoro y en la ducha. Alfombrilla o cintas antideslizantes. Alza de inodoro y silla de ducha, cuando correspondan. Puerta que abra hacia afuera o corredera |
+| **Pasillos y escaleras** | Trayecto libre. Bordes de los escalones marcados con cinta que contraste. Pasamanos. Buena luz en cada tramo |
+| **Muebles** | Sillas estables y con apoyabrazos. Los muebles inestables, fuera del trayecto. Sus objetos personales, siempre al alcance |
+| **Calzado y ropa** | Calzado cerrado con suela de goma, dentro y fuera de la casa. Ropa de dormir que no arrastre |
+
+## Antes de ayudarla a levantarse
+
+- Confirma que levantarse y caminar es **lo que indicó tu equipo** para ella.
+- **Mira cómo está:** pregúntale si siente dolor o mareo.
+- Revisa su **bastón, andador o silla de ruedas** antes de cada uso: altura bien ajustada, topes de goma y sin daños.
+- **Pon los frenos** de la cama, de la silla de ruedas o del sillón.
+- **Cuéntale lo que van a hacer** y asegura buena luz.
+
+## Ayudarla a levantarse y caminar
+
+<ol class="pasos">
+<li><span class="paso-txt">**Siéntala al borde de la cama**, con los pies apoyados en el suelo.</span></li>
+<li><span class="paso-txt">**Espera 5 minutos** así, sentada, antes de ponerla de pie.</span></li>
+<li><span class="paso-txt">**Ponle su calzado** cerrado y antideslizante, y deja la **ayuda técnica al alcance**.</span></li>
+<li><span class="paso-txt">Si corresponde usar **cinturón de transferencia**, pónselo.</span></li>
+<li><span class="paso-txt">**Nunca tires** de su ropa, de sus axilas ni de sus muñecas.</span></li>
+<li><span class="paso-txt">Ayúdala a ponerse de pie con un movimiento **lento y coordinado**. Ella mantiene el control de su postura.</span></li>
+<li><span class="paso-txt">Caminen despacio, **contando los pasos en voz alta**.</span></li>
+<li><span class="paso-txt">**No la pierdas de vista** mientras camina.</span></li>
+<li><span class="paso-txt">Ante cualquier inestabilidad, **detente y siéntala** en un lugar seguro.</span></li>
+</ol>
+
+## Si pasa esto, haz esto
+
+| Situación | Qué hacer |
+|---|---|
+| Mientras se levanta o camina tiene **mareo, palidez, sudoración, palpitaciones, dolor en el pecho, debilidad repentina o desorientación** | **Detente** y siéntala en un lugar seguro. Si es una de las señales de «Llama al 131», más abajo, llama |
+| **Se cae** | No la levantes de inmediato. Sigue [Si la persona se cae](prevencion-de-caidas-2.qmd) |
+| **Se desmayó hace poco** o le baja mucho la presión al ponerse de pie | Camina solo acompañada y vigilada, después de 5 minutos sentada |
+| Tiene diabetes y **síntomas por azúcar baja o alta** | No la hagas caminar hasta que el azúcar se estabilice y los síntomas pasen. Sigue la indicación de su médico tratante |
+| Es la **primera levantada** después de un reposo prolongado o de una sedación | No la levantes a solas: la levanta la TENS, contigo presente cuando corresponda |
+| Está en **cuidados paliativos al final de la vida** | Su comodidad y su voluntad van primero. Las medidas se ajustan a eso, cuidando su dignidad |
+| **No quiere** una medida (un cambio en la casa, las barandillas, la ayuda técnica) | Puede aplazarla, cambiarla o rechazarla. Avisa a tu equipo |
+
+## La ronda de seguridad
+
+Es una revisión de cinco cosas. La TENS la hace una vez en cada turno. **Entre un turno y otro, la haces tú** y la registras en RegisCare, en tu vista de cuidador.
+
+1. **Cosas al alcance:** timbre, agua y lentes.
+2. **Baño:** si necesita ir.
+3. **Comodidad:** si está cómoda y en buena posición.
+4. **Dolor:** si le duele algo.
+5. **Entorno seguro:** que todo a su alrededor esté como en la tabla de la casa.
+
+**Vigilancia activa** quiere decir tenerla a la vista y al oído, sin cortinas ni separadores de por medio.
+
+## Moverse también protege
+
+La actividad física ayuda a prevenir caídas: ejercicios de **fuerza, equilibrio y marcha**, según lo que indique kinesiología.
+
+## Errores frecuentes
+
+::: {.box .nunca}
+- **Pantuflas sueltas, sandalias, zapatos sin sujeción en el talón** o medias sin antideslizante.
+- **Ponerla de pie apenas se sienta**, sin esperar los 5 minutos.
+- **Tirar de la ropa, las axilas o las muñecas** para levantarla.
+- **Olvidar los frenos** de la cama, la silla de ruedas o el sillón.
+- **Seguir caminando** cuando se marea o se pone pálida.
+- **Usar barandillas o sujeciones en vez de vigilar.** Sujetar a una persona requiere indicación médica y nunca reemplaza la vigilancia.
+:::
+
+## Cuándo avisar a tu equipo de ProSalCare
+
+::: {.box .nunca}
+**ProSalCare no es un servicio de urgencia.** Si la persona está en riesgo, llama al **131** o llévala a un servicio de urgencia. Si en ese momento no hay una TENS de ProSalCare de turno en tu casa, la primera respuesta depende de ti y de los servicios de urgencia. Avisar a tu equipo sirve para que tu enfermera o enfermero lo sepa y lo considere en el plan de cuidados; no reemplaza la atención de urgencia.
+:::
+
+::: {.box .avisar}
+**Llama al 131** si la persona tiene alguna de estas señales. Después, avisa a tu equipo:
+
+- **Golpe en la cabeza** o pérdida de conocimiento, aunque sea breve.
+- **Desmayo.**
+- Vómitos, dolor de cabeza intenso, sueño inusual, confusión nueva o no recuerda lo que pasó.
+- **No puede mover** un brazo o una pierna, o tiene deformidad, hinchazón rápida o un moretón grande.
+- **Sangrado abundante** o herida profunda.
+- **Dolor en el pecho**, dificultad para respirar o palpitaciones nuevas.
+:::
+
+::: {.box .avisar}
+**Avisa a tu equipo** cuando:
+
+- Hubo una **caída**, la hayas visto o no, aunque la persona parezca estar bien.
+- Tiene **mareo**.
+- **Camina distinto:** tropieza, arrastra los pies o está débil al pararse.
+- Le **cambiaron hace poco los medicamentos** y la notas alterada.
+:::
+
+## Comprueba lo que aprendiste
+
+<div class="quiz">
+<fieldset data-ok="1" data-por="Calzado cerrado, con suela de goma, dentro y fuera de la casa. No pantuflas sueltas, sandalias, zapatos sin sujeción en el talón ni medias sin antideslizante.">
+<legend>¿Qué calzado debe usar la persona dentro de la casa?</legend>
+<label><input type="radio"> Pantuflas sueltas, que son más cómodas</label>
+<label><input type="radio"> Calzado cerrado con suela de goma</label>
+<label><input type="radio"> Solo medias, para no resbalar</label>
+</fieldset>
+<fieldset data-ok="2" data-por="Primero sentada al borde de la cama, con los pies en el suelo, durante 5 minutos. Después se pone de pie.">
+<legend>La persona está acostada y quiere ir al baño. ¿Qué haces antes de ponerla de pie?</legend>
+<label><input type="radio"> La levanto rápido para que alcance a llegar</label>
+<label><input type="radio"> La siento y la paro de inmediato</label>
+<label><input type="radio"> La siento al borde de la cama y espero 5 minutos</label>
+</fieldset>
+<fieldset data-ok="0" data-por="Nunca se tira de la ropa, las axilas ni las muñecas.">
+<legend>Al ayudarla a ponerse de pie, ¿de dónde nunca debes tirar?</legend>
+<label><input type="radio"> De la ropa, las axilas y las muñecas</label>
+<label><input type="radio"> Solo de la ropa</label>
+<label><input type="radio"> Da lo mismo, si es con cuidado</label>
+</fieldset>
+<fieldset data-ok="1" data-por="Cualquier inestabilidad detiene la maniobra: te detienes y la sientas en un lugar seguro.">
+<legend>Van caminando por el pasillo y se pone pálida y mareada. ¿Qué haces?</legend>
+<label><input type="radio"> Apuramos el paso para llegar a la cama</label>
+<label><input type="radio"> Me detengo y la siento en un lugar seguro</label>
+<label><input type="radio"> Le pido que respire hondo y seguimos</label>
+</fieldset>
+<fieldset data-ok="2" data-por="Entre un turno y otro la ronda la hace el cuidador: cosas al alcance, baño, comodidad, dolor y entorno seguro. Se registra en RegisCare.">
+<legend>¿Quién hace la ronda de seguridad cuando no hay una TENS de turno en la casa?</legend>
+<label><input type="radio"> Nadie, se espera al próximo turno</label>
+<label><input type="radio"> La persona que cuidas, sola</label>
+<label><input type="radio"> Yo, y la registro en RegisCare</label>
+</fieldset>
+</div>
+
+## Si eres TENS
+
+::: {.box .tens}
+[Además de lo anterior]{.etiqueta}
+
+- **Riesgo vigente:** consulta en RegisCare el nivel de Downton (y Barthel cuando aplique) y el plan de cuidados. No re-puntúas la escala: vigilas el riesgo en cada turno y reportas a la enfermera o enfermero gestor de caso todo cambio clínico, caída o cambio de medicación que gatille una reaplicación.
+- **Hipotensión ortostática:** ante mareo, síncope, polifarmacia antihipertensiva o cambio reciente, mide la presión arterial en supino tras 5 minutos de reposo y luego al minuto y a los tres minutos de bipedestación. Revisa la medicación de riesgo y notifica al profesional tratante.
+- **Antes de levantar:** verifica indicación, ayuda técnica y condición clínica (presión arterial, glicemia, dolor, mareo). Basta la higiene de manos (EPP-0), más cinturón de transferencia en las transferencias. La primera levantada tras reposo prolongado o sedación la asistes tú.
+- **Aplaza o difiere:** con inestabilidad hemodinámica aguda, aplaza la marcha y mantén vigilancia activa. Con hipo o hiperglicemia sintomática, difiere hasta que se estabilice; el manejo sigue la indicación del médico tratante y recontrolas la glicemia antes de la levantada. La contención física requiere indicación médica y registro fundado.
+- **Entorno, ronda y educación:** recorre el domicilio y acuerda los ajustes con la familia; no hagas modificaciones estructurales sin acuerdo previo. Ronda de seguridad una vez por turno. Demuestra la transferencia segura y la regla de los 5 minutos, entrega el material educativo e instruye al cuidador para registrar su ronda. Todo queda en RegisCare, también las negativas y aplazamientos.
+- **Deriva a la enfermera o enfermero gestor de caso:** caídas recurrentes (2 o más en 6 meses), hipotensión ortostática nueva o sintomática, sospecha de deterioro funcional, cognitivo o de la marcha, polifarmacia de riesgo no revisada, y negativa sostenida a las medidas preventivas.
+:::
+
+::: {.origen}
+Basado en el protocolo institucional **PSC-PROT-003, Prevención de Caídas en Domicilio**, versión 0.0, iteración 2026-09. Módulo elaborado por ProSalCare; borrador del 15 de noviembre de 2026. Este material acompaña la enseñanza de tu equipo y no la reemplaza.
+:::

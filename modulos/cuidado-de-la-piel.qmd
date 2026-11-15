@@ -1,0 +1,195 @@
+---
+title: "Cuidar la piel y prevenir lesiones por presión"
+subtitle: "Cambiar de posición, revisar la piel cada día y saber qué avisar"
+---
+
+::: {.box .esencial}
+[Lo esencial]{.etiqueta}
+
+- **Cambia de posición** a la persona con la frecuencia que definió tu equipo, y **anota cada cambio en RegisCare**.
+- **Nunca la arrastres** sobre la cama. De lado, **solo hasta 30°**, con almohadas en la espalda y entre las rodillas.
+- **Revisa la piel todos los días**, de la cabeza a los pies, sobre todo donde el cuerpo se apoya.
+- **Piel limpia y seca:** el pañal o la ropa de cama mojada se cambia apenas lo notas. Sin masajes sobre los huesos, sin talco ni colonias.
+- Una **mancha que no desaparece al presionarla**, una ampolla o un cambio en la persona (responde menos, se mueve menos, come menos) se **avisa al equipo**.
+- Ante una **emergencia, llama al 131**. ProSalCare no es un servicio de urgencia.
+:::
+
+::: {.box .pendiente}
+Aquí irá el video del módulo (2 a 3 minutos). Todavía no está producido.
+:::
+
+## Cuándo cambiar de posición
+
+Una lesión por presión es un daño en la piel que aparece cuando una zona queda apretada mucho rato, casi siempre sobre un hueso o bajo una sonda, una mascarilla o un sensor. **Se puede prevenir.**
+
+Tu enfermera o enfermero evalúa el riesgo de la persona y deja los cambios programados en RegisCare. La frecuencia depende de ese riesgo y del colchón que usa. No la cambies por tu cuenta.
+
+| Riesgo que definió tu equipo | En cama, con colchón especial para la presión | En cama, sin ese colchón | Sentada |
+|---|---|---|---|
+| **Muy alto** | Cada 2 horas | Cada 2 horas | Cada 1 hora. Si puede acomodarse por sí misma, cada 15 minutos |
+| **Alto** | Cada 3 horas | Cada 2 horas | Cada 2 horas |
+| **Moderado** | Cada 4 horas | Cada 2 horas | Cada 2 horas |
+| **Bajo** | Anímala a moverse y a caminar | — | — |
+
+El colchón especial alarga el tiempo entre un cambio y otro. **No reemplaza los cambios.**
+
+La piel se revisa **todos los días**.
+
+## Antes de empezar
+
+- **Lávate las manos.**
+- **Cuéntale a la persona** lo que vas a hacer y pídele su acuerdo. Cierra la puerta y descubre **solo la zona** que vas a revisar o mover.
+- La pieza, **templada (22 a 24 °C)**, sin corrientes de aire ni exceso de calor, y con **buena luz** para mirar la piel.
+- Ten a mano **almohadas (3 a 5)**, las cuñas de 30° si las tienes, y la **sábana de movimiento**.
+- Mira en **RegisCare** qué cambio toca. Cuando la TENS está en casa, el cambio se hace **entre las dos personas**.
+
+## Revisar la piel cada día
+
+<ol class="pasos">
+<li><span class="paso-txt">Descubre **solo la zona** que vas a mirar, con buena luz.</span></li>
+<li><span class="paso-txt">Revisa **de la cabeza a los pies**.</span></li>
+<li><span class="paso-txt">Detente en las **zonas de apoyo de arriba**: parte de atrás de la cabeza, orejas, omóplatos, codos y columna.</span></li>
+<li><span class="paso-txt">Sigue con las **zonas de apoyo de abajo**: final de la espalda (sacro y cóccix), huesos sobre los que se sienta, costados de las caderas, rodillas, tobillos y talones.</span></li>
+<li><span class="paso-txt">Revisa los **pliegues** de la piel.</span></li>
+<li><span class="paso-txt">Mira la piel que está en contacto con **sondas, mascarillas o sensores**.</span></li>
+<li><span class="paso-txt">Busca **manchas rojas, moradas u oscuras, ampollas, calor, dolor o hinchazón** en un punto.</span></li>
+<li><span class="paso-txt">Si ves una mancha, **presiónala suavemente** con un dedo. Si **no desaparece**, avisa a tu equipo.</span></li>
+<li><span class="paso-txt">**Anota en RegisCare** lo que encontraste.</span></li>
+</ol>
+
+En pieles oscuras el cambio de color se nota menos. Fíjate en si la zona está **más caliente, más dura o de otro color** que la piel de alrededor.
+
+## Cambiar de posición: de lado, a 30°
+
+<ol class="pasos">
+<li><span class="paso-txt">**Lávate las manos** y cuéntale a la persona lo que vas a hacer.</span></li>
+<li><span class="paso-txt">Muévela con la **sábana de movimiento**, el trapecio o la tabla. **Nunca la arrastres** sobre la cama.</span></li>
+<li><span class="paso-txt">Gírala de lado **solo hasta 30°**: no debe quedar apoyada sobre el hueso del costado de la cadera.</span></li>
+<li><span class="paso-txt">Pon una **almohada en la espalda**.</span></li>
+<li><span class="paso-txt">Pon una **almohada entre las rodillas**. Ningún hueso debe quedar apoyado directamente sobre otro.</span></li>
+<li><span class="paso-txt">Deja la **cabecera a 30° o menos**, salvo que tu equipo haya indicado otra cosa.</span></li>
+<li><span class="paso-txt">Comprueba que **no le duele** y que **no se movió ninguna sonda** ni otro aparato.</span></li>
+<li><span class="paso-txt">Deja la cama **limpia, seca y sin arrugas**, y sus cosas al alcance.</span></li>
+<li><span class="paso-txt">**Anota el cambio en RegisCare**: hora, posición y quién lo hizo.</span></li>
+</ol>
+
+## Talones sin apoyo
+
+Se hace cuando el riesgo es **alto o muy alto**, cuando la persona **se mueve poco** o cuando **ya tuvo una lesión en el talón**.
+
+<ol class="pasos">
+<li><span class="paso-txt">Pon una **almohada bajo las pantorrillas**, o el dispositivo para talones si lo tienes.</span></li>
+<li><span class="paso-txt">Comprueba que los **talones no se apoyan** en la cama.</span></li>
+</ol>
+
+## Piel seca, cama lisa
+
+- **Busca humedad:** orina, deposiciones, transpiración o líquido de una herida.
+- Cambia el **pañal o la ropa de cama** apenas notes que están mojados.
+- Mantén la cama **limpia, seca y sin arrugas**.
+- Usa ropa interior y ropa de cama **de algodón**.
+- Anima a la persona a **moverse lo que pueda**, a **tomar líquidos** y a **alimentarse bien**.
+
+## Si pasa esto, haz esto
+
+| Situación | Qué hacer |
+|---|---|
+| Entre un cambio de posición y el siguiente | Alivia los puntos de apoyo: pequeños cambios de peso, levantar los talones, girar un poco la cabeza |
+| El médico tratante indicó **no cambiarla de posición** | No hagas el cambio. Se usan solo esos pequeños alivios de los puntos de apoyo |
+| La persona **no siente bien** o **no reacciona al dolor** | Revisa su piel con más cuidado: no va a quejarse de la molestia |
+| Tiene una **herida abierta, una fístula o un injerto reciente** | Consulta a tu equipo **antes** de mover esa zona |
+| La piel de la zona húmeda está **irritada** | Anótalo en RegisCare y avisa a tu equipo |
+| Ves una **mancha que no desaparece al presionar** o **piel rota** | Avisa a tu equipo y anótalo en RegisCare |
+
+## Errores frecuentes
+
+::: {.box .nunca}
+- **Arrastrar** a la persona sobre la cama para acomodarla.
+- **Girarla más de 30°**, hasta dejarla apoyada sobre el hueso de la cadera.
+- **Masajear** las zonas donde hay hueso bajo la piel.
+- Usar **alcohol, colonias, perfumes o talco** en la piel.
+- **Vendar apretados los talones** para protegerlos.
+- Dejar el pañal o la cama **húmedos o con arrugas**.
+:::
+
+## Cuándo avisar a tu equipo de ProSalCare
+
+::: {.box .nunca}
+**ProSalCare no es un servicio de urgencia.** Si la persona está en riesgo, llama al **131** o llévala a un servicio de urgencia. Si en ese momento no hay una TENS de ProSalCare de turno en tu casa, la primera respuesta depende de ti y de los servicios de urgencia. Avisar a tu equipo sirve para que tu enfermera o enfermero lo sepa y lo considere en el plan de cuidados; no reemplaza la atención de urgencia.
+:::
+
+::: {.box .avisar}
+Avisa de inmediato a tu equipo si ves:
+
+- Una **mancha roja, morada u oscura** que no desaparece al presionarla suavemente.
+- Una **ampolla** en una zona de apoyo.
+- **Calor, dolor o hinchazón** en un punto.
+- **Mal olor, secreción o piel oscura** en una herida que ya tenía.
+- Una lesión con **la forma de una sonda, una mascarilla o un sensor**.
+- **Fiebre, decaimiento o confusión** que antes no tenía.
+:::
+
+::: {.box .avisar}
+Avisa también, y anótalo en RegisCare, si la persona:
+
+- **Responde menos** cuando la tocas o le hablas.
+- Tiene la **piel más húmeda** de lo habitual.
+- Hace **menos actividad**: deja de caminar o de sentarse.
+- **Se mueve menos en la cama**.
+- **Come menos** de lo habitual.
+- **Se desliza** en la cama o en la silla.
+:::
+
+Con estos cambios, tu enfermera o enfermero decide si hay que volver a evaluar el riesgo y ajustar el plan.
+
+## Comprueba lo que aprendiste
+
+<div class="quiz">
+<fieldset data-ok="1" data-por="La frecuencia la define tu equipo según el riesgo de la persona y el colchón que usa, y queda programada en RegisCare. Cada cambio se anota.">
+<legend>¿Cada cuánto se cambia de posición a la persona?</legend>
+<label><input type="radio"> Cuando ella lo pide</label>
+<label><input type="radio"> Con la frecuencia que definió el equipo, anotando cada cambio</label>
+<label><input type="radio"> Una vez en la mañana y otra en la noche</label>
+</fieldset>
+<fieldset data-ok="2" data-por="Arrastrar roza y daña la piel. Se usa la sábana de movimiento, el trapecio o la tabla.">
+<legend>La persona quedó muy abajo en la cama. ¿Cómo la acomodas?</legend>
+<label><input type="radio"> La tiro de los brazos hacia arriba</label>
+<label><input type="radio"> La deslizo sobre la sábana de abajo</label>
+<label><input type="radio"> La muevo con la sábana de movimiento, sin arrastrarla</label>
+</fieldset>
+<fieldset data-ok="0" data-por="De lado solo hasta 30°, sin apoyar el hueso de la cadera, con una almohada en la espalda y otra entre las rodillas.">
+<legend>¿Cómo queda la persona cuando la pones de lado?</legend>
+<label><input type="radio"> Girada hasta 30°, con almohadas en la espalda y entre las rodillas</label>
+<label><input type="radio"> Completamente de costado, sobre la cadera</label>
+<label><input type="radio"> Da lo mismo, mientras esté cómoda</label>
+</fieldset>
+<fieldset data-ok="1" data-por="Una mancha que no desaparece al presionarla suavemente es una señal de alarma: se avisa de inmediato al equipo. No se masajea.">
+<legend>Ves una mancha roja en el talón. La presionas con un dedo y no desaparece. ¿Qué haces?</legend>
+<label><input type="radio"> Le hago masajes para activar la circulación</label>
+<label><input type="radio"> Aviso de inmediato al equipo y lo anoto en RegisCare</label>
+<label><input type="radio"> Espero unos días a ver si se pasa</label>
+</fieldset>
+<fieldset data-ok="2" data-por="La humedad daña la piel: el pañal o la ropa de cama mojada se cambia apenas se detecta. No se usa talco.">
+<legend>Notas que el pañal está mojado, pero falta una hora para el cambio de posición. ¿Qué haces?</legend>
+<label><input type="radio"> Espero al cambio de posición</label>
+<label><input type="radio"> Le pongo talco para que absorba</label>
+<label><input type="radio"> Lo cambio apenas lo noto</label>
+</fieldset>
+</div>
+
+## Si eres TENS
+
+::: {.box .tens}
+[Además de lo anterior]{.etiqueta}
+
+- **Riesgo y valoración:** la escala de Braden la aplica la enfermera o el enfermero gestor de caso en EINCARE (al ingreso, mensual y ante signos de alerta); tú la consultas en RegisCare y no la re-puntúas. En el turno inspeccionas céfalo-caudal con inspección y palpación (eritema blanqueable o no, calor, induración, edema, maceración), también bajo dispositivos, movilizándolos cuando sea posible. En piel de pigmentación oscura prioriza calor, induración y cambio de color local.
+- **LPP activa o sospecha:** describe localización, tamaño aproximado, lecho y bordes **sin asignar categoría**; registra en RegisCare y deriva al gestor o gestora de caso. Toda LPP nueva es evento adverso: AlertaCARE. En mucosa se notifica como «LPP en membrana mucosa».
+- **Cambios posturales:** prográmalos en RegisCare con la nomenclatura S, P, LD/LI y LS, según el riesgo Braden y la superficie en uso; registra hora, posición y responsable. A cuatro manos cuando sea posible. EPP-1 sin fluidos; EPP-2 con humedad, exudado, incontinencia o curación simple.
+- **Piel:** agua tibia y jabón de pH equilibrado con baja fricción; secado minucioso por palpación, con énfasis en pliegues e interdigitales. Crema hidratante hipoalergénica hasta su absorción, de talones hacia arriba: 1 vez al día en riesgo bajo o moderado, 2 en alto, 3 en muy alto. AGHO (1 a 2 gotas sobre prominencias) solo con indicación profesional, separados al menos 1 hora de la crema. Barrera cutánea y apósitos de protección, según indicación.
+- **Dispositivos:** identifícalos todos e inspecciónalos en cada turno. Fijaciones cada 8 a 12 horas o según el dispositivo: saturómetro y sensores cada 2 a 4 horas; mascarilla de BiPAP con alivio cada 2 horas; sonda nasogástrica alternando el punto de fijación; sonda vesical al muslo contrario en cada aseo; medias antitrombóticas fuera al menos 30 minutos por turno. La fijación debe dejar pasar un dedo. En contención física, piel cada 4 horas.
+- **Educa, deriva y cierra:** demuestra el cambio a 30°, la descarga de talones y la inspección diaria; el cuidador debe identificar al menos tres zonas vulnerables, la frecuencia de cambios y los signos de alerta. Deriva al gestor o gestora: LPP nueva o agravada, sospecha de infección, eritema no blanqueable que persiste tras 30 a 60 minutos sin presión, lesión en mucosa, signos de alerta de Braden, sospecha de déficit nutricional (pérdida de peso o ingesta menor al 50 % por más de tres días) y negativa sostenida de la familia. Al cierre: registro completo en RegisCare y hallazgos comunicados al cuidador para el período sin TENS.
+:::
+
+::: {.origen}
+Basado en el protocolo institucional **PSC-PROT-002, Cuidado de la Piel y Prevención de Lesiones por Presión (LPP) en Domicilio**, versión 0.0, iteración 2026-09. Módulo elaborado por ProSalCare; borrador del 15 de noviembre de 2026. Este material acompaña la enseñanza de tu equipo y no la reemplaza.
+:::
