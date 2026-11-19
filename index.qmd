@@ -20,13 +20,13 @@ title: "Bienvenida"
 |---|---|
 | [Lavado de manos](modulos/higiene-de-manos.qmd) | Borrador, con animaciones y video |
 | [Dar medicamentos con seguridad](modulos/medicamentos.qmd) | Borrador, con animaciones y video |
-| [Medir los signos vitales](modulos/signos-vitales-1.qmd) | Borrador, solo texto |
+| [Medir los signos vitales](modulos/signos-vitales-1.qmd) | Borrador, con animaciones y video |
 | [Medir el azúcar en la sangre](modulos/signos-vitales-2.qmd) | Borrador, solo texto |
-| [Prevenir caídas en casa](modulos/prevencion-de-caidas-1.qmd) | Borrador, solo texto |
+| [Prevenir caídas en casa](modulos/prevencion-de-caidas-1.qmd) | Borrador, con animaciones y video |
 | [Si la persona se cae](modulos/prevencion-de-caidas-2.qmd) | Borrador, solo texto |
 | [Mover a la persona en la cama](modulos/movilizacion-y-transferencia-1.qmd) | Borrador, solo texto |
 | [Pasar de la cama a la silla](modulos/movilizacion-y-transferencia-2.qmd) | Borrador, solo texto |
-| [Cuidar la piel y prevenir lesiones por presión](modulos/cuidado-de-la-piel.qmd) | Borrador, solo texto |
+| [Cuidar la piel y prevenir lesiones por presión](modulos/cuidado-de-la-piel.qmd) | Borrador, con animaciones y video |
 | [Emergencias: reconocer y llamar al 131](modulos/emergencia-y-rescate-1.qmd) | Borrador, solo texto |
 | Emergencias: qué hacer mientras llega la ayuda | En preparación |
 | [Cuando algo sale mal: avisa](modulos/eventos-adversos.qmd) | Borrador, solo texto |

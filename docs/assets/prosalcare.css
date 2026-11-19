@@ -55,3 +55,8 @@ ol.pasos > li::before { content: counter(paso); position: absolute; left: 1rem; 
 table { background: #fff; }
 .origen { font-size: .9rem; color: #5A6678; border-top: 1px solid rgba(30,41,59,.15); padding-top: .8rem; margin-top: 2.5rem; }
 @media print { .practica, .quiz button, #quarto-sidebar, #quarto-margin-sidebar { display: none !important; } }
+
+/* Teléfonos angostos: una tabla ancha se desplaza dentro de sí misma y no empuja la página. */
+@media (max-width: 480px) {
+  main table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+}

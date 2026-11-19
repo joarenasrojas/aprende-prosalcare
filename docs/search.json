@@ -14,7 +14,7 @@
     "href": "index.html#módulos-disponibles",
     "title": "Aprende ProSalCare",
     "section": "",
-    "text": "Módulo\nEstado\n\n\n\n\nLavado de manos\nBorrador, con animaciones y video\n\n\nDar medicamentos con seguridad\nBorrador, con animaciones y video\n\n\nMedir los signos vitales\nBorrador, solo texto\n\n\nMedir el azúcar en la sangre\nBorrador, solo texto\n\n\nPrevenir caídas en casa\nBorrador, solo texto\n\n\nSi la persona se cae\nBorrador, solo texto\n\n\nMover a la persona en la cama\nBorrador, solo texto\n\n\nPasar de la cama a la silla\nBorrador, solo texto\n\n\nCuidar la piel y prevenir lesiones por presión\nBorrador, solo texto\n\n\nEmergencias: reconocer y llamar al 131\nBorrador, solo texto\n\n\nEmergencias: qué hacer mientras llega la ayuda\nEn preparación\n\n\nCuando algo sale mal: avisa\nBorrador, solo texto",
+    "text": "Módulo\nEstado\n\n\n\n\nLavado de manos\nBorrador, con animaciones y video\n\n\nDar medicamentos con seguridad\nBorrador, con animaciones y video\n\n\nMedir los signos vitales\nBorrador, con animaciones y video\n\n\nMedir el azúcar en la sangre\nBorrador, solo texto\n\n\nPrevenir caídas en casa\nBorrador, con animaciones y video\n\n\nSi la persona se cae\nBorrador, solo texto\n\n\nMover a la persona en la cama\nBorrador, solo texto\n\n\nPasar de la cama a la silla\nBorrador, solo texto\n\n\nCuidar la piel y prevenir lesiones por presión\nBorrador, con animaciones y video\n\n\nEmergencias: reconocer y llamar al 131\nBorrador, solo texto\n\n\nEmergencias: qué hacer mientras llega la ayuda\nEn preparación\n\n\nCuando algo sale mal: avisa\nBorrador, solo texto",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Bienvenida</span>"
     ]
@@ -165,15 +165,15 @@
     "href": "modulos/medicamentos.html",
     "title": "Dar medicamentos con seguridad",
     "section": "",
-    "text": "La hoja de medicamentos manda\nVideo del módulo: 5 minutos, con subtítulos.\nLa hoja de medicamentos es la lista vigente de lo que toma la persona: nombre, dosis, vía, horario y observaciones. No es un papel: está en RegisCare, en tu vista de cuidador. La mantiene al día tu enfermera o enfermero, según lo que indica el médico tratante.",
+    "text": "La hoja o registro de medicamentos manda\nVideo del módulo: 5 minutos, con subtítulos.\nLa hoja o registro de medicamentos es la lista vigente de lo que toma la persona: nombre, dosis, vía, horario y observaciones. No es un papel: está en la plataforma RegisCare, en tu vista de cuidador. La mantiene al día tu enfermera o enfermero, según lo que indica el médico tratante.",
     "crumbs": [
       "Módulos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Dar medicamentos con seguridad</span>"
     ]
   },
   {
-    "objectID": "modulos/medicamentos.html#la-hoja-de-medicamentos-manda",
-    "href": "modulos/medicamentos.html#la-hoja-de-medicamentos-manda",
+    "objectID": "modulos/medicamentos.html#la-hoja-o-registro-de-medicamentos-manda",
+    "href": "modulos/medicamentos.html#la-hoja-o-registro-de-medicamentos-manda",
     "title": "Dar medicamentos con seguridad",
     "section": "",
     "text": "Revísala antes de cada dosis. Ningún medicamento se da de memoria ni por costumbre.\nSi hay una receta o indicación nueva (un control médico, un alta del hospital), avisa al equipo antes de dar la primera dosis, para que la ingresen a la hoja.",
@@ -187,7 +187,7 @@
     "href": "modulos/medicamentos.html#antes-de-dar-siete-cosas-correctas",
     "title": "Dar medicamentos con seguridad",
     "section": "Antes de dar: siete cosas correctas",
-    "text": "Antes de dar: siete cosas correctas\n\n\n\n\n\n\n\n\nRevisa que…\n\n\n\n\n1. La persona\nLa dosis es para ella y corresponde a su hoja de medicamentos\n\n\n2. El medicamento\nEl nombre del envase es el mismo que el de la hoja. Cuidado con los nombres parecidos\n\n\n3. La dosis\nLa cantidad que preparaste es la que dice la hoja\n\n\n4. La vía\nSe da por donde dice la hoja (por boca, en la piel, inhalado…) y tienes lo necesario\n\n\n5. La hora\nEs el horario que indica la hoja\n\n\n6. El registro\nTienes RegisCare a mano para anotarlo apenas termines\n\n\n7. El efecto\nSabes para qué es y qué señales debes vigilar",
+    "text": "Antes de dar: siete cosas correctas\n\n\n\n\n\n\n\n\nRevisa que…\n\n\n\n\n1. La persona\nLa dosis es para ella y corresponde a su hoja o registro de medicamentos\n\n\n2. El medicamento\nEl nombre del envase es el mismo que el de la hoja. Cuidado con los nombres parecidos\n\n\n3. La dosis\nLa cantidad que preparaste es la que dice la hoja\n\n\n4. La vía\nSe da por donde dice la hoja (por boca, en la piel, inhalado…) y tienes lo necesario\n\n\n5. La hora\nEs el horario que indica la hoja\n\n\n6. El registro\nTienes RegisCare a mano para anotarlo apenas termines\n\n\n7. El efecto\nSabes para qué es y qué señales debes vigilar",
     "crumbs": [
       "Módulos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Dar medicamentos con seguridad</span>"
@@ -198,7 +198,7 @@
     "href": "modulos/medicamentos.html#cuándo-no-dar-un-medicamento",
     "title": "Dar medicamentos con seguridad",
     "section": "Cuándo no dar un medicamento",
-    "text": "Cuándo no dar un medicamento\n\nNo lo des, y avisa al equipo, si:\n\nNo está en la hoja de medicamentos, o algo no coincide con ella.\nEl envase está vencido, dañado o mal conservado.\nLa persona no puede tragar bien o está muy adormilada o confundida, y el medicamento es por boca.\nTiene una alergia conocida a ese medicamento.\nLa persona no quiere tomarlo. No se lo des: anótalo y avisa.",
+    "text": "Cuándo no dar un medicamento\n\nNo lo des, y avisa al equipo, si:\n\nNo está en la hoja o registro de medicamentos, o algo no coincide con ella.\nEl envase está vencido, dañado o mal conservado.\nLa persona no puede tragar bien o está muy adormilada o confundida, y el medicamento es por boca.\nTiene una alergia conocida a ese medicamento.\nLa persona no quiere tomarlo. No se lo des: anótalo y avisa.",
     "crumbs": [
       "Módulos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Dar medicamentos con seguridad</span>"
@@ -209,7 +209,7 @@
     "href": "modulos/medicamentos.html#preparar-la-dosis",
     "title": "Dar medicamentos con seguridad",
     "section": "Preparar la dosis",
-    "text": "Preparar la dosis\n\n\nLávate las manos, como en el módulo de lavado de manos.\n\n\nUsa una superficie limpia y con buena luz.\n\n\nRevisa el envase: nombre, dosis, vía, fecha de vencimiento y que esté en buen estado.\n\n\nLee la etiqueta completa antes de sacar nada. Si puedes, en voz alta.\n\n\nSaca solo la dosis que toca, desde el envase original, justo antes de darla.\n\n\nSi la dosis no calza con la presentación (por ejemplo, medio comprimido) y tienes cualquier duda, no la des y consulta.\n\n\n\n\nNo dejes dosis preparadas con anticipación ni cambies los medicamentos a otros envases.\nNo uses pastilleros ni cajas organizadoras. El orden de las dosis está en la hoja de RegisCare y sus recordatorios.\nNo tritures comprimidos de liberación prolongada o retardada, ni los que tienen cubierta especial para el estómago, salvo que el médico tratante lo haya autorizado.",
+    "text": "Preparar la dosis\n\n\nLávate las manos, como en el módulo de lavado de manos.\n\n\nUsa una superficie limpia y con buena luz.\n\n\nRevisa el envase: nombre, dosis, vía, fecha de vencimiento y que esté en buen estado.\n\n\nLee la etiqueta completa antes de sacar nada. Si puedes, en voz alta.\n\n\nSaca solo la dosis que toca, desde el envase original, justo antes de darla.\n\n\nSi la dosis no calza con la presentación (por ejemplo, medio comprimido) y tienes cualquier duda, no la des y consulta.\n\n\n\n\nNo dejes dosis preparadas con anticipación ni cambies los medicamentos a otros envases.\nNo uses pastilleros ni cajas organizadoras. El orden de las dosis está en la hoja o registro de RegisCare y sus recordatorios.\nNo tritures comprimidos de liberación prolongada o retardada, ni los que tienen cubierta especial para el estómago, salvo que el médico tratante lo haya autorizado.",
     "crumbs": [
       "Módulos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Dar medicamentos con seguridad</span>"
@@ -286,7 +286,7 @@
     "href": "modulos/medicamentos.html#comprueba-lo-que-aprendiste",
     "title": "Dar medicamentos con seguridad",
     "section": "Comprueba lo que aprendiste",
-    "text": "Comprueba lo que aprendiste\n\n\nEl médico dejó una receta nueva que todavía no aparece en la hoja de RegisCare. ¿Qué haces?  Le doy la primera dosis y aviso después  La anoto yo en un papel y la doy  No la doy todavía y aviso al equipo\n\n\nTe diste cuenta de que olvidaste la dosis de la mañana. ¿Qué haces?  No doy el doble y aviso al equipo  Doy dos dosis juntas en la tarde  No digo nada si la persona está bien\n\n\n¿Cuándo registras el medicamento en RegisCare?  Antes de darlo, para no olvidarme  Apenas termino de darlo  Al final del día, todos juntos\n\n\n¿Dónde se guardan los medicamentos?  En un pastillero semanal  Todos juntos en un frasco  Cada uno en su envase original\n\n\nLa persona está muy adormilada y le toca un comprimido. ¿Qué haces?  No se lo doy y aviso al equipo  Lo trituro y se lo doy con agua  Se lo pongo en la boca igual",
+    "text": "Comprueba lo que aprendiste\n\n\nEl médico dejó una receta nueva que todavía no aparece en la hoja o registro de RegisCare. ¿Qué haces?  Le doy la primera dosis y aviso después  La anoto yo en un papel y la doy  No la doy todavía y aviso al equipo\n\n\nTe diste cuenta de que olvidaste la dosis de la mañana. ¿Qué haces?  No doy el doble y aviso al equipo  Doy dos dosis juntas en la tarde  No digo nada si la persona está bien\n\n\n¿Cuándo registras el medicamento en RegisCare?  Antes de darlo, para no olvidarme  Apenas termino de darlo  Al final del día, todos juntos\n\n\n¿Dónde se guardan los medicamentos?  En un pastillero semanal  Todos juntos en un frasco  Cada uno en su envase original\n\n\nLa persona está muy adormilada y le toca un comprimido. ¿Qué haces?  No se lo doy y aviso al equipo  Lo trituro y se lo doy con agua  Se lo pongo en la boca igual",
     "crumbs": [
       "Módulos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Dar medicamentos con seguridad</span>"
@@ -308,7 +308,7 @@
     "href": "modulos/signos-vitales-1.html",
     "title": "Medir los signos vitales",
     "section": "",
-    "text": "Cuándo y qué mides\nTu enfermera o enfermero define en el plan de cuidados qué signos mides tú y cada cuánto. Mides entre un turno y otro, y solo después de haber mostrado la técnica frente a tu equipo.",
+    "text": "Cuándo y qué mides\nVideo del módulo: 5 minutos, con subtítulos.\nTu enfermera o enfermero define en el plan de cuidados qué signos mides tú y cada cuánto. Mides entre un turno y otro, y solo después de haber mostrado la técnica frente a tu equipo.",
     "crumbs": [
       "Módulos",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Medir los signos vitales</span>"
@@ -407,7 +407,7 @@
     "href": "modulos/signos-vitales-1.html#cuándo-avisar-a-tu-equipo-de-prosalcare",
     "title": "Medir los signos vitales",
     "section": "Cuándo avisar a tu equipo de ProSalCare",
-    "text": "Cuándo avisar a tu equipo de ProSalCare\n\nProSalCare no es un servicio de urgencia. Si la persona está en riesgo, llama al 131 o llévala a un servicio de urgencia. Si en ese momento no hay una TENS de ProSalCare de turno en tu casa, la primera respuesta depende de ti y de los servicios de urgencia. Avisar a tu equipo sirve para que tu enfermera o enfermero lo sepa y lo considere en el plan de cuidados; no reemplaza la atención de urgencia.\n\n\nLlama al 131 directamente si la persona:\n\nNo responde.\nNo respira.\nTiene un dolor de pecho intenso.\n\nDespués, avisa a tu equipo.\n\n\nAvisa a tu equipo (a la TENS o a tu enfermera o enfermero) cuando:\n\nUn valor sigue fuera de los límites que te enseñaron después de repetir la medición a los 5 minutos.\nNo logras una medición confiable varias veces: la señal no se estabiliza, el pulso es muy irregular o el aparato da lecturas que no calzan entre sí.\nLa persona tiene un dolor nuevo o un dolor que va en aumento.\nLos valores se van alejando de lo habitual medición tras medición, aunque ninguno esté fuera de los límites.\nEl brazalete le deja moretones o dolor en el brazo.\nUn aparato falla.\n\n\nAnte una duda siempre puedes llamar a tu equipo. Para orientación que no es urgente, también está Salud Responde: 600 360 7777.",
+    "text": "Cuándo avisar a tu equipo de ProSalCare\n\nProSalCare no es un servicio de urgencia. Si la persona está en riesgo, llama al 131 o llévala a un servicio de urgencia. Si en ese momento no hay una TENS de ProSalCare de turno en tu casa, la primera respuesta depende de ti y de los servicios de urgencia. Avisar a tu equipo sirve para que tu enfermera o enfermero lo sepa y lo considere en el plan de cuidados; no reemplaza la atención de urgencia.\n\n\nLlama al 131 directamente si la persona:\n\nNo responde.\nNo respira.\nTiene un dolor de pecho intenso.\n\nDespués, avisa a tu equipo.\n\n\nAvisa a tu equipo (a la TENS o a tu enfermera o enfermero) cuando:\n\nUn valor sigue fuera de los límites que te enseñaron después de repetir la medición a los 5 minutos.\nNo logras una medición confiable varias veces: la señal no se estabiliza, el pulso es muy irregular o el aparato da lecturas que no calzan entre sí.\nLa persona tiene un dolor nuevo o un dolor que va en aumento.\nLos valores se van alejando de lo habitual medición tras medición, aunque ninguno esté fuera de los límites.\nEl brazalete le deja moretones o dolor en el brazo.\nUn aparato falla.\n\n\nAnte una duda siempre puedes llamar a tu equipo. Para orientación que no es urgente, también está Salud Responde: 600 360 7777.\n\n\n\nPractica: ¿131, repetir o avisar?\nLee cada situación y elige qué haces primero. Son las mismas situaciones de este módulo.\nSituación 1 de 10\n\n\nLlamo al 131\nRepito la medición\nAviso a mi equipo\n\n\nSiguiente\nProSalCare no es un servicio de urgencia: si la persona está en riesgo, primero el 131 o un servicio de urgencia; después avisas a tu equipo.\nEsta práctica necesita JavaScript. Las respuestas están en las secciones «Qué hacer si…» y «Cuándo avisar a tu equipo de ProSalCare».",
     "crumbs": [
       "Módulos",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Medir los signos vitales</span>"
@@ -561,7 +561,7 @@
     "href": "modulos/prevencion-de-caidas-1.html#la-casa-lugar-por-lugar",
     "title": "Prevenir caídas en casa",
     "section": "La casa, lugar por lugar",
-    "text": "La casa, lugar por lugar\nLos cambios en la casa se acuerdan entre tu familia y tu equipo. Nadie modifica tu casa sin tu acuerdo.\n\n\n\n\n\n\n\nLugar\nCómo debe quedar\n\n\n\n\nCama\nA la altura más baja que permita. Con frenos puestos, si es articulada con ruedas. Para dormir, cabecera a 30 grados o menos, salvo otra indicación; puedes ayudarte con cojines\n\n\nBarandillas\nArriba de noche solo si la cama las tiene, el riesgo de caída es alto y lo acordaste con tu equipo\n\n\nVelador o mesa\nTimbre, lentes, audífono, agua y linterna al alcance de la mano\n\n\nDormitorio\nLuz nocturna en el trayecto de la cama al baño. Sin alfombras sueltas ni cables\n\n\nBaño\nBarras de sujeción junto al inodoro y en la ducha. Alfombrilla o cintas antideslizantes. Alza de inodoro y silla de ducha, cuando correspondan. Puerta que abra hacia afuera o corredera\n\n\nPasillos y escaleras\nTrayecto libre. Bordes de los escalones marcados con cinta que contraste. Pasamanos. Buena luz en cada tramo\n\n\nMuebles\nSillas estables y con apoyabrazos. Los muebles inestables, fuera del trayecto. Sus objetos personales, siempre al alcance\n\n\nCalzado y ropa\nCalzado cerrado con suela de goma, dentro y fuera de la casa. Ropa de dormir que no arrastre",
+    "text": "La casa, lugar por lugar\nLos cambios en la casa se acuerdan entre tu familia y tu equipo. Nadie modifica tu casa sin tu acuerdo.\n\n\n\n\n\n\n\nLugar\nCómo debe quedar\n\n\n\n\nCama\nA la altura más baja que permita. Con frenos puestos, si es articulada con ruedas. Para dormir, cabecera a 30 grados o menos, salvo otra indicación; puedes ayudarte con cojines\n\n\nBarandillas\nArriba de noche solo si la cama las tiene, el riesgo de caída es alto y lo acordaste con tu equipo\n\n\nVelador o mesa\nTimbre, lentes, audífono, agua y linterna al alcance de la mano\n\n\nDormitorio\nLuz nocturna en el trayecto de la cama al baño. Sin alfombras sueltas ni cables\n\n\nBaño\nBarras de sujeción junto al inodoro y en la ducha. Alfombrilla o cintas antideslizantes. Alza de inodoro y silla de ducha, cuando correspondan. Puerta que abra hacia afuera o corredera\n\n\nPasillos y escaleras\nTrayecto libre. Bordes de los escalones marcados con cinta que contraste. Pasamanos. Buena luz en cada tramo\n\n\nMuebles\nSillas estables y con apoyabrazos. Los muebles inestables, fuera del trayecto. Sus objetos personales, siempre al alcance\n\n\nCalzado y ropa\nCalzado cerrado con suela de goma, dentro y fuera de la casa. Ropa de dormir que no arrastre\n\n\n\n\n\nCama\nBaño\nCalzado y ropa",
     "crumbs": [
       "Módulos",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Prevenir caídas en casa</span>"
@@ -605,7 +605,7 @@
     "href": "modulos/prevencion-de-caidas-1.html#la-ronda-de-seguridad",
     "title": "Prevenir caídas en casa",
     "section": "La ronda de seguridad",
-    "text": "La ronda de seguridad\nEs una revisión de cinco cosas. La TENS la hace una vez en cada turno. Entre un turno y otro, la haces tú y la registras en RegisCare, en tu vista de cuidador.\n\nCosas al alcance: timbre, agua y lentes.\nBaño: si necesita ir.\nComodidad: si está cómoda y en buena posición.\nDolor: si le duele algo.\nEntorno seguro: que todo a su alrededor esté como en la tabla de la casa.\n\nVigilancia activa quiere decir tenerla a la vista y al oído, sin cortinas ni separadores de por medio.",
+    "text": "La ronda de seguridad\nEs una revisión de cinco cosas. La TENS la hace una vez en cada turno. Entre un turno y otro, la haces tú y la registras en RegisCare, en tu vista de cuidador.\n\n\nCosas al alcance: timbre, agua y lentes.\n\n\nBaño: si necesita ir.\n\n\nComodidad: si está cómoda y en buena posición.\n\n\nDolor: si le duele algo.\n\n\nEntorno seguro: que todo a su alrededor esté como en la tabla de la casa.\n\n\nVigilancia activa quiere decir tenerla a la vista y al oído, sin cortinas ni separadores de por medio.",
     "crumbs": [
       "Módulos",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Prevenir caídas en casa</span>"
@@ -638,7 +638,7 @@
     "href": "modulos/prevencion-de-caidas-1.html#cuándo-avisar-a-tu-equipo-de-prosalcare",
     "title": "Prevenir caídas en casa",
     "section": "Cuándo avisar a tu equipo de ProSalCare",
-    "text": "Cuándo avisar a tu equipo de ProSalCare\n\nProSalCare no es un servicio de urgencia. Si la persona está en riesgo, llama al 131 o llévala a un servicio de urgencia. Si en ese momento no hay una TENS de ProSalCare de turno en tu casa, la primera respuesta depende de ti y de los servicios de urgencia. Avisar a tu equipo sirve para que tu enfermera o enfermero lo sepa y lo considere en el plan de cuidados; no reemplaza la atención de urgencia.\n\n\nLlama al 131 si la persona tiene alguna de estas señales. Después, avisa a tu equipo:\n\nGolpe en la cabeza o pérdida de conocimiento, aunque sea breve.\nDesmayo.\nVómitos, dolor de cabeza intenso, sueño inusual, confusión nueva o no recuerda lo que pasó.\nNo puede mover un brazo o una pierna, o tiene deformidad, hinchazón rápida o un moretón grande.\nSangrado abundante o herida profunda.\nDolor en el pecho, dificultad para respirar o palpitaciones nuevas.\n\n\n\nAvisa a tu equipo cuando:\n\nHubo una caída, la hayas visto o no, aunque la persona parezca estar bien.\nTiene mareo.\nCamina distinto: tropieza, arrastra los pies o está débil al pararse.\nLe cambiaron hace poco los medicamentos y la notas alterada.",
+    "text": "Cuándo avisar a tu equipo de ProSalCare\n\nProSalCare no es un servicio de urgencia. Si la persona está en riesgo, llama al 131 o llévala a un servicio de urgencia. Si en ese momento no hay una TENS de ProSalCare de turno en tu casa, la primera respuesta depende de ti y de los servicios de urgencia. Avisar a tu equipo sirve para que tu enfermera o enfermero lo sepa y lo considere en el plan de cuidados; no reemplaza la atención de urgencia.\n\n\nLlama al 131 si la persona tiene alguna de estas señales. Después, avisa a tu equipo:\n\nGolpe en la cabeza o pérdida de conocimiento, aunque sea breve.\nDesmayo.\nVómitos, dolor de cabeza intenso, sueño inusual, confusión nueva o no recuerda lo que pasó.\nNo puede mover un brazo o una pierna, o tiene deformidad, hinchazón rápida o un moretón grande.\nSangrado abundante o herida profunda.\nDolor en el pecho, dificultad para respirar o palpitaciones nuevas.\n\n\n\nAvisa a tu equipo cuando:\n\nHubo una caída, la hayas visto o no, aunque la persona parezca estar bien.\nTiene mareo.\nCamina distinto: tropieza, arrastra los pies o está débil al pararse.\nLe cambiaron hace poco los medicamentos y la notas alterada.\n\n\n\n\nPractica: ¿llamas al 131 o avisas a tu equipo?\nLee cada señal y elige. Son las mismas de las dos listas de arriba.\n\n\n\nLlamo al 131\nAviso a mi equipo\n\n\nSiguiente\nProSalCare no es un servicio de urgencia. Si la persona está en riesgo, llama al 131 o llévala a un servicio de urgencia.",
     "crumbs": [
       "Módulos",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Prevenir caídas en casa</span>"
@@ -1078,7 +1078,7 @@
     "href": "modulos/cuidado-de-la-piel.html",
     "title": "Cuidar la piel y prevenir lesiones por presión",
     "section": "",
-    "text": "Cuándo cambiar de posición\nUna lesión por presión es un daño en la piel que aparece cuando una zona queda apretada mucho rato, casi siempre sobre un hueso o bajo una sonda, una mascarilla o un sensor. Se puede prevenir.\nTu enfermera o enfermero evalúa el riesgo de la persona y deja los cambios programados en RegisCare. La frecuencia depende de ese riesgo y del colchón que usa. No la cambies por tu cuenta.\nEl colchón especial alarga el tiempo entre un cambio y otro. No reemplaza los cambios.\nLa piel se revisa todos los días.",
+    "text": "Cuándo cambiar de posición\nVideo del módulo: 5 minutos, con subtítulos.\nUna lesión por presión es un daño en la piel que aparece cuando una zona queda apretada mucho rato, casi siempre sobre un hueso o bajo una sonda, una mascarilla o un sensor. Se puede prevenir.\nTu enfermera o enfermero evalúa el riesgo de la persona y deja los cambios programados en RegisCare. La frecuencia depende de ese riesgo y del colchón que usa. No la cambies por tu cuenta.\nEl colchón especial alarga el tiempo entre un cambio y otro. No reemplaza los cambios.\nLa piel se revisa todos los días.",
     "crumbs": [
       "Módulos",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Cuidar la piel y prevenir lesiones por presión</span>"
@@ -1166,7 +1166,7 @@
     "href": "modulos/cuidado-de-la-piel.html#errores-frecuentes",
     "title": "Cuidar la piel y prevenir lesiones por presión",
     "section": "Errores frecuentes",
-    "text": "Errores frecuentes\n\n\nArrastrar a la persona sobre la cama para acomodarla.\nGirarla más de 30°, hasta dejarla apoyada sobre el hueso de la cadera.\nMasajear las zonas donde hay hueso bajo la piel.\nUsar alcohol, colonias, perfumes o talco en la piel.\nVendar apretados los talones para protegerlos.\nDejar el pañal o la cama húmedos o con arrugas.",
+    "text": "Errores frecuentes\n\n\nArrastrar a la persona sobre la cama para acomodarla.\nGirarla más de 30°, hasta dejarla apoyada sobre el hueso de la cadera.\nMasajear las zonas donde hay hueso bajo la piel.\nUsar alcohol, colonias, perfumes o talco en la piel.\nVendar apretados los talones para protegerlos.\nDejar el pañal o la cama húmedos o con arrugas.\n\n\n\n\nPractica: ¿se hace o no se hace?\nLee cada acción y elige. Todas salen de este módulo.\n\n\n\n\nSe hace\nNo se hace\n\n\nSiguiente",
     "crumbs": [
       "Módulos",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Cuidar la piel y prevenir lesiones por presión</span>"

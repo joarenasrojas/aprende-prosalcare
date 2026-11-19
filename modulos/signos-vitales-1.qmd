@@ -14,9 +14,12 @@ subtitle: "Presión, pulso, saturación, temperatura y dolor: cómo medirlos bie
 - Si la persona **no responde, no respira o tiene un dolor de pecho intenso, llama al 131**. ProSalCare no es un servicio de urgencia.
 :::
 
-::: {.box .pendiente}
-Aquí irá el video del módulo (2 a 3 minutos). Todavía no está producido.
-:::
+<video class="modulo-vid" controls playsinline preload="metadata" poster="../assets/media/signos/video-modulo.jpg">
+<source src="../assets/media/signos/video-modulo.mp4" type="video/mp4">
+<track kind="subtitles" srclang="es" label="Español" src="../assets/media/signos/video-modulo.vtt" default>
+</video>
+
+[Video del módulo: 5 minutos, con subtítulos.]{.etiqueta}
 
 ## Cuándo y qué mides
 
@@ -43,14 +46,14 @@ Tu enfermera o enfermero define en el plan de cuidados **qué signos mides tú y
 Mide siempre **en el mismo brazo y en la misma posición**, para que los valores se puedan comparar.
 
 <ol class="pasos">
-<li><span class="paso-txt">**Sienta** a la persona con la espalda apoyada, los pies planos en el suelo y las piernas sin cruzar.</span></li>
-<li><span class="paso-txt">Deja el **brazo desnudo**: el brazalete va sobre la piel, nunca sobre la ropa.</span></li>
-<li><span class="paso-txt">**Apoya el brazo** sobre una superficie (una mesa, el brazo del sillón), de modo que la mitad del brazalete quede **a la altura del corazón**.</span></li>
-<li><span class="paso-txt">Pon el brazalete con el **borde de abajo 2 a 3 centímetros sobre el pliegue del codo**.</span></li>
-<li><span class="paso-txt">Ajústalo: entre el brazalete y la piel debe **caber un dedo**.</span></li>
-<li><span class="paso-txt">Pídele que **no hable**, que no sostenga el brazo en el aire y que no apriete el puño. Tú tampoco hables.</span></li>
-<li><span class="paso-txt">**Inicia el aparato y espera** sin tocar el brazalete.</span></li>
-<li><span class="paso-txt">**Anota en RegisCare** los valores, el brazo, la posición y si había dolor, agitación o un medicamento recién tomado.</span></li>
+<li><span class="paso-txt">**Sienta** a la persona con la espalda apoyada, los pies planos en el suelo y las piernas sin cruzar.</span><video class="paso-vid" src="../assets/media/signos/presion-01.mp4" poster="../assets/media/signos/presion-01.jpg" loop muted playsinline preload="none" aria-label="La persona sentada en una silla, con la espalda apoyada, los pies planos en el suelo y las piernas sin cruzar"></video></li>
+<li><span class="paso-txt">Deja el **brazo desnudo**: el brazalete va sobre la piel, nunca sobre la ropa.</span><video class="paso-vid" src="../assets/media/signos/presion-02.mp4" poster="../assets/media/signos/presion-02.jpg" loop muted playsinline preload="none" aria-label="La manga se sube y el brazalete se pone sobre la piel del brazo"></video></li>
+<li><span class="paso-txt">**Apoya el brazo** sobre una superficie (una mesa, el brazo del sillón), de modo que la mitad del brazalete quede **a la altura del corazón**.</span><video class="paso-vid" src="../assets/media/signos/presion-03.mp4" poster="../assets/media/signos/presion-03.jpg" loop muted playsinline preload="none" aria-label="El brazo apoyado en una mesa; una línea une la mitad del brazalete con la altura del corazón"></video></li>
+<li><span class="paso-txt">Pon el brazalete con el **borde de abajo 2 a 3 centímetros sobre el pliegue del codo**.</span><video class="paso-vid" src="../assets/media/signos/presion-04.mp4" poster="../assets/media/signos/presion-04.jpg" loop muted playsinline preload="none" aria-label="El brazalete queda 2 a 3 centímetros sobre el pliegue del codo"></video></li>
+<li><span class="paso-txt">Ajústalo: entre el brazalete y la piel debe **caber un dedo**.</span><video class="paso-vid" src="../assets/media/signos/presion-05.mp4" poster="../assets/media/signos/presion-05.jpg" loop muted playsinline preload="none" aria-label="Un dedo entra justo entre el brazalete y la piel"></video></li>
+<li><span class="paso-txt">Pídele que **no hable**, que no sostenga el brazo en el aire y que no apriete el puño. Tú tampoco hables.</span><video class="paso-vid" src="../assets/media/signos/presion-06.mp4" poster="../assets/media/signos/presion-06.jpg" loop muted playsinline preload="none" aria-label="La persona y quien la cuida en silencio; el brazo descansa sobre la mesa con la mano abierta y relajada"></video></li>
+<li><span class="paso-txt">**Inicia el aparato y espera** sin tocar el brazalete.</span><video class="paso-vid" src="../assets/media/signos/presion-07.mp4" poster="../assets/media/signos/presion-07.jpg" loop muted playsinline preload="none" aria-label="Un dedo presiona el botón de inicio y el brazalete se infla sin que nadie lo toque"></video></li>
+<li><span class="paso-txt">**Anota en RegisCare** los valores, el brazo, la posición y si había dolor, agitación o un medicamento recién tomado.</span><video class="paso-vid" src="../assets/media/signos/presion-08.mp4" poster="../assets/media/signos/presion-08.jpg" loop muted playsinline preload="none" aria-label="Un dedo completa en el teléfono los valores, el brazo, la posición y las observaciones"></video></li>
 </ol>
 
 ## Pulso y saturación de oxígeno
@@ -58,22 +61,22 @@ Mide siempre **en el mismo brazo y en la misma posición**, para que los valores
 El saturómetro muestra dos números: la saturación de oxígeno y el pulso.
 
 <ol class="pasos">
-<li><span class="paso-txt">Elige un dedo con la **uña corta y limpia, sin esmalte ni uña postiza**.</span></li>
-<li><span class="paso-txt">La mano debe estar **tibia**. Si está fría, frótala o abrígala unos minutos.</span></li>
-<li><span class="paso-txt">Pon el saturómetro y deja la mano **quieta y apoyada, a la altura del corazón**. Evita que le dé una luz fuerte directa.</span></li>
-<li><span class="paso-txt">**Espera 30 a 60 segundos**, hasta que la señal se estabilice. Recién entonces lee.</span></li>
-<li><span class="paso-txt">**Anota en RegisCare** la saturación y el pulso, y si la persona respira aire ambiente o usa oxígeno (con qué dispositivo y a qué flujo).</span></li>
+<li><span class="paso-txt">Elige un dedo con la **uña corta y limpia, sin esmalte ni uña postiza**.</span><video class="paso-vid" src="../assets/media/signos/satu-01.mp4" poster="../assets/media/signos/satu-01.jpg" loop muted playsinline preload="none" aria-label="Una mano con las uñas cortas, limpias y sin esmalte; se elige un dedo"></video></li>
+<li><span class="paso-txt">La mano debe estar **tibia**. Si está fría, frótala o abrígala unos minutos.</span><video class="paso-vid" src="../assets/media/signos/satu-02.mp4" poster="../assets/media/signos/satu-02.jpg" loop muted playsinline preload="none" aria-label="Dos manos se frotan y luego una manta abriga la mano"></video></li>
+<li><span class="paso-txt">Pon el saturómetro y deja la mano **quieta y apoyada, a la altura del corazón**. Evita que le dé una luz fuerte directa.</span><video class="paso-vid" src="../assets/media/signos/satu-03.mp4" poster="../assets/media/signos/satu-03.jpg" loop muted playsinline preload="none" aria-label="El saturómetro en el dedo, con la mano quieta y apoyada sobre el pecho; la lámpara se aleja"></video></li>
+<li><span class="paso-txt">**Espera 30 a 60 segundos**, hasta que la señal se estabilice. Recién entonces lee.</span><video class="paso-vid" src="../assets/media/signos/satu-04.mp4" poster="../assets/media/signos/satu-04.jpg" loop muted playsinline preload="none" aria-label="Un reloj avanza mientras el indicador de señal del saturómetro se vuelve constante"></video></li>
+<li><span class="paso-txt">**Anota en RegisCare** la saturación y el pulso, y si la persona respira aire ambiente o usa oxígeno (con qué dispositivo y a qué flujo).</span><video class="paso-vid" src="../assets/media/signos/satu-05.mp4" poster="../assets/media/signos/satu-05.jpg" loop muted playsinline preload="none" aria-label="Un dedo completa en el teléfono la saturación, el pulso y si usa oxígeno"></video></li>
 </ol>
 
 ## Temperatura en la axila
 
 <ol class="pasos">
-<li><span class="paso-txt">**Espera 15 a 30 minutos** si la persona acaba de bañarse, de comer o beber algo caliente o frío, o si le pusieron calor o frío en una zona del cuerpo.</span></li>
-<li><span class="paso-txt">**Seca la axila** con una toalla o una gasa.</span></li>
-<li><span class="paso-txt">Enciende el termómetro y pon la punta **en el centro de la axila**, tocando directamente la piel.</span></li>
-<li><span class="paso-txt">**Cruza el brazo de la persona sobre el pecho**, pegado al cuerpo, para cerrar la axila. Mantenlo así hasta que suene.</span></li>
-<li><span class="paso-txt">Cuando suene, **retíralo y lee**. Anota el valor en RegisCare, indicando que es de axila.</span></li>
-<li><span class="paso-txt">**Limpia el termómetro con alcohol al 70 %** después de cada uso. Es de uso exclusivo de la persona.</span></li>
+<li><span class="paso-txt">**Espera 15 a 30 minutos** si la persona acaba de bañarse, de comer o beber algo caliente o frío, o si le pusieron calor o frío en una zona del cuerpo.</span><video class="paso-vid" src="../assets/media/signos/temp-01.mp4" poster="../assets/media/signos/temp-01.jpg" loop muted playsinline preload="none" aria-label="Un reloj avanza junto a una ducha, una taza humeante y un guatero"></video></li>
+<li><span class="paso-txt">**Seca la axila** con una toalla o una gasa.</span><video class="paso-vid" src="../assets/media/signos/temp-02.mp4" poster="../assets/media/signos/temp-02.jpg" loop muted playsinline preload="none" aria-label="Una toalla seca la axila"></video></li>
+<li><span class="paso-txt">Enciende el termómetro y pon la punta **en el centro de la axila**, tocando directamente la piel.</span><video class="paso-vid" src="../assets/media/signos/temp-03.mp4" poster="../assets/media/signos/temp-03.jpg" loop muted playsinline preload="none" aria-label="La punta del termómetro digital entra al centro de la axila, sobre la piel"></video></li>
+<li><span class="paso-txt">**Cruza el brazo de la persona sobre el pecho**, pegado al cuerpo, para cerrar la axila. Mantenlo así hasta que suene.</span><video class="paso-vid" src="../assets/media/signos/temp-04.mp4" poster="../assets/media/signos/temp-04.jpg" loop muted playsinline preload="none" aria-label="El brazo baja y se cruza sobre el pecho para cerrar la axila; el termómetro suena"></video></li>
+<li><span class="paso-txt">Cuando suene, **retíralo y lee**. Anota el valor en RegisCare, indicando que es de axila.</span><video class="paso-vid" src="../assets/media/signos/temp-05.mp4" poster="../assets/media/signos/temp-05.jpg" loop muted playsinline preload="none" aria-label="Se lee el termómetro y en el teléfono se anota el valor y que es de axila"></video></li>
+<li><span class="paso-txt">**Limpia el termómetro con alcohol al 70 %** después de cada uso. Es de uso exclusivo de la persona.</span><video class="paso-vid" src="../assets/media/signos/temp-06.mp4" poster="../assets/media/signos/temp-06.jpg" loop muted playsinline preload="none" aria-label="Un algodón con alcohol limpia el termómetro"></video></li>
 </ol>
 
 ## Dolor
@@ -81,11 +84,11 @@ El saturómetro muestra dos números: la saturación de oxígeno y el pulso.
 Pregunta por el dolor en cada control, cada vez que la persona se queje y cuando la veas adolorida aunque no lo diga.
 
 <ol class="pasos">
-<li><span class="paso-txt">Pídele un **número de 0 a 10**: 0 es «sin dolor» y 10 es «el peor dolor imaginable».</span></li>
-<li><span class="paso-txt">Pregúntalo **en reposo y en movimiento**.</span></li>
-<li><span class="paso-txt">Pregunta **dónde** le duele y **cómo** es el dolor: como pinchazo, como presión, como ardor, como retorcijón.</span></li>
-<li><span class="paso-txt">Pregunta **qué lo cambia**: qué lo alivia y qué lo aumenta.</span></li>
-<li><span class="paso-txt">**Anota en RegisCare** el número, dónde duele y cómo es.</span></li>
+<li><span class="paso-txt">Pídele un **número de 0 a 10**: 0 es «sin dolor» y 10 es «el peor dolor imaginable».</span><video class="paso-vid" src="../assets/media/signos/dolor-01.mp4" poster="../assets/media/signos/dolor-01.jpg" loop muted playsinline preload="none" aria-label="Una regla de 0 a 10, de sin dolor al peor dolor imaginable, con un marcador que se desliza"></video></li>
+<li><span class="paso-txt">Pregúntalo **en reposo y en movimiento**.</span><video class="paso-vid" src="../assets/media/signos/dolor-02.mp4" poster="../assets/media/signos/dolor-02.jpg" loop muted playsinline preload="none" aria-label="Se le pregunta a la persona por el dolor cuando está quieta y cuando se mueve"></video></li>
+<li><span class="paso-txt">Pregunta **dónde** le duele y **cómo** es el dolor: como pinchazo, como presión, como ardor, como retorcijón.</span><video class="paso-vid" src="../assets/media/signos/dolor-03.mp4" poster="../assets/media/signos/dolor-03.jpg" loop muted playsinline preload="none" aria-label="La persona señala dónde le duele; cuatro íconos: pinchazo, presión, ardor y retorcijón"></video></li>
+<li><span class="paso-txt">Pregunta **qué lo cambia**: qué lo alivia y qué lo aumenta.</span><video class="paso-vid" src="../assets/media/signos/dolor-04.mp4" poster="../assets/media/signos/dolor-04.jpg" loop muted playsinline preload="none" aria-label="Junto a la persona, una flecha hacia abajo y otra hacia arriba: qué alivia el dolor y qué lo aumenta"></video></li>
+<li><span class="paso-txt">**Anota en RegisCare** el número, dónde duele y cómo es.</span><video class="paso-vid" src="../assets/media/signos/dolor-05.mp4" poster="../assets/media/signos/dolor-05.jpg" loop muted playsinline preload="none" aria-label="Un dedo completa en el teléfono el número, dónde duele y cómo es el dolor"></video></li>
 </ol>
 
 De 1 a 3 es un dolor leve; de 4 a 6, moderado; de 7 a 10, severo.
@@ -143,6 +146,102 @@ Después, avisa a tu equipo.
 :::
 
 Ante una duda siempre puedes llamar a tu equipo. Para orientación que no es urgente, también está **Salud Responde: 600 360 7777**.
+
+```{=html}
+<!-- Interactivo propio del módulo signos-vitales-1: «¿131, repetir o avisar?». Todas las situaciones y respuestas salen del texto del módulo.
+     Sin red ni almacenamiento. Clases e identificadores con prefijo sv1-. -->
+<style>
+.sv1-caja { background: #fff; border: 1px solid rgba(30,41,59,.12); border-radius: 14px; padding: 1.1rem 1.1rem 1.2rem; margin: 1.6rem 0; }
+.sv1-caja h3 { font: 800 1.35rem/1.2 "Playfair Display", Georgia, serif; color: #000080; margin: .1rem 0 .3rem; border: 0; }
+.sv1-intro { margin: 0 0 .9rem; color: #5A6678; font-size: .98rem; }
+.sv1-avance { display: flex; align-items: center; gap: .7rem; font: 600 .82rem/1 "DM Sans", Arial, sans-serif; letter-spacing: .08em; text-transform: uppercase; color: #1F6475; margin-bottom: .7rem; }
+.sv1-barra { flex: 1; height: 8px; border-radius: 8px; background: #EAF4F5; overflow: hidden; }
+.sv1-barra i { display: block; height: 100%; width: 0; background: linear-gradient(90deg, #247184, #5BB9C2); }
+.sv1-sit { font: 800 1.3rem/1.3 "Playfair Display", Georgia, serif; color: #000080; min-height: 3.4em; margin: 0 0 .9rem; }
+.sv1-ops { display: grid; gap: .6rem; }
+.sv1-ops[hidden], .sv1-sig[hidden] { display: none; }
+.sv1-ops button, .sv1-sig { font: 600 1.05rem/1.25 "DM Sans", Arial, sans-serif; min-height: 3.2rem; padding: .7rem 1rem; border-radius: 12px; cursor: pointer; text-align: left; width: 100%; }
+.sv1-ops button { background: #F3F4FA; color: #000080; border: 2px solid #000080; }
+.sv1-ops button:disabled { cursor: default; opacity: .55; }
+.sv1-ops button.sv1-era { opacity: 1; background: #EAF4F5; border-color: #247184; color: #1F6475; }
+.sv1-ops button.sv1-era::after { content: "  ✓"; }
+.sv1-ops button.sv1-elegida:not(.sv1-era) { opacity: 1; background: #FFF1E2; border-color: #F68B1F; color: #1E293B; }
+.sv1-ops button:focus-visible, .sv1-sig:focus-visible { outline: 3px solid #F68B1F; outline-offset: 2px; }
+.sv1-resp { margin-top: .8rem; padding: .7rem .9rem; border-radius: 10px; font-size: 1rem; }
+.sv1-resp.sv1-ok { background: #EAF4F5; border-left: 6px solid #247184; }
+.sv1-resp.sv1-no { background: #FFF1E2; border-left: 6px solid #F68B1F; }
+.sv1-sig { margin-top: .8rem; background: #000080; color: #fff; border: 0; text-align: center; }
+.sv1-fin { font: 800 1.4rem/1.3 "Playfair Display", Georgia, serif; color: #000080; margin: .4rem 0 .5rem; }
+.sv1-nota { margin: .9rem 0 0; font-size: .9rem; color: #5A6678; }
+@media (min-width: 700px) { .sv1-ops { grid-template-columns: repeat(3, 1fr); } .sv1-ops button { text-align: center; } }
+@media print { .sv1-caja { display: none; } }
+</style>
+<div class="sv1-caja" id="sv1-juego">
+<h3>Practica: ¿131, repetir o avisar?</h3>
+<p class="sv1-intro">Lee cada situación y elige qué haces primero. Son las mismas situaciones de este módulo.</p>
+<div class="sv1-avance"><span id="sv1-num">Situación 1 de 10</span><span class="sv1-barra"><i id="sv1-prog"></i></span></div>
+<p class="sv1-sit" id="sv1-sit" aria-live="polite"></p>
+<div class="sv1-ops" id="sv1-ops">
+<button type="button" data-sv1="131">Llamo al 131</button>
+<button type="button" data-sv1="rep">Repito la medición</button>
+<button type="button" data-sv1="eq">Aviso a mi equipo</button>
+</div>
+<div id="sv1-resp" role="status"></div>
+<button type="button" class="sv1-sig" id="sv1-sig" hidden>Siguiente</button>
+<p class="sv1-nota">ProSalCare no es un servicio de urgencia: si la persona está en riesgo, primero el 131 o un servicio de urgencia; después avisas a tu equipo.</p>
+<noscript><p>Esta práctica necesita JavaScript. Las respuestas están en las secciones «Qué hacer si…» y «Cuándo avisar a tu equipo de ProSalCare».</p></noscript>
+</div>
+<script>
+(function () {
+  var NOM = { "131": "Llamo al 131", rep: "Repito la medición", eq: "Aviso a mi equipo" };
+  var SIT = [
+    ["La persona no responde.", "131", "Llama al 131 directamente. Después, avisa a tu equipo."],
+    ["Un valor sale fuera de los límites que te enseñaron. La persona está despierta y conversa contigo.", "rep", "Primero repite la medición, con la persona en reposo, después de la espera que indica la tabla «Qué hacer si…». Si sigue fuera, avisa a tu equipo."],
+    ["Repetiste la medición y el valor sigue fuera de los límites que te enseñaron.", "eq", "Si sigue fuera después de repetir, avisa a tu equipo."],
+    ["La persona habló y movió el brazo mientras el aparato medía.", "rep", "Repite la medición corrigiendo la técnica, antes de anotarla."],
+    ["La persona tiene un dolor de pecho intenso.", "131", "Llama al 131 directamente. Después, avisa a tu equipo."],
+    ["La saturación sale baja y no lo esperabas.", "rep", "Cambia de dedo, calienta la mano, acomoda de nuevo el saturómetro y repite antes de darla por válida."],
+    ["La persona tiene un dolor nuevo, o un dolor que va en aumento.", "eq", "Un dolor nuevo o que va en aumento se avisa al equipo."],
+    ["Sospechas una intoxicación por monóxido de carbono.", "131", "No te fíes del saturómetro: en ese caso marca más de lo real. Llama al 131."],
+    ["El brazalete le deja moretones o dolor en el brazo.", "eq", "Avisa a tu equipo."],
+    ["La persona no respira.", "131", "Llama al 131 directamente. Después, avisa a tu equipo."]
+  ];
+  var caja = document.getElementById("sv1-juego"); if (!caja) return;
+  var $ = function (id) { return document.getElementById(id); };
+  var ops = $("sv1-ops"), bts = ops.querySelectorAll("button"), sig = $("sv1-sig"), i = 0, bien = 0;
+  function muestra() {
+    $("sv1-num").textContent = "Situación " + (i + 1) + " de " + SIT.length;
+    $("sv1-prog").style.width = (100 * i / SIT.length) + "%";
+    $("sv1-sit").textContent = SIT[i][0];
+    $("sv1-resp").className = ""; $("sv1-resp").textContent = "";
+    for (var k = 0; k < bts.length; k++) { bts[k].disabled = false; bts[k].className = ""; }
+    ops.hidden = false; sig.hidden = true;
+  }
+  function elige(ev) {
+    var b = ev.currentTarget, ok = b.getAttribute("data-sv1") === SIT[i][1];
+    if (ok) bien++;
+    for (var k = 0; k < bts.length; k++) { bts[k].disabled = true; if (bts[k].getAttribute("data-sv1") === SIT[i][1]) bts[k].className = "sv1-era"; }
+    b.className += " sv1-elegida";
+    var r = $("sv1-resp"); r.className = "sv1-resp " + (ok ? "sv1-ok" : "sv1-no");
+    r.textContent = (ok ? "Correcto. " : "La respuesta es «" + NOM[SIT[i][1]] + "». ") + SIT[i][2];
+    sig.textContent = i + 1 < SIT.length ? "Siguiente" : "Ver resultado"; sig.hidden = false; sig.focus();
+  }
+  function sigue() {
+    if (i === -1) { i = 0; bien = 0; muestra(); return; }
+    i++;
+    if (i < SIT.length) { muestra(); return; }
+    $("sv1-num").textContent = "Resultado"; $("sv1-prog").style.width = "100%";
+    $("sv1-sit").textContent = "Acertaste " + bien + " de " + SIT.length + ".";
+    var r = $("sv1-resp"); r.className = "sv1-resp sv1-ok";
+    r.textContent = bien === SIT.length ? "Tienes claro qué hacer primero en cada caso." : "Repasa «Qué hacer si…» y «Cuándo avisar a tu equipo de ProSalCare», y vuelve a intentarlo.";
+    ops.hidden = true; sig.textContent = "Empezar de nuevo"; i = -1;
+  }
+  for (var k = 0; k < bts.length; k++) bts[k].addEventListener("click", elige);
+  sig.addEventListener("click", sigue);
+  muestra();
+})();
+</script>
+```
 
 ## Comprueba lo que aprendiste
 

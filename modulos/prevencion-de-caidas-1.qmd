@@ -14,9 +14,10 @@ subtitle: "La casa, el calzado y cómo ayudar a levantarse y caminar"
 - Si se cae, **no la levantes de inmediato**. Ante una **emergencia, llama al 131**. ProSalCare no es un servicio de urgencia.
 :::
 
-::: {.box .pendiente}
-Aquí irá el video del módulo (2 a 3 minutos). Todavía no está producido.
-:::
+<video class="modulo-vid" controls playsinline preload="metadata" poster="../assets/media/caidas/video-modulo.jpg">
+<source src="../assets/media/caidas/video-modulo.mp4" type="video/mp4">
+<track kind="subtitles" srclang="es" label="Español" src="../assets/media/caidas/video-modulo.vtt" default>
+</video>
 
 Este módulo tiene una segunda parte: [Si la persona se cae](prevencion-de-caidas-2.qmd).
 
@@ -47,6 +48,20 @@ Los cambios en la casa se acuerdan entre tu familia y tu equipo. Nadie modifica 
 | **Muebles** | Sillas estables y con apoyabrazos. Los muebles inestables, fuera del trayecto. Sus objetos personales, siempre al alcance |
 | **Calzado y ropa** | Calzado cerrado con suela de goma, dentro y fuera de la casa. Ropa de dormir que no arrastre |
 
+```{=html}
+<style>
+.caidas1-casa { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: .7rem; margin: 1rem 0 1.4rem; }
+.caidas1-casa figure { margin: 0; background: #fff; border: 1px solid rgba(30,41,59,.12); border-radius: 14px; padding: .6rem .6rem .7rem; }
+.caidas1-casa .paso-vid { width: 100%; margin-top: 0; }
+.caidas1-casa figcaption { font: 700 1rem/1.3 "DM Sans", Arial, sans-serif; color: #000080; text-align: center; margin-top: .4rem; }
+</style>
+<div class="caidas1-casa">
+<figure><video class="paso-vid" src="../assets/media/caidas/casa-01.mp4" poster="../assets/media/caidas/casa-01.jpg" loop muted playsinline preload="none" aria-label="Una cama articulada baja a su posición más baja y se ponen los frenos de las ruedas; la cabecera queda levemente inclinada"></video><figcaption>Cama</figcaption></figure>
+<figure><video class="paso-vid" src="../assets/media/caidas/casa-04.mp4" poster="../assets/media/caidas/casa-04.jpg" loop muted playsinline preload="none" aria-label="Un baño con barras junto al inodoro y en la ducha, alfombrilla antideslizante, alza de inodoro, silla de ducha y puerta que abre hacia afuera"></video><figcaption>Baño</figcaption></figure>
+<figure><video class="paso-vid" src="../assets/media/caidas/casa-07.mp4" poster="../assets/media/caidas/casa-07.jpg" loop muted playsinline preload="none" aria-label="Un zapato cerrado con suela de goma, marcado como correcto; pantufla suelta, sandalia, zapato sin talón y media sola, marcados con una equis"></video><figcaption>Calzado y ropa</figcaption></figure>
+</div>
+```
+
 ## Antes de ayudarla a levantarse
 
 - Confirma que levantarse y caminar es **lo que indicó tu equipo** para ella.
@@ -58,15 +73,15 @@ Los cambios en la casa se acuerdan entre tu familia y tu equipo. Nadie modifica 
 ## Ayudarla a levantarse y caminar
 
 <ol class="pasos">
-<li><span class="paso-txt">**Siéntala al borde de la cama**, con los pies apoyados en el suelo.</span></li>
-<li><span class="paso-txt">**Espera 5 minutos** así, sentada, antes de ponerla de pie.</span></li>
-<li><span class="paso-txt">**Ponle su calzado** cerrado y antideslizante, y deja la **ayuda técnica al alcance**.</span></li>
+<li><span class="paso-txt">**Siéntala al borde de la cama**, con los pies apoyados en el suelo.</span><video class="paso-vid" src="../assets/media/caidas/levantar-01.mp4" poster="../assets/media/caidas/levantar-01.jpg" loop muted playsinline preload="none" aria-label="La persona pasa de acostada a sentada al borde de la cama, con los pies apoyados en el suelo"></video></li>
+<li><span class="paso-txt">**Espera 5 minutos** así, sentada, antes de ponerla de pie.</span><video class="paso-vid" src="../assets/media/caidas/levantar-02.mp4" poster="../assets/media/caidas/levantar-02.jpg" loop muted playsinline preload="none" aria-label="La persona espera sentada al borde de la cama, con quien la cuida a su lado y un reloj de arena"></video></li>
+<li><span class="paso-txt">**Ponle su calzado** cerrado y antideslizante, y deja la **ayuda técnica al alcance**.</span><video class="paso-vid" src="../assets/media/caidas/levantar-03.mp4" poster="../assets/media/caidas/levantar-03.jpg" loop muted playsinline preload="none" aria-label="Una mano le pone un zapato cerrado con suela de goma; después deja un bastón apoyado a su alcance"></video></li>
 <li><span class="paso-txt">Si corresponde usar **cinturón de transferencia**, pónselo.</span></li>
-<li><span class="paso-txt">**Nunca tires** de su ropa, de sus axilas ni de sus muñecas.</span></li>
-<li><span class="paso-txt">Ayúdala a ponerse de pie con un movimiento **lento y coordinado**. Ella mantiene el control de su postura.</span></li>
-<li><span class="paso-txt">Caminen despacio, **contando los pasos en voz alta**.</span></li>
-<li><span class="paso-txt">**No la pierdas de vista** mientras camina.</span></li>
-<li><span class="paso-txt">Ante cualquier inestabilidad, **detente y siéntala** en un lugar seguro.</span></li>
+<li><span class="paso-txt">**Nunca tires** de su ropa, de sus axilas ni de sus muñecas.</span><video class="paso-vid" src="../assets/media/caidas/levantar-05.mp4" poster="../assets/media/caidas/levantar-05.jpg" loop muted playsinline preload="none" aria-label="Tres gestos marcados con una equis: tirar de la ropa, levantar por las axilas y tirar de la muñeca"></video></li>
+<li><span class="paso-txt">Ayúdala a ponerse de pie con un movimiento **lento y coordinado**. Ella mantiene el control de su postura.</span><video class="paso-vid" src="../assets/media/caidas/levantar-06.mp4" poster="../assets/media/caidas/levantar-06.jpg" loop muted playsinline preload="none" aria-label="La persona se pone de pie lentamente, apoyada en su bastón, con quien la cuida frente a ella"></video></li>
+<li><span class="paso-txt">Caminen despacio, **contando los pasos en voz alta**.</span><video class="paso-vid" src="../assets/media/caidas/levantar-07.mp4" poster="../assets/media/caidas/levantar-07.jpg" loop muted playsinline preload="none" aria-label="Caminan despacio; quien la cuida cuenta en voz alta: uno, dos, tres"></video></li>
+<li><span class="paso-txt">**No la pierdas de vista** mientras camina.</span><video class="paso-vid" src="../assets/media/caidas/levantar-08.mp4" poster="../assets/media/caidas/levantar-08.jpg" loop muted playsinline preload="none" aria-label="Quien la cuida camina a su lado sin dejar de mirarla"></video></li>
+<li><span class="paso-txt">Ante cualquier inestabilidad, **detente y siéntala** en un lugar seguro.</span><video class="paso-vid" src="../assets/media/caidas/levantar-09.mp4" poster="../assets/media/caidas/levantar-09.jpg" loop muted playsinline preload="none" aria-label="La persona se marea; se detienen y ella se sienta en una silla estable con apoyabrazos"></video></li>
 </ol>
 
 ## Si pasa esto, haz esto
@@ -85,11 +100,13 @@ Los cambios en la casa se acuerdan entre tu familia y tu equipo. Nadie modifica 
 
 Es una revisión de cinco cosas. La TENS la hace una vez en cada turno. **Entre un turno y otro, la haces tú** y la registras en RegisCare, en tu vista de cuidador.
 
-1. **Cosas al alcance:** timbre, agua y lentes.
-2. **Baño:** si necesita ir.
-3. **Comodidad:** si está cómoda y en buena posición.
-4. **Dolor:** si le duele algo.
-5. **Entorno seguro:** que todo a su alrededor esté como en la tabla de la casa.
+<ol class="pasos">
+<li><span class="paso-txt">**Cosas al alcance:** timbre, agua y lentes.</span><video class="paso-vid" src="../assets/media/caidas/ronda-01.mp4" poster="../assets/media/caidas/ronda-01.jpg" loop muted playsinline preload="none" aria-label="Una mano alcanza sin esfuerzo el timbre, el vaso de agua y los lentes sobre el velador"></video></li>
+<li><span class="paso-txt">**Baño:** si necesita ir.</span><video class="paso-vid" src="../assets/media/caidas/ronda-02.mp4" poster="../assets/media/caidas/ronda-02.jpg" loop muted playsinline preload="none" aria-label="Quien cuida le pregunta si necesita ir al baño"></video></li>
+<li><span class="paso-txt">**Comodidad:** si está cómoda y en buena posición.</span><video class="paso-vid" src="../assets/media/caidas/ronda-03.mp4" poster="../assets/media/caidas/ronda-03.jpg" loop muted playsinline preload="none" aria-label="Una mano acomoda la almohada y la persona queda cómoda en la cama"></video></li>
+<li><span class="paso-txt">**Dolor:** si le duele algo.</span><video class="paso-vid" src="../assets/media/caidas/ronda-04.mp4" poster="../assets/media/caidas/ronda-04.jpg" loop muted playsinline preload="none" aria-label="Le preguntan a la persona si le duele algo"></video></li>
+<li><span class="paso-txt">**Entorno seguro:** que todo a su alrededor esté como en la tabla de la casa.</span><video class="paso-vid" src="../assets/media/caidas/ronda-05.mp4" poster="../assets/media/caidas/ronda-05.jpg" loop muted playsinline preload="none" aria-label="Se revisa el entorno: piso despejado, frenos puestos y luz; después se marca la ronda en el teléfono"></video></li>
+</ol>
 
 **Vigilancia activa** quiere decir tenerla a la vista y al oído, sin cortinas ni separadores de por medio.
 
@@ -133,6 +150,96 @@ La actividad física ayuda a prevenir caídas: ejercicios de **fuerza, equilibri
 - **Camina distinto:** tropieza, arrastra los pies o está débil al pararse.
 - Le **cambiaron hace poco los medicamentos** y la notas alterada.
 :::
+
+```{=html}
+<style>
+.caidas1-juego { background: #fff; border: 1px solid rgba(30,41,59,.12); border-radius: 14px; padding: 1.1rem 1.1rem 1.2rem; margin: 1.4rem 0; }
+.caidas1-juego h3 { font: 800 1.35rem/1.2 "Playfair Display", Georgia, serif; color: #000080; margin: 0 0 .3rem; }
+.caidas1-juego .caidas1-intro { margin: 0 0 .8rem; }
+.caidas1-juego .caidas1-cuenta { font: 700 .85rem "DM Sans", Arial, sans-serif; letter-spacing: .06em; text-transform: uppercase; color: #247184; }
+.caidas1-juego .caidas1-senal { font: 700 1.2rem/1.3 "DM Sans", Arial, sans-serif; color: #1E293B; background: #F3FAFB; border: 2px solid #5BB9C2; border-radius: 12px; padding: .9rem 1rem; margin: .4rem 0 .8rem; min-height: 5.2em; display: flex; align-items: center; }
+.caidas1-juego .caidas1-botones { display: grid; grid-template-columns: 1fr 1fr; gap: .6rem; }
+.caidas1-juego button { font: 700 1rem/1.2 "DM Sans", Arial, sans-serif; min-height: 3.4rem; border-radius: 12px; padding: .6rem .5rem; cursor: pointer; border: 2px solid #000080; background: #000080; color: #fff; }
+.caidas1-juego button.caidas1-b { background: #fff; color: #000080; }
+.caidas1-juego button:focus-visible { outline: 3px solid #F68B1F; outline-offset: 2px; }
+.caidas1-juego button[disabled] { opacity: .45; cursor: default; }
+.caidas1-juego .caidas1-resp { margin-top: .8rem; padding: .7rem .9rem; border-radius: 10px; }
+.caidas1-juego .caidas1-resp.caidas1-ok { background: #EAF4F5; border-left: 6px solid #247184; }
+.caidas1-juego .caidas1-resp.caidas1-no { background: #FFF1E2; border-left: 6px solid #F68B1F; }
+.caidas1-juego .caidas1-sig { margin-top: .8rem; width: 100%; }
+.caidas1-juego .caidas1-nota { font-size: .92rem; margin: .9rem 0 0; }
+@media print { .caidas1-juego { display: none; } }
+</style>
+<div class="caidas1-juego" id="caidas1-juego">
+<h3>Practica: ¿llamas al 131 o avisas a tu equipo?</h3>
+<p class="caidas1-intro">Lee cada señal y elige. Son las mismas de las dos listas de arriba.</p>
+<div class="caidas1-cuenta" id="caidas1-cuenta"></div>
+<div class="caidas1-senal" id="caidas1-senal"></div>
+<div class="caidas1-botones">
+<button type="button" id="caidas1-b131">Llamo al 131</button>
+<button type="button" class="caidas1-b" id="caidas1-bav">Aviso a mi equipo</button>
+</div>
+<div class="caidas1-resp" id="caidas1-resp" aria-live="polite" hidden></div>
+<button type="button" class="caidas1-sig" id="caidas1-sig" hidden>Siguiente</button>
+<p class="caidas1-nota">ProSalCare no es un servicio de urgencia. Si la persona está en riesgo, llama al 131 o llévala a un servicio de urgencia.</p>
+</div>
+<script>
+(function () {
+  var caidas1Senales = [
+    ["Golpe en la cabeza o pérdida de conocimiento, aunque sea breve", 1],
+    ["Desmayo", 1],
+    ["Vómitos, dolor de cabeza intenso, sueño inusual, confusión nueva o no recuerda lo que pasó", 1],
+    ["No puede mover un brazo o una pierna, o tiene deformidad, hinchazón rápida o un moretón grande", 1],
+    ["Sangrado abundante o herida profunda", 1],
+    ["Dolor en el pecho, dificultad para respirar o palpitaciones nuevas", 1],
+    ["Hubo una caída, la hayas visto o no, y la persona parece estar bien", 0],
+    ["Tiene mareo", 0],
+    ["Camina distinto: tropieza, arrastra los pies o está débil al pararse", 0],
+    ["Le cambiaron hace poco los medicamentos y la notas alterada", 0]
+  ];
+  var el = function (id) { return document.getElementById(id); };
+  var caja = el("caidas1-juego"); if (!caja) return;
+  var cuenta = el("caidas1-cuenta"), senal = el("caidas1-senal"), b131 = el("caidas1-b131"), bav = el("caidas1-bav"), resp = el("caidas1-resp"), sig = el("caidas1-sig");
+  var orden = [], i = 0, buenas = 0;
+  function mezclar() {
+    orden = caidas1Senales.slice();
+    for (var k = orden.length - 1; k > 0; k--) { var j = Math.floor(Math.random() * (k + 1)), t = orden[k]; orden[k] = orden[j]; orden[j] = t; }
+    i = 0; buenas = 0;
+  }
+  function mostrar() {
+    cuenta.textContent = "Señal " + (i + 1) + " de " + orden.length;
+    senal.textContent = orden[i][0];
+    b131.disabled = bav.disabled = false; b131.hidden = bav.hidden = false;
+    resp.hidden = true; sig.hidden = true; sig.textContent = i === orden.length - 1 ? "Ver resultado" : "Siguiente";
+  }
+  function responder(es131) {
+    var corresponde131 = orden[i][1] === 1, bien = es131 === corresponde131;
+    if (bien) buenas++;
+    b131.disabled = bav.disabled = true;
+    resp.hidden = false; resp.className = "caidas1-resp " + (bien ? "caidas1-ok" : "caidas1-no");
+    resp.textContent = corresponde131
+      ? (bien ? "Correcto. " : "Todavía no. ") + "Con esta señal, llama al 131. Después, avisa a tu equipo."
+      : (bien ? "Correcto. Con esta señal, avisa a tu equipo. " : "En este módulo, esta señal es para avisar a tu equipo. ") + "Si además aparece alguna señal de la lista del 131, o la persona está en riesgo, llama al 131.";
+    sig.hidden = false; sig.focus();
+  }
+  function fin() {
+    cuenta.textContent = "Resultado";
+    senal.textContent = "Acertaste " + buenas + " de " + orden.length + ".";
+    b131.hidden = bav.hidden = true;
+    resp.hidden = false; resp.className = "caidas1-resp caidas1-ok";
+    resp.textContent = "Recuerda: primero el 131 o un servicio de urgencia; el aviso a tu equipo va después.";
+    sig.hidden = false; sig.textContent = "Repetir";
+  }
+  b131.addEventListener("click", function () { responder(true); });
+  bav.addEventListener("click", function () { responder(false); });
+  sig.addEventListener("click", function () {
+    if (sig.textContent === "Repetir") { mezclar(); mostrar(); return; }
+    i++; if (i >= orden.length) fin(); else mostrar();
+  });
+  mezclar(); mostrar();
+})();
+</script>
+```
 
 ## Comprueba lo que aprendiste
 
